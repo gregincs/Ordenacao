@@ -1,0 +1,10 @@
+olhar classes:
+
+quering.parser.Query
+quering.parser.SingleTermQuery
+quering.parser.MultiTermQuery
+
+de acordo com evidencias, o que parece:
+o objeto query é construido porém não destruido nem zerado quando possui mais de um termo
+a classe SingleTermQuery destroi, refaz ou zera este obbjeto de alguma forma
+a classe MultiTermQuery insere os termos individuais em uma consulta dentro de um array tipo query, porém esses termos viram objetos e "deveriam" ser tratados na SingleTermQuery, no entanto como esse objeto não é zerado, refeito ou destruido, é evidente que não é tratado igual.

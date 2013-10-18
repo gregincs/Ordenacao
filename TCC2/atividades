@@ -1,0 +1,8 @@
+1 - identificar e modelar perfis das 4 engenharias da fga.
+2 - selecionar algoritmos que permitam a implementação dos modelos de perfis identificados.
+3 - identificar possíveis implementações ou frameworks dos algoritmos selecionados.
+	3.1 - implementar algoritmos selecionados.
+4 - testes
+	4.1 - identificar o melhor formato de teste
+	4.2 - adaptar os testes identificados as implementações dos algoritmos com perfis
+5 - análise de resultados

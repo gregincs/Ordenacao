@@ -1,0 +1,46 @@
+HAdoop
+vantagens: 
+-arquivos particionados em grandes blocos e distribuidos nos nós do sistema
+desvantagens:
+existe um ponto único de falha, pois se o namenode falhar os arquivos do hadoop ficam off-line
+arquitetura:
+
+características:
+- código livre em java
+- manipulação de dados em larga escada
+- realiza o tratamento das possíveis falhas de hardware ao replicar dados
+-blocos de 64mb para a divisão de dados
+
+GFS
+vantagens: 
+- desempenho
+desvantagens:
+-arquivos divididos em 64mb diminuindo a 
+arquitetura:
+
+características:
+-sistema de arquivos distribuido propretario, projetado para fornecer acesso eficiente e confiável aos dados
+
+s3
+vantagens: 
+-escalabilidade 
+-diponibilidade
+-balanceamento de carga
+desvantagens:
+-particionamento
+-alta disponibilidade da escrita
+-manipulação de falhas temporarias
+arquitetura:
+
+características:
+-hashing consistente
+-detecção de falha e protocolo baseado em mimbros
+
+azure
+vantagens: 
+
+desvantagens:
+
+arquitetura:
+
+características:

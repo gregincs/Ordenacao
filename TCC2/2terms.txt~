@@ -1,0 +1,37 @@
+na classe MatchingQueryTerms
+
+/** The weight of a query term. This is usually how many times the term occurred
+		  * in the query, but sometime may be altered if a weight has been specified on the
+		  * query term: eg QueryExpansion will do this, as will manually specifying a weight
+		  * on the unparsed query (example <tt>term1 term2^3</tt>). */
+		double weight;
+
+
+
+LINHA 341
+
+/**
+	 * This method normalises the term weights by dividing each term weight
+	 * by the maximum of the terms.
+	 */
+	public void normaliseTermWeights(){
+		// obtain the maximum term weight
+		double maxWeight = 0d;
+		QueryTermProperties[] properties = termProperties.values().toArray(
+					new QueryTermProperties[termProperties.size()]);
+		for (int i = 0; i < properties.length; i++)
+			maxWeight = Math.max(maxWeight, properties[i].weight);
+		// normalise
+		for (int i = 0; i < termProperties.size(); i++)
+			properties[i].weight /= maxWeight;
+	}
+	
+	/**
+	 * This method resets query term statistics to allow for a single instance
+	 * of MatchingQueryTerms to be reused for matching against different indices.
+	 */
+	public void resetTermProperties() {
+		for (QueryTermProperties prop : termProperties.values()) {
+			prop.stats = null;
+		}
+	}

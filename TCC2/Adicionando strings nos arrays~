@@ -1,0 +1,153 @@
+/* melhor termos em ingles
+    public void adicionaTermosMatematica(){
+        matematica.add("abscissa");
+        matematica.add("adição");
+        matematica.add("alfa");
+        matematica.add("algarismo");
+        matematica.add("álgebra linear");
+        matematica.add("algoritmo");
+        matematica.add("alíquota");
+        matematica.add("altura");
+        matematica.add("amosta");
+        matematica.add("amplitude");
+        matematica.add("ângulo");
+        matematica.add("adjacente");
+        matematica.add("agudo");
+        matematica.add("anel");
+        matematica.add("ano");
+        matematica.add("apótema");
+        matematica.add("aproximação");
+        matematica.add("matemática");
+    }
+    
+    public void adicionaTermosFisica(){
+        fisica.add("métodos");
+        fisica.add("matemáticos");
+        fisica.add("física");
+        fisica.add("clássica");
+        fisica.add("quântica");
+        fisica.add("mecânica");
+        fisica.add("campos");
+        fisica.add("relatividdade");
+        fisica.add("gravitação");
+        fisica.add("estatística");
+        fisica.add("termodinâmica");
+        fisica.add("metrologia");
+        fisica.add("eletrecidade");
+        fisica.add("magnetismo");
+        fisica.add("campos");
+        fisica.add("partículas");
+        fisica.add("ótica");
+        fisica.add("acústica");
+        fisica.add("transferência");
+        fisica.add("elasticidade");
+        fisica.add("fluidos");
+    }
+    
+    public void adicionaTermosQuimica(){
+        quimica.add("química");
+        quimica.add("orgânica");
+        quimica.add("fotoquímica");
+        quimica.add("naturais");
+        quimica.add("polímeros");
+        quimica.add("colóides");
+        quimica.add("inorgânica");
+        quimica.add("compostos");
+        quimica.add("cinética");
+        quimica.add("catalise");
+        quimica.add("eletroquímica");
+        quimica.add("espectroscopia");
+        quimica.add("núclear");
+        quimica.add("radioquímica");
+        quimica.add("separação");
+        quimica.add("termodinâmica");
+    }
+    
+    public void adicionaTermosComp(){
+        computacao.add("computação");
+        computacao.add("software");
+        computacao.add("linguagem");
+        computacao.add("algorítmos");
+        computacao.add("programas");
+        computacao.add("técnicas");
+        computacao.add("arquitetura");
+        computacao.add("sistemas");
+        computacao.add("engenharia");
+        computacao.add("dados");
+        computacao.add("banco");
+        computacao.add("informação");
+        computacao.add("processmaneto");
+        computacao.add("processo");
+        computacao.add("desenvolvimento");
+        computacao.add("paradigma");
+    }
+    
+    public void adicionaTermosEngProd(){
+        engProducao.add("gerência");
+        engProducao.add("produção");
+        engProducao.add("planejamento");
+        engProducao.add("instalações");
+        engProducao.add("industria");
+        engProducao.add("operacional");
+        engProducao.add("suprimentos");
+        engProducao.add("linear");
+        engProducao.add("estocásticos");
+        engProducao.add("ergonomia");
+        engProducao.add("produto");
+        engProducao.add("mercado");
+        engProducao.add("mercado");
+    }
+    
+    public void adicionaTermosEngSan(){
+        engSanitaria.add("recursos");
+        engSanitaria.add("hídricos");  
+        engSanitaria.add("sanitários");
+        engSanitaria.add("segurança");
+        engSanitaria.add("trabalho");
+        engSanitaria.add("tratamento");
+        engSanitaria.add("águas");
+        engSanitaria.add("ambiental");
+        engSanitaria.add("resíduos");
+        engSanitaria.add("radioativos");
+        engSanitaria.add("saneamento");
+        engSanitaria.add("drenagem");
+        engSanitaria.add("ecologia");
+        engSanitaria.add("poluição");
+        engSanitaria.add("sustentabilidade");
+        engSanitaria.add("qualidade");
+    }
+    
+    public void adicionaTermosEngMec(){
+        engMecanica.add("fenômenos");
+        engMecanica.add("transportes");
+        engMecanica.add("transferência");
+        engMecanica.add("calor");
+        engMecanica.add("mecânica");
+        engMecanica.add("fluídos");
+        engMecanica.add("dinâmica");
+        engMecanica.add("gases");
+        engMecanica.add("térmica");
+        engMecanica.add("sólidos");
+        engMecanica.add("energia");
+        engMecanica.add("tensões");
+        engMecanica.add("termoelasticidade");
+        engMecanica.add("rígidos");
+        engMecanica.add("análise");
+        engMecanica.add("robotização");
+        engMecanica.add("motores");
+    }
+    
+    public void adicionaTermosEng(){
+        engenharia.add("introdução");
+        engenharia.add("engenharia");
+        engenharia.add("humanidades");
+        engenharia.add("cidadania");
+        engenharia.add("projeto");
+        engenharia.add("integrador");
+        engenharia.add("trabalho");
+        engenharia.add("conclusão");
+        engenharia.add("curso");
+        engenharia.add("estágio");
+        engenharia.add("supervisionado");
+        
+    }
