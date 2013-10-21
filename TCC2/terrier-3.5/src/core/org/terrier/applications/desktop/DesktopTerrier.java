@@ -229,7 +229,7 @@ public class DesktopTerrier extends JFrame {
             if(jComboRankClass == null){
                 jComboRankClass = new JComboBox();
                 jComboRankClass.setModel(new javax.swing.DefaultComboBoxModel(new String[] {"DFI0 com peso", "PL2 com peso",
-                "BM25 com peso", "DLH com peso"}));
+                "BM25 com peso", "DLH com peso", "DFRee com peso"}));
             } 
             return jComboRankClass;
         }
@@ -262,6 +262,9 @@ public class DesktopTerrier extends JFrame {
                 
             case 3:
                 return DesktopTerrier.wModel = ApplicationSetup.getProperty("desktop.model", "MeuDLH");
+                
+            case 4:
+                return DesktopTerrier.wModel = ApplicationSetup.getProperty("desktop.model", "MeuDFRee");
         
         }
         return DesktopTerrier.wModel;
