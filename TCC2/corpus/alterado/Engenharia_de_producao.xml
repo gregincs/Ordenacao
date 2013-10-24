@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Engenharia de producao</title>
+    <ns>0</ns>
+    <id>37764</id>
+    <revision>
+      <id>37084131</id>
+      <parentid>37083766</parentid>
+      <timestamp>2013-10-10T10:18:51Z</timestamp>
+      <contributor>
+        <username>Antero de Quintal</username>
+        <id>857375</id>
+      </contributor>
+      <minor/>
+      <comment>Reversao de uma ou mais edicoes de [[Special:Contribs/189.35.102.233|189.35.102.233]] para a versao 36852850 de [[User:189.15.131.156|189.15.131.156]], (com [[WP:RA|Reversao e avisos]]).</comment>
+      <text xml:space="preserve" bytes="20549">{{Sem-notas|data=dezembro de 2009}}{{Ver desambig|uma abordagem mais abrangente|Engenharia industrial}}
+[[Imagem:B-24 bomber at Willow Run.jpg|thumb|250px|Em 1943, a fabrica da [[Ford]] Motor Company utilizou principios de engenharia de producao para atingir um recorde de producao em massa da aeronave militar [[B-24 Liberator]] durante a [[Segunda Guerra Mundial]].]]
+
+
+'''Engenharia de producao''' (tambem conhecida por '''engenharia de producao industrial''', ou ainda '''[[engenharia industrial]]''' no [[Brasil]]) e o ramo da [[engenharia]] que dedica-se a concepcao, melhoria e implementacao de sistemas que envolvem pessoas, materiais, informacoes, equipamentos, energia e maior de conhecimentos e habilidades, para que utilizando-se desse conhecimento especializado em [[matematica]] ([[Metodos Quantitativos]]), [[fisica]] (Metodos Quantitativos) e [[ciencias sociais]] (Estrutura social da [[Organizacao]]), em conjunto com analise e projetos/atividades de engenharia e Programas de Desenvolvimento de forma geral, que ela possa especificar dentro de variaveis e constantes verificaveis dentro de uma [[Economia]] organizada, tambem chamada de "Economia de [[Guerra]]", por [[Mario Henrique Simonsen]], emerito professor dessa materia na [[Universidade de Brasilia]] e [[Fundacao Getulio Vargas]] no [[Rio de Janeiro]] , prever e avaliar os resultados obtidos por tais sistemas, controlados por [[Computador]]es.
+
+De modo geral, a engenharia de producao, ao enfatizar as dimensoes do sistema produtivo nas mais diversas organizacoes, ocupa-se das atividades de projetar processos produtivos, viabilizar [[Estrategia]]s produtivas, planejar a producao, produzir e distribuir produtos que a sociedade valoriza. Essas atividades, tratadas em profundidade e de forma integrada por esta [[Engenharia]], sao de grande importancia para a elevacao da competitividade das [[Empresa]]s e, por conseguinte, do [[Pais]].
+
+== Historia ==
+Durante o [[seculo XVIII]] a "[[Revolucao Industrial]]" mudava a forma de organizar a producao. As inovacoes de entao nao estavam restritas a tecnica e a tecnologia, mas tambem a organizacao do trabalho. A relacao do homem com o trabalho transformava-se, ao fim do processo dessa primeira industrializacao chegava ao fim do [[Capitalismo]] dito - mercantilista, segundo [[Marx]], cuja producao era organizada em [[oficios]]. Com o paulatino progresso do setor industrial a epoca, surgia a necessidade latente de organizar e administrar complexos sistemas de producao. Latencia essa que se agravou com a [[Segunda Revolucao Industrial]] e seus avancos tecnologicos. A tarefa de analisar o trabalho para racionaliza-lo, contudo, seria feito apenas no final do seculo XIX e durante o seculo XX. O berco da disciplina foi a industria metal-mecanica e a [[Economia]], com o titulo, para alguns professores, de [[Econometria]], como um curso de pos-graduacao nas faculdades de forma teorica e nas empresas de forma pratica - teorica. Em sua origem, tomou forma com o nome de Engenharia da Producao - Industrial e foi preconizada por [[Frederick Taylor|F.W. Taylor]], [[Frank Bunker Gilbreth|Frank e Lillian Gilbreth]], [[Henry Laurence Gantt|H.L. Gantt]], Walter A. Shewart, [[Jules Henri Fayol|Henry Fayol]], dentre outros. Para mais tarde, com o advento da producao em massa (escala - industrial), difundida por [[Henry Ford]], e posteriormente a producao enxuta, concebida por Taichii Ohno dentro da Toyota, Engenharia Industrial - econometrica ganhasse grande destaque mundial.
+
+{{Global/Brasil}}
+No [[Brasil]], desenvolveu-se com o nome de Engenharia de Producao e/ou [[Econometria]], a partir de 1950. Outros fatores como o recente desenvolvimento japones e a adocao da tematica da Qualidade &amp; Produtividade como pontos centrais nas empresas e organizacoes privadas, publicas, industriais, servicos e de governos, consolidaram essa difusao.
+
+Como nasceu dentro da [[Engenharia mecanica|Engenharia Mecanica]], a Engenharia de Producao industrial, da [[Econometria]]  se dedicou inicialmente as dimensoes fisicas dos sistemas produtivos. Na decada de setenta, notou-se mesmo no Brasil, que os conceitos e metodos proprios da Engenharia de Producao - Econometria ganharam notavel desenvolvimento e tornaram-se independentes de qualquer area tecnologica sendo aplicada a todas as areas classicas das [[engenharia]]s. A Engenharia de Producao e uma habilitacao especifica aplicavel a qualquer uma das seis grandes areas da engenharia e economia como um todo, segundo [[Mario Henrique Simonsen]]. Assim, existem cursos de Engenharia de Producao Plena(envolvendo todas as seis grandes areas), Engenharia de Producao Eletrica, Engenharia de Producao Civil, Engenharia de Producao Mecanica, Econometria, etc.
+
+O curso de Engenharia de Producao da UFRJ, [[Universidade de Brasilia]], [[Fundacao Getulio Vargas]], e ao lado do curso similar da Escola Politecnica da USP, sao pioneiros no pais, tendo servido para o efetivo desenvolvimento da Engenharia de Producao no pais, alem de ter sido, e de ser, modelo para a implantacao de diversos cursos congeneres em outras universidades. Na UFRJ, o curso de Engenharia de Producao foi aprovado por seu Conselho Universitario em 22 de abril de 1971 como curso de Engenharia Industrial. Teve sua primeira turma iniciando o ciclo profissional no primeiro semestre de 1971. Quando esta turma estava por finalizar seu curso, no segundo semestre de 1973, foi aprovado pelo Conselho Federal de Educacao do MEC ( em 25 /01/74 ) o curriculo minimo de Engenharia de Producao. Sendo esta ultima denominacao a que tomava mais peso em todo o pais houve por bem a Escola de Engenharia propor alteracao do nome para curso de Engenharia de Producao o que foi aprovado pelo Conselho Universitario em 2 de maio de 1974. Em 9 de maio de 1975 o curso obteve o reconhecimento final junto ao CFE/MEC tendo este reconhecimento sido publicado no Decreto no 75.854 de 11/06/75.
+
+== Mercado de Trabalho ==
+{{Global/Brasil}}
+A formacao de um engenheiro de producao habilita o desempenho de certas funcoes que administradores de empresa exercem em uma organizacao (desde que nao interfira nas atividades privativas dos administradores, visto que a profissao de administrador no Brasil e regulamentada pela lei federal - 4769/65). 
+
+Quanto a retracao do mercado de [[engenharia]] no [[Brasil]], o mercado de Engenharia de Producao, mesmo tendo pouco tempo, e o que desfruta da melhor situacao. Engenheiros de Producao vem conseguindo boas colocacoes no mercado principalmente em funcao do seu perfil que coincide com o que se esta demandando nos dias de hoje: um profissional com uma solida formacao cientifica e com visao generalista suficiente para encarar os problemas de maneira global.
+
+Em 1970, o mercado de trabalho do Engenheiro de Producao no Brasil comecou a se tornar bastante abrangente envolvendo todos os setores da economia, desde o primario (relativo as atividades de [[extrativismo]], [[pecuaria]], [[agricultura]], etc.), passando pelo secundario (toda a [[industria]] de transformacao) ate o terciario (setor de servicos).
+
+=== Organizacoes Empregadoras ===
+{{Global/Brasil}}
+* As industrias de uma maneira geral, como a de construcao, automoveis, navios, avioes, alimentos, agroindustria, eletrodomesticos, equipamentos, e o [[Estado]] em Projetos de Desenvolvimento, etc.;
+* Empresas de servico de uma maneira geral, como a de transporte aereo, [[Internet]], consultorias, etc.;
+* Empresas publicas como os [[Correios]], a [[Petrobras]], [[ANEEL]], [[ANP]], [[BNDES]], etc.;
+* Grandes empresas privadas de petroleo, fertilizantes, concessionarias de telefonia, bancos, seguradoras, fundos de pensao, bancos de investimento etc.
+* Empresas dos diversos setores da [[Logistica]].
+
+== Perfil Profissional ==
+Os aspectos relacionados a gestao dos sistemas produtivos vieram a ser a base tecnologica propria da Engenharia de Producao. Com as recentes mudancas estruturais e organizacionais desses sistemas de producao e a evolucao dos cursos de Engenharia de Producao, os profissionais egressos desta modalidade tem se mostrado tambem, habeis empreendedores e capazes de atuar nas mais diversas organizacoes da sociedade.
+
+O perfil do Engenheiro de [[Producao]] pressupoe espirito critico, Quantitativo, Estrategico, criatividade e consciencia em relacao a sua atuacao tecnica, politica, economica profissional e social. Pois bem, ele vem se mostrando um profissional versatil, considerando a interdependencia entre os varios segmentos empresariais, levando em consideracao o desenvolvimento de novas maquinas, novos processos de producao e sua manutencao, agindo no sentido de planejar, orientar, supervisionar, inspecionar e controlar a producao de bens e servicos, elaborar, executar e acompanhar projetos buscando a otimizacao dos sistemas produtivos.Outro aspecto observado neste profissional e a capacidade de adaptacao rapida em diferentes funcoes, praticadas em ambientes altamente competitivos.
+
+=== Competencias Cientificas ===
+* Solida formacao em ciencias basicas como Matematica, Computacao, principalmente o [[Calculo]];
+* Capacidade de analise do trabalho (ergonomia econometria em si) e dos processos organizacionais da empresa;
+* Capacidade de trabalho em equipes multidisciplinares estrategicas;
+* Capacidade pratica de abordagem experimental (modelos experimentais);
+* Capacidade de analisar e otimizar processos (imparcialidade);
+* Formacao etico-profissional se exige.
+
+=== Competencias Pessoais ===
+* Capacidade de utilizar ferramental matematico e estatistico para modelar sistemas de quanticos - de - producao e auxiliar na tomada de decisoes de nivel de [[Comite]];
+* Capacidade de projetar, implementar e aperfeicoar sistemas de forma ampla, produtos e processos, levando em consideracao os limites e as caracteristicas das comunidades envolvidas de forma geral, general;
+* Capacidade de utilizar indicadores de desempenho, sistemas de custeio - quantitativo, bem como avaliar a viabilidade economica e financeira de projetos/atividades de forma geral;
+* Capacidade de prever e analisar demandas de forma ampla e irrestrita, selecionar tecnologias e know-how, projetando produtos ou melhorando suas caracteristicas e funcionalidade em uma visao de resultados praticos, dentro da teoria;
+* Capacidade de incorporar conceitos e tecnicas da qualidade em todo o sistema produtivo, tanto nos seus aspectos tecnologicos quanto organizacionais, aprimorando produtos e processos, e produzindo normas e procedimentos de controle e auditoria;
+* Capacidade de prever a evolucao dos cenarios - estrategicos - produtivos, percebendo a interacao entre as organizacoes e os seus impactos sobre a competitividade;
+* Capacidade de acompanhar os avancos tecnologicos, organizando-os e colocando-os a servico da demanda das empresas e da sociedade (robotica);
+* Capacidade de compreender a inter-relacao dos sistemas de producao com o meio ambiente, tanto no que se refere a utilizacao de recursos escassos - restritos quanto a disposicao final de residuos e rejeitos, atentando para a exigencia de necessaria sustentabilidade para a sobrevivencia do Sistema, segundo [[Mario Henrique Simonsen]](1964-1984) em sua atuacao;
+* Capacidade de dimensionar e integrar recursos fisicos, humanos, contabeis de forma geral (financeiros), a fim de produzir, com eficiencia e ao menor custo com vistas a [[Depreciacao]] e necessaria reposicao de sustentabilidade, considerando a possibilidade de melhorias continuas;
+
+== Areas de Atuacao ==
+{{Global/Brasil}}
+Em [[1972]] foram criados os cursos de doutorado na [[EPUSP]] e na [[Instituto Alberto Luiz Coimbra de Pos-Graduacao e Pesquisa em Engenharia|COPPE/UFRJ]], o que ajudou a dinamizar a area e os pontos de atuacao do Engenheiro de Producao. Com maiores especializacoes, as atividades de atuacao estao sendo relacionadas ao desenvolvimento de projetos, a aplicacao de metodos gerenciais, ao uso de metodos para melhoria da eficiencia das empresas e a utilizacao de sistemas de controle dos processos das empresas.
+
+Assim, de uma forma geral, tudo o que se refere ao planejamento, programacao e controle de compras, producao e distribuicao de produtos constitue atividade da Engenharia de Producao.
+
+=== Areas de atuacao destacadas ===
+* Area [[Tecnologia da Informacao]], na implantacao de sistemas de TI;
+* Area de operacoes, envolvendo a distribuicao dos produtos, controle dos suprimentos, etc.;
+* Area de [[gestao agro-industrial]], [[gestao da manutencao]], [[automacao industrial]], etc.;
+* Area financeira, incluindo o controle financeiro, controle de custos, analise de investimentos, etc.;
+* Area de [[logistica]], incluindo o uso e desenvolvimento de sistemas de roteamento, gestao e controle de frotas, etc.;
+* Area de [[marketing]], tratando do [[planejamento]] e desenvolvimento de novos produtos, incluindo a utilizacao de metodos estatisticos avancados destinados ao estudo de mercado etc.;
+* Area de planejamento, abrangendo os setores estrategico, produtivo, financeiro, etc.
+* Area de ergonomia, engenharia de seguranca, organizacao do trabalho, engenharia de metodos, etc.;
+* Area de gestao economica, engenharia economica, gestao de custos e/ou investimentos, etc..
+* Area de engenharia da qualidade, incluindo controle estatistico de qualidade, projeto de experimentos, metodologia seis sigma, regressao e correlacao.
+
+=== Problemas tratados ===
+* Melhoria e garantia da qualidade dos processos: implanta e desenvolve sistemas de garantia da qualidade (como as normas regulamentadoras da serie [[ISO 9000]]), focando sempre a [[qualidade]] do [[produto]] e o [[cliente]].
+* [[Produtividade]] focada em estrategias de manufatura: atua na organizacao e planejamento do fluxo de producao, reducao de estoques, diminuicao do tempo de atravessamento, otimizacao e racionalizacao de processos, entre outras atividades.
+* Projeto de produtos: dedica-se a projeto de softwares ergonomicos, gestao de projetos e da inovacao, reducao do tempo de producao nominal em uma nova fabrica, transferencia de tecnologia e de seu dominio efetivo.
+* Organizacao do trabalho: volta-se para a formacao, qualificacao e desenvolvimento de competencias adequadas a novas tecnologias.
+
+== Exemplos de atuacao ==
+=== Na gestao do trabalho e da empresa ===
+* Elaboracao de planos para avaliacao de cargos e sistemas de incentivos;
+* Elabora planos para identificar e resolver problemas de alocacao de recursos;
+* Atua em programas de higiene e seguranca do trabalho;
+* Participa e colabora na selecao e treinamento de pessoal;
+* Realiza a interface entre as areas administrativas e tecnicas da empresa.
+
+=== Na area de planejamento industrial ===
+* Realiza estudos sobre a localizacao geografica da empresa e planejando o arranjo fisico de suas instalacoes;
+* Desenvolve estudos de viabilidade tecnico-economica para aplicacao de capital no processo industrial;
+* Conduz programas de reducao de custos;
+* Elabora e calcula lotes economicos e series de producao, bem como previsoes de venda;
+* Estabelece politicas de administracao e controle de estoques e reposicao de equipamentos;
+* Presta assistencia no desenvolvimento de maquinas, ferramentas e produtos e no desenvolvimento de politicas e procedimentos;
+* Acompanha e supervisiona a operacao de materiais e equipamentos.
+* Identifica fatores que impactam o meio ambiente e a sociedade provenientes do processo produtivo e realiza estudos para reduzir os impactos negativos, procurando maximizar os impactos sociais, ambientais e economicos provenientes do processo de producao para a sociedade.
+
+=== Como gestor do sistema produtivo ===
+* Desenvolve projetos e faz o planejamento para controlar a produtividade ou eficiencia operacional de uma empresa, conjugando os recursos humanos e materiais disponiveis, visando ao aumento da producao com o menor custo possivel;
+* Desenvolve metodos de otimizacao do trabalho;
+* Cria procedimentos para programacao e controle de producao;
+* Desenvolve programas de controle da qualidade;
+* Apresenta modelos de simulacao para problemas administrativos complexos.
+
+== Disciplinas estudadas ==
+O curso e estruturado por dois conjuntos de disciplinas destinadas ao desenvolvimento das competencias:
+
+* '''Ciclo Basico:''' Matematica, Computacao, Administracao, Economia, Contabilidade, Gestao Ambiental, Estatistica, Eletrica, Mecanica, Fisica, Quimica;
+* '''Ciclo Profissional:''' Controle Estatistico da Qualidade, Simulacao Computacional, Engenharia Economica, Algoritmos em Grafos, Organizacao e Metodos (O&amp;M), Planejamento e Controle da Producao, Logistica, Ergonomia, Meta-heuristicas, [[Pesquisa Operacional]], Automacao, Instrumentacao e Controle (Eletrica/Mecanica) etc.
+
+== Diferencas entre Engenharia de Producao e Administracao ==
+* '''Metodos quantitativos X Metodos qualitativos:''' A Engenharia de Producao, aproveitando-se da base matematica fornecida pela engenharia, focaliza os metodos quantitativos em detrimento dos metodos qualitativos utilizados na Administracao. Disciplinas como Teoria Geral da Administracao, Gestao Estrategica, Administracao Financeira e Economia sao ensinadas no ciclo basico da Engenharia de Producao, juntamente com as disciplinas das areas de matematica, fisica e quimica; e servem de pre-requisito para disciplinas com metodos quantitativos como Teoria dos Jogos, Engenharia Economica, Engenharia de Metodos, Controle Estatistico da Qualidade, Programacao Matematica, Analise Multicriterio no Auxilio a Decisao, Redes Neurais, Otimizacao de Fluxos em Redes, Planejamento e Controle da Producao etc.
+* '''Engenharia de Producao e um Curso Direcionado a Projetos:'''  Assim como as demais engenharias, a Engenharia de Producao se destina a realizacao de projetos. Ou seja, assim como o Engenheiro Civil projeta construcoes, o Engenheiro mecanico projeta pecas mecanicas, o Engenheiro Eletricista projeta instalacoes eletricas, etc.; o Engenheiro de Producao desenvolve projetos destinados a otimizacao dos processos empresariais. Como exemplo pode-se citar os projetos para implantacao de sistemas de tecnologia da informacao, projetos para melhoria da qualidade, projetos de novos produtos etc..
+* '''Engenharia de Producao e um Curso mais Tecnico:'''  A Engenharia de Producao e um curso mais tecnico, e esta mais relacionada com o uso de tecnologia. Como exemplo, o uso de sistemas de apoio a decisao, tecnicas de redes neurais, CAD (Desenho Auxiliado por Computador), logica fuzzy, meta-heuristicas, sistemas de simulacao etc.; ou seja: tecnicas matematicas, estatisticas e computacionais em geral.
+
+== {{Ver tambem}} ==
+{{Portal de engenharia}}
+* [[Engenharia Industrial]]
+* [[Ciencia]]
+* [[Economia]]
+* [[Educacao]]
+* [[Engenharia]]
+* [[Produtividade]]
+* [[Qualidade]]
+* [[Tecnologia]]
+* [[Ciencia da informacao]]
+* [[Tomada de decisao]]
+
+== {{Ligacoes externas}} ==
+* {{Link||2=http://www.abepro.org.br/ |3=ABEPRO}}: Associacao Brasileira de Engenharia de Producao
+* {{Link||2=http://www.sobrapo.org.br/ |3=SOBRAPO}}: Sociedade Brasileira de Pesquisa Operacional
+* {{Link||2=http://www.abepro.org.br/internasub.asp?m=930&amp;ss=34&amp;c=956 |3=ENEGEP}}: Encontro Nacional de Engenharia de Producao
+* {{Link||2=http://www.simpep.feb.unesp.br/index.php |3=SIMPEP}}: Simposio de Engenharia de Producao
+* {{Link||2=http://ojs.ingepro.com.br/index.php/ingepro |3=Revista INGEPRO: Inovacao, Gestao e Producao}}: ABEPRO/UFSM
+* {{Link||2=http://www.revistaproducao.net/index.asp?ss=32 |3=Revista Producao}}: ABEPRO
+* {{Link||2=http://producaoonline.org.br/index.php/rpo |3=Revista Producao Online}}: ABEPRO/UFSC
+* {{Link||2=http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0101-7438&amp;nrm=iso&amp;rep=&amp;lng=pt |3=Revista Pesquisa Operacional}}: SOBRAPO
+
+
+{{Engenharia}}
+
+{{DEFAULTSORT:Engenharia Producao}}
+[[Categoria:Engenharia de producao| ]]
+
+[[de:Produktionstechnik]]
+[[en:Production engineering]]
+[[tr:Endüstri Mühendisliği]]</text>
+      <sha1>5qszny83jgf40lbhnju6d0dx495fvdd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

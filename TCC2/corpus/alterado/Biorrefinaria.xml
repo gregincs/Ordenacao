@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Biorrefinaria</title>
+    <ns>0</ns>
+    <id>3498462</id>
+    <revision>
+      <id>36236667</id>
+      <parentid>35338552</parentid>
+      <timestamp>2013-06-27T22:54:02Z</timestamp>
+      <contributor>
+        <ip>186.227.61.134</ip>
+      </contributor>
+      <comment>/* Conceito */</comment>
+      <text xml:space="preserve" bytes="4906">Uma '''biorrefinaria''' e uma unidade industrial que integra equipamento e processos de conversao de [[biomassa]] na producao de [[combustivel|combustiveis]], electricidade, calor, e derivados refinados. O conceito de uma biorrefinaria e analogo as actuais refinarias de petroleo, que produzem combustiveis e derivados de petroleo.&lt;ref&gt;{{citar web|url=http://www.nrel.gov/biomass/biorefinery.html|titulo=What Is a Biorefinery?|autor=National Renewable Energy Laboratory}}&lt;/ref&gt;
+
+A [[Agencia Internacional de Energia]] define biorrefinarias como o processamento sustentavel de biomassa numa vasta gama de bio-produtos (alimentos, racoes, quimicos, materiais) e bioenergia (biocombustiveis, electricidade e/ou calor).
+
+== Conceito ==
+
+A definicao de [[biorrefinaria]] apareceu pela primeira vez na legislacao americana, na Farm Bill &lt;ref&gt;[[:en:United States Farm Bill]]&lt;/ref&gt;  , de 2002, com o significado de instalacoes, equipamentos e processos que convertem a biomassa em [[biocombustiveis]] e produtos quimicos e ainda podem gerar eletricidade. As biorrefinarias – semelhante as refinarias de [[petroleo]] – integram nas mesmas instalacoes equipamentos e processos de conversao de biomassa, com vistas a produzir combustiveis, energia e produtos quimicos. Tal qual uma refinaria de petroleo, deve ser capaz de produzir multiplos produtos e, com isso, tirar vantagem das diferencas nos componentes e intermediarios da biomassa, maximizando valor, ao produzir produtos quimicos em pequenos volumes, mas alto valor unitario, alem de grandes volumes de combustiveis liquidos de baixo valor, e ao mesmo tempo gerar eletricidade.&lt;ref&gt;{{citar web|url=http://www.nrel.gov/biomass/biorefinery.html|titulo=What Is a Biorefinery?|autor=National Renewable Energy Laboratory}}&lt;/ref&gt;
+
+Existem varios conceitos listados na literatura tais como: “ Termo que se refere ao uso de materias-primas renovaveis e de seus residuos (denominados de forma geral de biomassas]), de maneira integral e diversificada, para a producao, por rota quimica ou biotecnologica, de uma variedade de substancias e [[energia]], com a minima geracao de residuos e emissoes de [[gases poluidores]]” ; “ Uma facilidade que integra os processos de conversao de [[biomassa]] e equipamentos para a coproducao de combustiveis, energia e produtos quimicos provenientes de diversas fontes de biomassa”, “Um complexo integrado capaz de produzir diferentes produtos, tais como combustiveis, produtos quimicos e eletricidade, com base em diferentes biomassas, dentro de um conceito que permita um alcance de maiores eficiencias, tanto do ponto de vista termodinamica quanto do ponto de vista economico e ambiental”.
+
+O conceito de biorrefinaria faz sentido se for empregada uma materia-prima renovavel, abundante, barata e especifica, como a biomassa lignocelulosica &lt;ref&gt;Etanol Celulosico (Ceetol), tambem chamado etanol de lignocelulose, e a denominacao dada ao alcool etilico (etanol) obtido a partir da quebra das cadeias da celulose, hemicelulose e pectina, polimeros que constituem a estrutura fibrosa dos vegetais, atraves de reacoes quimicas ou bioquimicas.&lt;/ref&gt; que, ao contrario das diversas fontes atualmente empregadas (como o petroleo) para producao de biocombustiveis, nao sao afetadas pelas oscilacoes do mercado. Para a consolidacao desta nova plataforma tecnologica se faz necessario o apoio do governo de modo que as biorrefinarias sejam capazes de competir economicamente com as refinarias de petroleo. Seu principal objetivo e transformar os materiais biologicos em produtos utilizaveis nas industrias de transformacao usando uma combinacao de tecnologias e processos biotecnogicos. 
+
+A exploracao de cada um destes componentes pode levar a producao de varios produtos como: 
+# [[Commodities]] - produtos comercializados em grandes escalas de producao e baixo valor de mercado – exemplos: os biocombustiveis e plasticos biodegradaveis; 
+# Moleculas intermediarias  - produtos comercializados em escala intermediaria e que apresentam valor de mercado – exemplos: acido succinico e acido latico; 
+# Especialidades quimicas – produtos comercializados em pequena escala e que apresentam grande valor de mercado – exemplos: ingredientes funcionais e produtos farmaceuticos. Adicionalmente, maximizando o uso de componentes da biomassa poderia levar a um aumento significativo de economia de processo e minimizacao de desperdicio.
+
+{{referencias}}
+
+==Links Externos==
+* [http://usibiorefinarias.com/view/636/o-que-e-biorefinaria/ Usibiorefinarias]
+* [http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-14282009000100005 Scielo]
+* [http://www.abengoabioenergy.com/corp/web/pt/nuevas_tecnologias/tecnologias/biorrefineria_integrada/ Abengoa Bioenergia]
+
+[[Categoria:Industria]]</text>
+      <sha1>5fcezitnyjqpo7ulen15d6714z15kgn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Computacao</title>
+    <ns>0</ns>
+    <id>495</id>
+    <revision>
+      <id>37039795</id>
+      <parentid>37039784</parentid>
+      <timestamp>2013-10-03T19:36:09Z</timestamp>
+      <contributor>
+        <ip>179.245.66.222</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="2513">{{Ver desambig|Ciencia da computacao|Ciencia da computacao}}
+{{Sem-fontes|data=julho de 2010| arte=| Brasil=| ciencia=| geografia=| musica=| Portugal=| sociedade=|1=|2=|3=|4=|5=|6=}}
+A '''computacao''' pode ser definida como a busca de uma solucao para um problema a partir de [[Dispositivo de entrada|entradas]] (''inputs'') e tem seus resultados (''outputs'') depois de trabalhada atraves de um [[algoritmo]]. E com isto que lida a ''[[teoria da computacao]]'', subcampo da [[ciencia da computacao]] e da [[matematica]]. Durante milhares de anos, a computacao foi executada com caneta e papel, ou com giz e ardosia, ou mentalmente, por vezes com o auxilio de tabelas ou utensilios artesanais. 
+A partir da segunda metade do seculo XX, com o advento dos computadores eletronicos, a Computacao passou a ter uma presenca cada vez mais marcante na sociedade, influenciando a vida diaria de parte da populacao mundial. A partir da decada de 1950, a Computacao ganhou o status de Ciencia surgindo entao o termo [[ciencia da computacao]], uma area do conhecimento humano hoje fortemente ligado a producao de software.
+{{portal|Portal=[[Portal:Tecnologias de informacao|Portal das tecnologias de informacao]]}}
+
+== Leituras Complementares ==
+* Gary, Michael R., and David S. Johnson: ''Computers and Intractability: A Guide to the Theory of NP-Completeness.'' New York: W. H. Freeman &amp; Co., 1979.  Uma referencia padrao aos problemas do tipo NP-Completo, uma importante categoria de problemas cuja solucao parece requerer um tempo impraticavelmente longo para efetivar sua computacao.
+* Hein, James L:  ''Theory of Computation.''  Sudbury, MA: Jones &amp; Bartlett, 1996. Uma introducao suave ao assunto da Teoria da Computacao, apropriado para alunos do segundo ano de um curso de graduacao em Ciencia da Computacao.
+* Hopcroft, John E., and Jeffrey D. Ullman: ''Introduction to Automata Theory, Languages, and Computation.''  Reading, MA: Addison-Wesley, 1979. Uma das referencias padrao na area de automatos finitos e linguagens formais.
+* Taylor, R. Gregory: ''Models of Computation.''  New York: Oxford University Press, 1998. Um dos raros textos facilmente legiveis sobre Teoria da Computacao, apropriado para alunos de graducao ou mestrado.
+
+== Ver tambem ==
+{{Wikiquote|Computacao}}
+
+* [[Modelagem computacional]]
+* [[Computacao cientifica]]
+* [[Teoria da computacao]]
+
+{{Computacao}}
+
+[[Categoria:Computacao|*]]
+
+[[id:Komputasi]]</text>
+      <sha1>ru7lywjyqj4h8m0wmsbmzpdkpz73iy0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Engenharia de energia</title>
+    <ns>0</ns>
+    <id>1205215</id>
+    <revision>
+      <id>35264815</id>
+      <parentid>35264749</parentid>
+      <timestamp>2013-04-04T00:14:15Z</timestamp>
+      <contributor>
+        <ip>187.10.48.82</ip>
+      </contributor>
+      <comment>/* Historico no Brasil */</comment>
+      <text xml:space="preserve" bytes="7141">{{Predefinicao:Global/Brasil}}
+[[Imagem:Centrale Eolica Frigento.jpg|right|200px|center|thumb|O engenheiro de energia lida principalmente com as energias renovaveis.]]
+
+A '''Engenharia de Energia''' e o ramo da [[engenharia]] que planeja, analisa e desenvolve sistemas de geracao, transporte, transmissao, distribuicao e utilizacao da [[energia]].&lt;ref&gt;[http://guiadoestudante.abril.com.br/profissoes/meio-ambiente-ciencias-agrarias/engenharia-energia-603071.shtml Guia do Estudante]&lt;/ref&gt; O engenheiro de energia lida com todas as formas de [[energia]] que compoem a matriz energetica, seja ela renovavel ou nao.
+
+Nao deve ser confudida com a [[engenharia eletrica]].
+
+==Historico no Brasil==
+
+O primeiro curso de graduacao em Engenharia de Energia do Brasil a ser criado no Brasil foi o da [[UERGS|UERGS (Universidade Estadual do Rio Grande do Sul)]] em marco de 2003, localizada em Novo Hamburgo, sendo a primeira turma formada em marco/2008, com o titulo de Engenharia de Energias e Desenvolvimento Sustentavel. Em 2006 e fundada a [[Unipampa|Unipampa (Universidade Federal do Pampa)]], onde e oferecido o curso de Engenharia de Energias Renovaveis e Ambiente, tambem no mesmo ano e fundada a [[UFABC|UFABC (Universidade Federal do ABC)]], e entre os cursos oferecidos esta a graduacao em Engenharia de Energia, alem do [[mestrado]] e [[doutorado]] em Energia, cujo curso de graduacao segue os moldes tradicionais dos demais cursos de Engenharia.  Em 2007, iniciaram-se os cursos na[[Unisinos | Unisinos (Universidade do Vale do Rio dos Sinos) ]], na [[PUC-MG|PUC-MG (PUC de Minas Gerais)]] e na [[Ufersa|Ufersa (Universidade Federal Rural do Semi-Arido)]]. Em 2008 foi a vez do curso de Engenharia de Energia ser criado na [[UnB|UnB (Universidade de Brasilia)]], iniciado em 02/2008, e da [[Ufgd|UFGD (Universidade Federal da Grande Dourados)]], sendo que a primeira turma iniciou-se em 01/2009 e com Mestrado e Doutorado previstos para iniciar em 2013 e 2016, respectivamente. Em 2009, a [[UFPE|UFPE (Universidade Federal de Pernambuco)]], onde o curso ja  dispunha de um programa de pos-graduacao, Mestrado e Doutarado em Energia.  Em  2010 e a vez da [[Ufrgs|UFRGS(Universidade Federal do Rio Grande do Sul)]] e [[Ufsc|UFSC(Universidade Federal de Santa Catarina)]] fundaram seu curso, com previsao de Mestrado e Doutorado. O curso de graduacao em Engenharia de Energia do Brasil esta tambem alocado na Universidade Federal de Itajuba (uma das melhores instituicoes de ensino do Brasil). Em 2011 foi a vez da [[UNILAB|UNILAB (Universidade da Integracao Internacional da Lusofonia Afro-Brasileira)]] criar o curso de Engenharia de Energias, sendo o curso abrangente de toda matriz energetica brasileira. Em 2014, a [http://www.unesp.br Unesp (Universidade Estadual Paulista)] recebera a primeira turma no recem-criado curso de Engenharia de Energia, no [http://www.rosana.unesp.br Campus de Rosana].
+ 
+
+A Energia foi, e e sempre sera um assunto chave para a humanidade. O desenvolvimento de um pais esta diretamente ligado a disponibilidade de energia abundante e barata, em suas diversas formas. Este curso tem por objetivo apresentar aos  estudantes os principios para que eles possam compreender a questao energetica e sua interligacao com o setor  economico, permitindo-lhes avaliar e participar do desenvolvimento das diversas alternativas, em termos de producao e distribuicao. O que faz com que a area envolva conhecimentos de engenharia, de planejamento e de economia.
+
+==Disciplinas estudadas==
+Com duracao media de cinco anos, o tronco basico do curso e estruturado  com as disciplinas de matematica, fisica, informatica e quimica. Na parte especifica, o curso aborda as areas como engenharia termica (termodinamica, transferencia de calor, trabalho mecanico), combustao e combustiveis, eletricidade (conversao e distribuicao), conversao energetica da biomassa em combustiveis/produtos solidos (ex: carvao vegetal, peletes e briquetes), liquidos (ex: etanol, biodiesel e bio-oleo) e gasosos (ex: biogas e gas de sintese), potenciais hidraulicos, energia eolica e solar (termica e fotovoltaica), nuclear e novas tecnologias (celulas a combustivel, geotermica, oceanica, etc). Esses temas estao concentrados em materias que definem como conversao/geracao, distribuicao, monitoramento e uso final da energia levando em conta aspectos ambientais, sociais e economicos. Sendo tambem estudadas as legislacoes e as normas que regulam o setor, bem como da engenharia no sistema CREA/CONFEA.
+
+==O profissional==
+O empenho do governo federal em acelerar o crescimento economico do pais traz embutida a promessa de muito trabalho para o profissional de engenharia de energia, principalmente para quem trabalha com [[petroleo]], [[biomassa]] ([[etanol]] e outros [[biocombustiveis]]). Os maiores empregadores sao a [[Petrobras]], [[Eletrobras]], usinas de etanol e biodiesel, bem como  companhias de transporte e distribuicao de gas natural. As melhores oportunidades estao nos estados de forte perfil industrial e petrolifero, como Sao Paulo, Rio de Janeiro, Minas Gerais, Espirito Santo, Rio Grande do Norte, Bahia, Alagoas, Sergipe e agora mais recentemente, com sua expressiva industrializacao,  Pernambuco. Os investimentos em usinas de [[etanol]] e [[biodiesel]] tambem criam boas chances de trabalho no interior de Sao Paulo e nas regioes Nordeste e Centro-Oeste, locais onde ha grande producao de cana-de-acucar.
+
+
+=={{Ligacoes externas}}==
+* [http://www.sp.senac.br/engenharia  Centro Universitario Senac - Sao Paulo]
+* [http://www.uergs.edu.br/ UERGS]
+* [http://www.engenhariaemenergia.com/]
+* [http://www.ufgd.edu.br UFGD - Universidade Federal da Grande Dourados]
+* [http://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_Grande_do_Sul#Cursos_de_gradua.C3.A7.C3.A3o UFRGS]
+* [http://www.unb.br/ UnB - Universidade de Brasilia]
+* [http://www.ufabc.edu.br/ UFABC]
+* [http://www.unisinos.br/ UNISINOS]
+* [http://www.pucminas.br/ PUC-MG]
+* [http://www.ufersa.edu.br/ UFERSA]
+* [http://www.petrobras.com.br/ Petrobras]
+* [http://www.aneel.gov.br/ ANEEL]
+* [http://www.mme.gov.br/ Ministerio de Minas e Energia]
+* [http://cursos.unipampa.edu.br/bage/engenhariadeenergias/ UNIPAMPA]
+* [http://www.unifei.edu.br/ UNIFEI]
+* [http://www.ufpe.edu.br/ UFPE]
+* [http://www.ufsc.br/ UFSC]
+* [http://www.uniara.com.br/graduacao/engenharia_bioenergetica/]
+* [http://www.unila.edu.br/ UNILA - Universidade Federal da Integracao Latino-Americana]
+* [http://www.sjc.unifesp.br/portal/ UNIFESP - Universidade Federal de Sao Paulo]
+* [http://www.unilab.edu.br/ UNILAB - Universidade da Integracao Internacional da Lusofonia Afro-Brasileira - Redencao/CE ]
+
+==Ver tambem==
+==Bibliografia==
+* {{citar web | autor=Editora Abril | titulo=Guia de Profissoes | trabalho=Engenharia de Energia | url=http://guiadoestudante.abril.uol.com.br/profissoes/profissoes_269381.shtml | acessodata=[[07 de Julho]] de [[2008]] }}
+
+{{Referencias}}
+
+[[Categoria:Engenharia]]
+
+{{esboco-engenharia}}
+
+{{Engenharia}}</text>
+      <sha1>h94fbgex41fa0mgxmoxibmeafnxmznq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

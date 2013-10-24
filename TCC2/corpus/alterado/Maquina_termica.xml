@@ -1,0 +1,171 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Maquina termica</title>
+    <ns>0</ns>
+    <id>115426</id>
+    <revision>
+      <id>37045564</id>
+      <parentid>37045556</parentid>
+      <timestamp>2013-10-04T16:18:39Z</timestamp>
+      <contributor>
+        <username>Victor R12</username>
+        <id>1150245</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:REV|Revertidas]] edicoes por [[Especial:Contribuicoes/189.72.106.108|189.72.106.108]] para a ultima versao por [[Especial:Contribuicoes/189.59.144.21|189.59.144.21]], de 02h06min de 2 de outubro de 2013 (UTC)</comment>
+      <text xml:space="preserve" bytes="15364">Em [[termodinamica]], '''maquinas termicas''' sao sistemas que realizam a [[conversao]] de [[calor]] ou energia termica em [[trabalho mecanico]]. Isto se da quando uma fonte de [[calor]] leva uma substancia de [[trabalho]] de um estado de baixa [[temperatura]] para um estado de [[temperatura]] mais alta. A substancia de [[trabalho]] (normalmente [[gas]] ou [[vapor]] em expansao termica) transfere essa [[energia]] atraves de sua [[expansao]] no interior da maquina termica acionando o sistema mecanico (pistao, rotor ou outro) e realizando [[trabalho]]. Durante essa [[expansao]], a substancia de [[trabalho]] perde [[calor]] para o meio.&lt;ref&gt;Tipler, P.A.; ''Fisica (Para Cientistas e Engenheiros)'', Vol.2 , Gravitacao Ondas e Termodinamica, 3a Ed., Livros Tecnicos e Cientificos Editora S.A., 1995. &lt;/ref&gt;
+O [[trabalho]] pode ser definido a partir das trocas de [[calor]]:
+
+
+
+&lt;math&gt;\ W_t=Q_2-Q_1&lt;/math&gt; (1)&lt;/center&gt;
+
+
+
+onde &lt;math&gt;Q_2&lt;/math&gt; e &lt;math&gt;Q_1&lt;/math&gt; sao respectivamente o calor cedido da fonte quente e o calor recebido pela fonte fria.
+
+As maquinas termicas se distinguem de outros tipos por operarem, fundamentalmente, de acordo com  [[Ciclo de Carnot]].
+Apesar de sua limitacao de [[eficiencia]], tem uma grande vantagem que sao varias formas de [[energia]] que podem ser transformadas em [[calor]] como reacoes exotermicas ( como combustao), absorcao de luz de [[particulas]] energeticas, [[friccao]], [[dissipacao]] e [[resistencia]].
+Como a fonte de calor que abastece a energia termica da maquina pode ser gerada virtualmente por qualquer tipo de [[energia]], estas sao extremamente versateis e como enorme gama de aplicacao.
+[[arquivo:Second law heat engine.png|thumb|right|350px|'''Diagrama Maquina Termica''']]
+
+== '''Visao Geral''' ==
+
+Em [[termodinamica]], maquinas termicas sao usualmente projetadas utilizando um [[modelo padrao]], como o [[Ciclo Otto]]. O modelo teorico pode ser refinado e ampliado com dados reais de um [[motor]] em funcionamento, usando ferramentas como um diagrama indicador. Desde que o modelo padrao foi criado, poucas mudancas foram implementadas, podendo-se dizer que um ciclo termodinamico e um caso ideal de um motor mecanico.
+Em termos gerais, quanto maior for a diferenca na temperatura entre a fonte de calor e o dissipador frio, maior e a eficiencia termica potencial do ciclo. A [[temperatura]] fria da maquina termica esta limitada a temperatura do ambiente, ou seja, nao muito inferior a 300 [[Kelvin]]. Por isso a maioria dos esforcos para melhorar as eficiencias termodinamicas das maquinas termicas tem como foco o aumento da temperatura de origem, dentro dos limites dos materiais. A eficiencia teorica maxima de uma maquina termica e igual a diferenca de temperatura entre as extremidades quentes e frias, dividida pela [[temperatura]] na extremidade quente, todas expressas em graus [[Kelvin]], ou a [[temperatura absoluta]].&lt;ref&gt;http://memagazine.asme.org/Web/Efficiency_by_Numbers.cfm "Efficiency by the Numbers"] by Lee S. Langston&lt;/ref&gt;
+
+== Potencia ==
+Maquinas termicas podem ser caracterizadas pela sua potencia especifica, que e normalmente dada em quilowatts (kW) ou em cavalo vapor (cv). Esta caracteristica oferece uma aproximacao da saida de pico de potencia de um motor. Isto nao deve ser confundido com a eficiencia de combustivel, uma vez que a eficiencia elevada, muitas vezes requer uma relacao de ar-combustivel pobre, e, portanto, menor quantidade de potencia.&lt;ref&gt;Halliday, D., Resnick, R., Walker, J.; ''Fisica'', Vol. 2, Livros Tecnicos e Cientificos Editora, Rio de Janeiro, 1996&lt;/ref&gt;
+
+== Rendimento ==
+O rendimento das maquinas termicas pode ser, de uma maneira geral, a razao entre o trabalho total e o trabalho (ou calor) necessario para que ela funcione, ou seja, e o que se obtem pelo que se da de trabalho&lt;ref&gt;Tipler, P.A.; ''Fisica (Para Cientistas e Engenheiros)'', Vol.2 , Gravitacao Ondas e Termodinamica, 3a Ed., Livros Tecnicos e Cientificos Editora S.A., 1995. &lt;/ref&gt;:
+&lt;center&gt;&lt;math&gt;n=\frac{W_t}{Q_1}&lt;/math&gt; (2)&lt;/center&gt;
+mas pela equacao (1) podemos melhorar a equacao (2):
+&lt;center&gt;&lt;math&gt;n=\frac{(Q_1-Q_2)}{Q_1}&lt;/math&gt;&lt;/center&gt;
+e por fim:
+&lt;center&gt;&lt;math&gt;n=1-\frac{Q_2}{Q_1}&lt;/math&gt; (3)&lt;/center&gt;
+O rendimento e a eficiencia com que uma maquina termica funciona. Em geral o rendimento das maquinas e baixo:
+* motores de automoveis rendem em media 22%;
+* motores a diesel rendem em mediade 25%;
+* grandes turbinas a gas da ordem de 33%
+* o motor de Stirling tem um dos maiores rendimentos, podendo chegar a 40%.&lt;ref&gt; Callen Herbert B. ; “Thermodynamics and an Introduction to Thermostatistics” | edition  2nd ed. , Inc. 1985  isbn 0-471-86256-8&lt;/ref&gt;
+
+
+Supondo que uma maquina termica receba 100 cal de calor da fonte e, simultaneamente, realize um
+trabalho util de 20 cal. Essa maquina teria entao uma eficiencia, 
+
+&lt;math&gt; n= \frac{W}{Q_1}=20/100&lt;/math&gt;, &lt;math&gt;n=0,2&lt;/math&gt; ou &lt;math&gt; 20% &lt;/math&gt;.
+Isso significa apenas 20% da energia termica fornecida a maquina e convertida em trabalho util sendo o restante nao aproveitado pela maquina. Como a quantidade total de energia nao pode aumentar ou diminuir,temos&lt;ref&gt;Kroemer, Herbert ; Kittel, Charles ; “Thermal Physics” edition  2nd ed. publisher  W. H. Freeman Company | year  1980 | isbn  0-7167-1088-9&lt;/ref&gt;: 
+
+
+&lt;center&gt;&lt;math&gt;Q_1=W+Q_2&lt;/math&gt;&lt;/center&gt;
+
+
+Portanto: 
+
+&lt;math&gt;100 = 20 +Q_2 &lt;/math&gt;
+
+&lt;math&gt;Q_2 = 100 -20&lt;/math&gt;  
+
+&lt;math&gt;Q_2=80&lt;/math&gt;
+
+== Exemplos de Maquinas Termicas ==
+
+=== [[Motor a combustao]] ===
+
+[[File:4StrokeEngine Ortho 3D Small.gif|thumb|Motor a combustao]]
+O motor a combustao e uma maquina termica comumente relacionada a automoveis. Na animacao ao lado podemos observar as fases do processo e entender como a energia de determinados gases pode ser convertida em movimento, que e a justificativa para classificarmos essa maquina como uma maquina termica, ou seja, que converte energia termica(calor) em trabalho. A eficiencia do motor a combustao e de aproximadamente 25%.&lt;ref name=Richard&gt;{{Cite book |last=[[Richard Stone|Stone, Richard]]|title= Introduction to Internal Comcustion Engines.|year=1993 |publisher= Society of Automotive Engineers|location= Warrendale, PA, USA.}}&lt;/ref&gt;
+==== Fase 1 ====
+Uma mistura de gases(ar e combustivel) devidamente dosados por um carburador ou pela injecao eletronica, preenche o cilindro a medida que o pistao libera espaco, mantendo o sistema a uma pressao constante. Esta mistura geralmente separa uma parte de combustivel para cada 15 partes de ar, entretanto dosagens diferentes podem melhorar o desempenho do motor dependendo da necessidade. Nesta fase do processo ainda nao ha nenhum principio termodinamico envolvido.
+==== Fase 2 ====
+Em seguida o pistao sobe e comprime a mistura gasosa. Essa compressao pode ser considerada uma [[transformacao adiabatica]], pois e muito rapida e nao permite que o gas troque calor com o meio externo. Nesse ponto a temperatura e a pressao do gas estao muito elevadas.
+Deve-se lembrar que o motor precisa estar em movimento para funcionar, ou seja, o pistao deve ser acionado e estar em movimento antes de ser adicionada a mistura gasosa e o motor iniciar seu funcionamento normal. Essa partida do pistao era feita com uma manivela nos primeiros veiculos, e atualmente e feita por um motor eletrica auxiliar, alimentado pela bateria do carro.
+==== Fase 3 ====
+Na terceira fase do processo, uma faisca(como a do fogao automatico) faz com que o gas entre em combustao. Quando as moleculas da gasolina entram em combustao ha um rompimento de ligacoes quimicas e esse processo origina novos gases(CO&lt;sub&gt;2&lt;/sub&gt; e H&lt;sub&gt;2&lt;/sub&gt;O). A pressao gerada pelo aumento do volume pode ser relacionada pela [[lei dos gases ideais]], e e essa pressao que empurra o pistao e mantem o movimento continuo do sistema mecanico. Essa expansao do gas em combustao tambem e um processo adiabatico devido a velocidade com que o pistao desce e retorna a pressao inicial do sistema.
+
+==== Fase 4 ====
+Nesta ultima etapa os gases queimados precisam ser expulsos do cilindro para recomecar o processo. Devido a inercia, o pistao e impulsionado para cima e nesse momento a valvula de escape abre e os gases sao empurrados para fora. Esse processo tambem e [[isobarico]] pois o pistao nao comprime os gases, apenas os empurra para fora.
+
+=== [[Motor a vapor]] ===
+[[File:Steam Engine.ogg|thumb|220px|Video de uma [[Eolipila]], considerado um dos primeiros motores a vapor documentados.]]
+A [[locomotiva a vapor]] ficou conhecida como [[Maria Fumaca]] devido a coluna de vapor e fuligem que marcava o caminho do primeiro vagao. Geralmente, o material que fornece energia termica(carvao, lenha) era levado nesses primeiros vagoes. Alem desse combustivel, a maquina precisa de agua, que vai absorver essa energia e liberara-la realizando trabalho para dar movimento ao transporte. A eficiencia do motor a vapor e inferior a 10%.
+A animacao ilustra as articulacoes ligadas ao pistao e nos ajuda a compreender como o movimento de vai-e-vem pode girar uma roda. Entretanto, a classificacao de '''maquina termica''' para este sistema esta relacionada com o vapor que empurra o pistao. E principalmente na caldeira da locomotiva, onde o combustivel e queimado, o lugar em que os conceitos da termodinamica podem ser melhor observados:
+[[File:Locomotiva FS 625.100 (09).jpg|thumb|220px|Imagem da peca real exibida na animacao.]]
+A energia termica proveniente do material em combustao aquece um reservatorio com agua. Essa transferencia de calor pode ser calculada pela diferenca de temperatura, pelo volume de agua que vira vapor e pelo [[calor especifico]] da agua. Esse vapor sobe e uma valvula permite que ele entre no cilindro onde esta o pistao. Uma vez que nao ha mais espaco, e, sabendo que o volume do vapor continua crescendo conforme mais energia e transferida para o reservatorio de agua, a pressao dentro do cilindro aumenta ate que o pistao e empurrado e seu movimento abre outra valvula que libera o vapor.
+[[File:Walschaerts motion.gif|thumb|300px|left|Funcionamento de uma locomotiva a vapor.]]
+Uma vez iniciado o movimento, o pistao retorna a posicao inicial devido a sua inercia e isso faz com que a valvula permita que o vapor do reservatorio ocupe o espaco do cilindro, completando o ciclo.&lt;ref name=Schmidt&gt;{{Cite book |last=[[Frank Schmidt|Schmidt, Frank]] e [[Robert Henderson|Henderson, Robert]]|title=Introducao as Ciencias Termicas|year=1996 |publisher=Edgard Blusher|location=}}&lt;/ref&gt;
+
+=== [[Geladeira]] ===
+[[File:Refrigerator-cycle.svg|thumb|300px|Ciclo de refrigeracao.]]
+A geladeira e uma das maquinas que revolucionou a vida do homem. Entretanto, pouco pensamos sobre seu ciclo de refrigeracao. Quanta fisica ha no processo de resfriar a comida?
+O equipamento pode ser caracterizado como uma maquina termica onde estamos interessados no calor dissipado, e nao no trabalho realizado. Parece errado, depois de tudo o que vimos, pensar que quanto mais calor for dissipado melhor sera o rendimento da geladeira, mas e exatamente isso.&lt;ref name= Schmidt/&gt;
+O processo de refrigeracao e um ciclo termico, ilustrado na imagem.
+==== Fase 1 ====
+O [[hidrofluorcarbono]] e o gas atualmente utilizado em refrigeradores e ar-condicionados. E ele quem faz o ar dentro da geladeira esfriar, gracas a troca de calor por [[Conducao termica|conducao]] e por [[conveccao]]. Inicialmente esse gas percorre a serpentina exterior da geladeira, tambem chamada de condensador, para que fique a temperatura ambiente. Essa serpentina geralmente fica atras do equipamento, mas pode ficar em qualquer lugar desde que fique a temperatura ambiente.
+==== Fase 2 ====
+Na segunda fase do ciclo o gas passa por um pequeno capilar e em seguida entra em uma tubulacao com um volume maior do que o pequeno capilar onde se encontrava. Essa mudanca de volume diminui a pressao do gas e sua temperatura, deixando a tubulacao gelada. Essa relacao entre [[pressao]] [[temperatura]] e [[volume]] e conhecida como [[equacao de estado]].
+[[File:Empty refrigerator.jpg|thumb|150px|left|Geladeira vazia.]]
+==== Fase 3 ====
+Ja resfriado o gas passa por uma outra serpentina, deixando o material mais gelado. E nessa parte que a geladeira comeca a gelar: o ar troca calor com a serpentina por conducao e fica mais denso que o resto do ar da geladeira. Esse ar mais pesado troca de lugar com o ar quente por conveccao e o ar quente entra em contato com a serpentina, tornando-se frio tambem. Essa serpentina precisa estar no parte mais alta da geladeira para que o processo de conveccao ocorra e a temperatura interna fique aproximadamente igual.
+==== Fase 4 ====
+E na quarta fase do processo que realizamos trabalho sobre o sistema, ou seja, fazemos exatamente o contrario do que vinhamos fazendo ate agora com as maquinas termicas. Um motor eletrico e utilizado para comprimir o gas gelado e fazer com que ele volte a tubulacao externa a uma pressao muito maior do que a anterior. Ao elevar a pressao tambem aumentamos a temperatura, ou seja, o gas sai mais quente do que estava dentro da geladeira. Alem de estar mais quente do que antes, ele precisa estar mais quente do que a temperatura ambiente, para que o sistema dissipe perca calor. Alem de elevar a temperatura, o compressor empurra o gas para que o ciclo continue.
+
+=== [[Turbina a vapor|Turbinas]] ===
+O termo '''turbinas''' e utilizado aqui para caracterizar qualquer sistema que utilize os principios da termodinamica para converter algum tipo de energia em energia eletrica.
+A explicacao resume bem essa sessao de maquinas termicas, pois em geral o mecanismo de tansformacao e o mesmo: uma [[helice]] (ou pa) que gira uma turbina, podendo esta ser um motor ou um corpo com propriedades magneticas.&lt;ref name=Schmidt/&gt;
+==== [[central nuclear|Usina Nuclear]] ====
+[[File:Steam-electric power plant.PNG|thumb|left|350px|Planta de um gerador de energia eletrica seguindo os principios da termodinamica.]]
+Esse processo fica bem claro em uma usina nuclear, pois o calor gerado no processo(seja ele fusao ou fissao) e convertido, em parte, em energia eletrica por um processo termodinamico.
+[[File:Angra dos Reis - usinas nucleares.jpg|thumb|300px|Usina nuclear de Angra dos Reis.]]
+Funciona da seguinte maneira: A partir de um processo nuclear de [[fissao]] ou [[fusao]] e extraida energia de materiais radioativos, e essa energia e liberada no ambiente na forma de calor. Esse ambiente e uma camara com agua, que esquenta muito rapido e evapora, originando colunas gigantes de vapor. A camara e completamente vedada, a nao ser a superficie, que e obstruida por um conjunto de pas giratorias. Devido a imensa pressao do vapor d'agua as helices gigantes giram e liberam o gas aos poucos.
+Esse movimento rotatorio das pas e propagado para algum eixo de motor ou corpo magnetico, que vai acabar gerando energia eletrica usando os mesmos principios de uma usina [[hidroeletrica]], por exemplo.
+
+{{Referencias}}
+{{Refbegin}}
+
+
+{{Refend}}
+
+[[Categoria:Termodinamica]]</text>
+      <sha1>9bucrkudkzpolkwsl5qavwum3vgr238</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

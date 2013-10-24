@@ -1,0 +1,225 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Matematica discreta</title>
+    <ns>0</ns>
+    <id>7331</id>
+    <revision>
+      <id>36652362</id>
+      <parentid>36455406</parentid>
+      <timestamp>2013-08-12T13:47:01Z</timestamp>
+      <contributor>
+        <ip>187.39.61.128</ip>
+      </contributor>
+      <comment>/* Grandes desafios, Passado e Presente */</comment>
+      <text xml:space="preserve" bytes="30348">{{sem notas|data=dezembro de 2012}}
+{{em traducao|[[:en:Discrete Mathematics|ingles]]}}
+{{Traduzido
+|Texto=en:Discrete Mathematics|Data=04 de abril de 2013
+|Fontes=XI
+}}
+{{Reciclagem|arte=sim|data=abril de 2013}}
+{{Para|a revista de matematica, consulte|Matematica Discreta (revista)}}       
+[[File:6n-graf.svg|thumb|250px|[[Grafo]]s como este estao entre os objetos estudados pela matematica discreta, por suas interessantes [[propriedades dos grafos|propriedades matematicas]], a sua utilidade como modelos de problemas do mundo real, e sua importancia no desenvolvimento de [[algoritmo]]s computacionais.]]       
+       
+'''Matematica discreta''', tambem chamada '''matematica finita''', e o estudo das [[estruturas algebricas]] que sao fundamentalmente [[Espaco discreto|discretas]]. A palavra "discreta" nesta situacao tem origem no ingles "discrete", significando "diferente", "distinta" e nao seu sentido habitual. O nome se refere ao fato de tratar-se de [[funcao (matematica)|funcoes]] cujas imagens possuem valores que nao variam gradualmente como em [[Continuidade matematica|funcoes continuas]], mas assumem valores distintos abruptamente com a mudanca do elemento do dominio considerado.
+
+Em contraste com os [[Numero real|numeros reais]] que tem a propriedade de variar "suavemente", os objetos estudados na matematica discreta - como [[Numero inteiro|numeros inteiros]] , [[grafo]]s e afirmacoes [[logica]]s &lt;ref&gt;Richard Johnsonbaugh, ''Discrete Mathematics'', Prentice Hall, 2008.&lt;/ref&gt; - nao variam suavemente, desta forma, mas tem diferencas, valores separados.&lt;ref&gt;{{MathWorld |title=Discrete mathematics |urlname=DiscreteMathematics}}&lt;/ref&gt;] A matematica discreta, portanto, exclui temas em “matematica continua", como [[calculo]] e [[Analise matematica|analise]] . Objetos discretos muitas vezes podem ser [[Enumeracao|enumerados]] por inteiros. Mais formalmente, a matematica discreta tem sido caracterizada como o ramo da matematica que lida com [[Conjunto contavel|conjuntos contaveis]]&lt;ref&gt;[[Norman L. Biggs]], ''Discrete mathematics'', Oxford University Press, 2002.&lt;/ref&gt; (conjuntos que possuem a mesma cardinalidade como subconjuntos dos numeros naturais, incluindo numeros racionais, mas nem todos numeros reais). No entanto, nao ha exato, uma definicao universalmente aceita do termo "matematica discreta".&lt;ref&gt;Brian Hopkins, ''Resources for Teaching Discrete Mathematics'', Mathematical Association of America, 2008.&lt;/ref&gt; De fato, a matematica discreta e descrita pelo que menos esta incluido do que pelo que e excluido: quantidades continuamente variaveis  e nocoes de relacoes.
+       
+O conjunto de objetos estudados na matematica discreta pode ser finito ou infinito. O termo '''matematica finita''' e as vezes aplicado na parte do campo da matematica discreta que lida com conjuntos finitos, particularmente em areas relevantes para os negocios.       
+       
+As pesquisas em matematica discreta aumentaram na segunda metade do seculo XX, sendo parte, devido ao desenvolvimento de [[Computador digital|computadores digitais]] que operam em passos discretos e armazenar dados em bits discretos. Os conceitos e notacoes da matematica discreta sao uteis para estudar e descrever objetos e problemas em ramos da [[ciencia da computacao]], tais como algoritmos de computador, [[Linguagem de programacao|linguagens de programacao]], [[criptografia]], [[prova automatica de teoremas]], e [[desenvolvimento de software]]. Por outro lado, implementacoes computacionais sao significativos na aplicacao de ideias da matematica discreta para problemas do mundo real, como em [[Investigacao operacional|pesquisas operacionais]].
+       
+Embora os principais objetos de estudo em matematica discreta sejam [[objetos[[ distintos, metodos analiticos de matematica continua sao tambem frequentemente utilizados.
+A matematica discreta tornou-se popular em decadas recentes devido as suas aplicacoes na [[ciencia da computacao]] (devido ao desenvolvimento de computadores digitais que funcionam em etapas discretas e ao armazenamento de dados em bits discretos). Conceitos e notacoes da matematica discreta sao uteis para o estudo ou a expressao de objetos ou problemas em [[algoritmo]]s de computador e [[linguagem de programacao|linguagens de programacao]].       
+'''Algumas aplicacoes''': [[Teoria dos jogos]] | [[Teoria das filas]] | [[Teoria dos grafos]] | [[geometria combinatoria|Geometria]] e [[Topologia combinatoria]] | [[Programacao linear]] | [[Criptografia]] (incluindo a [[criptologia]] e a [[criptoanalise]]) | [[Teoria da computacao]]
+
+{{Matematica}}
+==Grandes desafios, Passado e Presente==       
+[[File:Four Colour Map Example.svg|thumb|180px|right|Varias pesquisas em [[teoria dos grafos]] foram motivadas pelas tentativas de provar que todos os mapas, como este, pode ser [[Coloracao de grafos|colorido]] com [[Teorema das quatro cores|apenas quatro cores]]. Kenneth Appel e Wolfgang Haken finalmente provaram isso em 1976.&lt;ref name="4colors"&gt;{{cite book| last = Wilson| first = Robin| authorlink = Robin Wilson (mathematician)| title = Four Colors Suffice| year = 2002| publisher = Penguin Books| isbn = 978-0-691-11533-7| place = London }}&lt;/ref&gt;]]       
+       
+A historia da matematica discreta envolveu uma serie de problemas desafiadores que concentraram a atencao em diversas areas de campo. Na teoria dos grafos, varias pesquisas foram motivadas por tentativas de provar o [[teorema das quatro cores]], exposto pela primeira vez em 1852, mas sem ser demonstrado ate 1976 (por Kenneth Appel e Haken, Wolfgang, usando a assistencia substancial de um computador).&lt;ref name="4colors" /&gt;
+       
+Na [[Matematica logica|logica]], o [[Segundo problema de Hilbert|segundo problema]] na lista de [[Problemas de Hilbert|problemas]] abertos de [[David Hilbert]], apresentados em 1900, era provar que os [[axioma]]s da [[aritmetica]] sao [[consistencia|consistentes]]. O [[segundo teorema da incompletude de Gödel]], provado em 1931, mostrou que isto nao era possivel - pelo menos nao dentro da propria aritmetica. O [[decimo problema de Hilbert]] foi determinar se uma dada  equacao polinomial [[Equacao diofantina|diofantina]], com coeficientes inteiros, tem uma solucao inteira. Em 1970, [[Yuri Matiyasevich]] provou que esta [[Teorema de Matiyasevich|nao poderia ser feita]].
+
+A necessidade de [[Criptoanaĺise|quebrar]] codigos alemaes na [[Segunda Guerra Mundial]] levou a avancos em [[criptografia]] e [[ciencia da computacao teorica]], com o [[Colossus|primeiro computador digital eletronico programavel]] sendo desenvolvido no [[Parque Bletchley]] da Inglaterra. Ao mesmo tempo, os requisitos militares motivaram avancos na [[pesquisa operacional]]. A [[Guerra Fria]] mostrou que a criptografia era importante, com os avancos fundamentais, como a [[chave publica|criptografia de chave publica]] que veio sendo desenvolvida nas decadas seguintes. A '''pesquisa operacional''' permaneceu como uma ferramenta importante na gestao de negocios e projetos, com o [[metodo do caminho critico]] a ser desenvolvido em 1950. A [[industria de telecomunicacoes]] tambem motivou os avancos na matematica discreta, particularmente em teoria dos grafos e [[teoria da informacao]]. A [[verificacao formal]] de declaracoes de logica tem sido necessaria para o [[desenvolvimento de software]] de [[sistemas de seguranca critica]], e os avancos na [[prova automatica de teoremas]] tem sido impulsionada para essa necessidade.
+
+A [[Geometria computacional]] tem sido uma parte importante da [[Computacao grafica]] incorporada em modernos jogos eletronicos e ferramentas de [[CAD|Projeto assistido por computador]].
+       
+Varios campos da matematica discreta, ciencia da computacao teorica, particularmente, teoria dos grafos e [[combinatoria]], sao importantes na abordagem dos desafiantes problemas de [[bioinformatica]], associados com a compreensao da [[Arvore filogenealogica|arvore da vida]].&lt;ref&gt;{{cite book| author = Trevor R. Hodkinson| coauthors = John A. N. Parnell| title = Reconstruction the Tree of Life: Taxonomy And Systematics of Large And Species Rich Taxa| url = http://books.google.com/?id=7GKkbJ4yOKAC&amp;pg=PA97| year = 2007| publisher = CRC PressINC| isbn = 978-0-8493-9579-6| page = 97 }}&lt;/ref&gt;       
+       
+Atualmente, um dos problemas mais famosos abertas em ciencia da computacao teorica e o [[problema P = NP]], que envolve a relacao entre as [[classe de complexidade|classes de complexidade]] [[Complexidade P|P]] e [[Complexidade NP|NP]]. O [[Instituto de Matematica Clay]] ofereceu [[US$]] 1 milhao como premio para a primeira prova correta, juntamente com premios para [[Premio dos Problemas do Milenio|seis outros problemas matematicos]].&lt;ref name="CMI Millennium Prize Problems"&gt;{{cite web|title=Millennium Prize Problems|url=http://www.claymath.org/millennium/|date=2000-05-24|accessdate=2008-01-12}}&lt;/ref&gt;
+
+==Topicos em Matematica Discreta==       
+===Logica, Logica matematica (Provas, Inducao Matematica)===       
+{{AP|Logica matematica|Prova matematica}}       
+A Logica e o estudo dos principios de validacao de fundamentacao e [[inferencia]], bem como de consistencia, solidez e perfeicao. Por exemplo, na maioria dos sistemas de logica (exceto na [[logica intuicionista]]), a [[lei de Peirce]] (((''P''→''Q'')→''P'')→''P'') e um teorema. Para a [[logica classica]], pode ser facilmente verificada com uma [[tabela da verdade]]. O estudo da [[prova matematica]] e particularmente importante na logica, e tem aplicacoes para [[prova automatica de teoremas]] e [[verificacao formal]] de software.
+
+As [[Formula bem formada|formulas logicas]] sao estruturas discretas, bem como [[teoria da prova|provas]], que formam [[Estrutura de arvore|arvores]] finitos&lt;ref&gt;{{cite book| author = A. S. Troelstra| coauthors = H. Schwichtenberg| title = Basic Proof Theory| url = http://books.google.com/?id=x9x6F_4mUPgC&amp;pg=PA186| date = 2000-07-27| publisher = Cambridge University Press| isbn = 978-0-521-77911-1| page = 186 }}&lt;/ref&gt;, ou, mais em geral, dirigido grafico aciclicos estruturas &lt;ref&gt;{{cite book| author = Samuel R. Buss| title = Handbook of Proof Theory| url = http://books.google.com/?id=MfTMDeCq7ukC&amp;pg=PA13| year = 1998| publisher = Elsevier| isbn = 978-0-444-89840-1| page = 13 }}&lt;/ref&gt;&lt;ref&gt;{{cite book| author = Franz Baader| coauthors = Gerhard Brewka, Thomas Eiter| title = KI 2001: Advances in Artificial Intelligence: Joint German/Austrian Conference on AI, Vienna, Austria, September 19-21, 2001. Proceedings| url = http://books.google.com/?id=27A2XJPYwIkC&amp;pg=PA325| date = 2001-10-16| publisher = Springer| isbn = 978-3-540-42612-7| page = 325 }}&lt;/ref&gt; (a cada [[regra de inferencia|passo de inferencia]] combina-se um ou mais  ramos [[premissa]]s para dar uma unica conclusao). Os [[valor verdade|valores verdade]] de formulas logicas geralmente formam um conjunto finito, geralmente restrito a dois valores: o ''verdadeiro'' e o ''falso'', mas a logica tambem pode ser de valor-continuo, por exemplo, a [[logica fuzzy]]. Conceitos como  prova infinita de arvores ou derivacao infinitas de arvores tambem foram estudadas,&lt;ref&gt;{{cite journal | id = {{citeseerx|10.1.1.111.1105}} | title = Cyclic proofs of program termination in separation logic | first1 = J. | last1 = Brotherston | first2 = R. | last2 = Bornat | first3 = C. | last3 = Calcagno | journal = ACM SIGPLAN Notices | volume = 43 | issue = 1 | month = January | year = 2008 }}&lt;/ref&gt; e. g., a [[logica infinitaria]].
+
+===Teoria dos conjuntos, Relacoes em conjuntos, Funcoes e Grupos===       
+{{AP|Teoria dos conjuntos|Relacao (matematica)|Funcao|Grupo}}       
+A Teoria dos conjuntos e o ramo da matematica que estuda os conjuntos, que sao colecoes de objetos, como {azul, branco, vermelho} ou o conjunto (infinito) de todos os [[numero primo|numeros primos]]. [[Conjuntos parcialmente ordenados]] e conjuntos com outras [[Relacao (matematica)|relacoes]] tem aplicacoes em diversas areas.
+       
+Na matematica discreta, [[Conjunto contavel|conjuntos contaveis]] ​​(incluindo [[Conjunto infinito|conjuntos finitos]]) sao o foco principal. O inicio da teoria dos conjuntos, como um ramo da matematica, e normalmente marcado pelo trabalho de [[Georg Cantor]], distinguindo diferentes tipos de [[conjunto infinito|conjuntos infinitos]], motivados pelo estudo de series trigonometricas, e um maior desenvolvimento da teoria dos [[conjuntos infinitos]] esta fora do escopo da matematica discreta. Por outro lado, o trabalho contemporaneo na [[teoria descritiva dos conjuntos]] faz uso extensivo de matematica continuas tradicionais.
+       
+===Probabilidade, Teoria das probabilidades e Cadeias de Markov===       
+{{AP|Teoria das probabilidades|Cadeias de Markov}}       
+A '''Teoria de probabilidade discreta''' lida com eventos que ocorrem em ​​espacos amostrais contaveis. Por exemplo, as observacoes de contagem, como o numero de aves em bandos compreendem valores numericos restritamente naturais {0, 1, 2, ...}. Por outro lado, as observacoes continuas, tais como os pesos das aves, compreendem valores de numeros reais, e seria normalmente modelada por uma distribuicao de probabilidade continua, tais como a [[Distribuicao normal|normal]]. Distribuicoes de probabilidade discretas podem ser usadas para aproximar as continuas e vice-versa. Para situacoes altamente restritivas, como jogar [[dado]]s ou experimentos com [[baralho de cartas]], o calculo da probabilidade de eventos e basicamente [[combinatoria enumerativa]].
+       
+===Teoria dos numeros===       
+[[File:Ulam 1.png|thumb|200px|right|A [[espiral de Ulam]] de numeros, com pontos pretos que mostram [[numero primo|numeros primos]]. Este diagrama aponta para padroes na [[Numero primo#Distribuicao|distribuicao]] dos numeros primos.]]
+{{AP|Teoria dos numeros}}       
+A Teoria dos numeros esta relacionada com as propriedades de numeros em geral, particularmente [[inteiro]]s. Tem aplicacoes para a [[criptografia]], a [[criptoanalise]] e [[criptologia]], particularmente em relacao a [[aritmetica modular]], [[equacoes diofantinas]], congruencias linear e quadratica, numeros primos e [[testes de primalidade]]. Outros aspectos distintos da teoria dos numeros incluem [[geometria dos numeros]]. Em [[teoria analitica dos numeros]], as tecnicas de matematica continuas tambem sao utilizadas. Topicos que vao alem de objetos discretos incluem [[numero transcendental|numeros transcendentais]], [[aproximacao diofantina]], [[analise p-adic]] e [[corpo de funcoes de uma variedade algebrica|corpos de funcao]].
+       
+===Combinatoria===
+{{AP|Combinatoria}}       
+A Combinatoria estuda a maneira pela qual as estruturas discretas podem ser combinadas ou arranjadas.
+A [[combinatoria enumerativa]] concentra-se na contagem do numero de certos objetos combinados - por exemplo, o [[caminho de Doze]] fornece uma estrutura unificada para a contagem de [[permutacao|permutacoes]], [[combinacao|combinacoes]] e [[Particao de conjunto|particoes]].
+[[Combinatoria analitica]] diz respeito a enumeracao (ou seja, determinar o numero) de estruturas combinatorias usando ferramentas de [[analise complexa]] e [[teoria da probabilidade]]. Em contraste com a analise combinatoria enumerativa que usa formulas combinatorias explicitas e funcoes geratrizes para descrever os resultados, a [[analise combinatoria analitica]] visa a obtencao de [[Analise assintotica|formulas assintotica]].
+A Teoria de projetos e um estudo de [[modelo combinatorio|modelos combinatorios]], que sao colecoes de subconjuntos com certas propriedade de [[Conjunto de intersecao|intersecao]].
+A [[teoria de particao]] estuda varios problemas assintoticos e de enumeracao  relacionados com [[Particao inteira|particoes inteiras]], e esta intimamente relacionado com [[Serie-Q]], [[Funcao especial|funcoes especiais]] e [[Polinomio ortogonal|polinomios ortogonais]]. Originalmente uma parte da [[teoria dos numeros]] e [[analise]], a teoria da particao e considerada, atualmente, uma parte de analise combinatoria ou campo independente.       
+A [[Teoria da ordem]] e o estudo dos [[conjunto parcialmente ordenado|conjuntos parcialmente ordenados]], alem deste dos finitas e infinitas.       
+       
+===Teoria dos grafos===       
+{{AP|Teoria dos grafos}}       
+[[File:TruncatedTetrahedron.gif|thumb|right|200px|A [[Teoria dos grafos]] tem lacos estreitos com a [[teoria dos grupos]]. Este grafo de  um[[tetraedro truncado]] esta relacionado com o [[grupo alternado]] 'A''&lt;sub&gt;4&lt;/sub&gt;.]]       
+A [[Teoria dos grafos]], ou seja, o estudo dos [[grafo]]s e das [[Teoria da redes|redes]], e muitas vezes considerada como parte da [[analise combinatoria]], mas tem tido um crescimento bastante grande, suficiente e distinto, com seu proprio tipo de problemas, devendo ser considerado como um sujeito de regras proprias.&lt;ref&gt;[http://jhupbooks.press.jhu.edu/ecom/MasterServlet/GetItemDetailsHandler?iN=9780801866890&amp;qty=1&amp;viewMode=1&amp;loggedIN=false&amp;JavaScript=y Graphs on Surfaces], [[Bojan Mohar]] and [[Carsten Thomassen]], Johns Hopkins University press, 2001&lt;/ref&gt; Os grafos estao entre os objetos principais de estudo na matematica discreta. Eles estao entre os modelos mais onipresentes de ambas as estruturas naturais e criadas pelo homem. Eles podem modelar muitos tipos de relacoes e dinamicas de processos em sistemas fisicos, biologicos e sociais. Na ciencia da computacao, eles podem representar redes de comunicacao, organizacao de dados, dispositivos computacionais, fluxo de computacao, etc. Em matematica, eles sao uteis na geometria e certas partes da [[topologia]], e.g., [[teoria dos nos]]. A [[teoria dos grafos algebricos]] tem estreitas ligacoes com grupo teoria. Ha tambem graficos continuos , no entanto, para a pesquisa maior parte, em teoria dos grafos cai dentro do dominio da matematica discreta.
+       
+===Teoria da computacao, Algoritmos e Recursividade===
+{{AP|Ciencia da computacao teorica|Algoritmo|Recursao}}
+[[File:Sorting quicksort anim.gif|thumb|210px|[[Complexidade]] estuda o tempo tomado por algoritmos, como esta [[Algoritmo de ordenacao|rotina de ordenacao]].]]
+Ciencia da computacao teorica inclui areas de matematica discreta relevantes para a computacao. Ele se baseia fortemente na teoria dos grafos e logica . Incluido dentro ciencia da computacao teorica e o estudo de algoritmos para calcular os resultados matematicos. Computabilidade estuda o que pode ser computado em principio, e tem lacos estreitos com a logica, enquanto os estudos de complexidade de prazos por calculos. teoria de automatos e linguagem formal teoria estao intimamente relacionados com computabilidade. redes de Petri e algebras de processos sao usados ​​para sistemas de computador modelo e metodos da matematica discreta sao utilizadas na analise VLSI circuitos eletronicos. geometria computacional aplica algoritmos para problemas geometricos, enquanto que a analise de imagens de computador aplica as representacoes de imagens. Ciencia da computacao teorica inclui tambem o estudo de diversos temas continuos computacionais.       
+       
+===Teoria da Informacao===       
+{{AP|Teoria da informacao}}       
+[[File:WikipediaBinary.svg|thumb|150px|Os codigos ASCII para a palavra "Wikipedia", dado aqui em binario , proporcionam uma forma de representar a palavra em teoria da informacao , bem como para o processamento de informacoes algoritmos.]]       
+A teoria da informacao envolve a quantificacao de informacao . Estreitamente relacionado e teoria da codificacao que e usada para desenhar eficiente e fiavel a transmissao de dados e metodos de armazenamento. A teoria da informacao tambem inclui temas continuos, tais como: sinais analogicos , codificacao analogicos , criptografia analogico .       
+       
+===Algebra===       
+{{AP|Algebra abstrata}}       
+Estruturas algebricas ocorrer como ambos os exemplos e exemplos discretas continuas. Algebras discretos incluem: algebra booleana usado em portas logicas e programacao; algebra relacional usado em bancos de dados ; versoes discretas e finito de grupos , aneis e campos sao importantes na teoria de codificacao algebrica ; discretos semigrupos e monoids aparecer na teoria de linguagens formais .       
+       
+===Calculo de diferencas finitas, Calculo discreto ou Analise discreta===       
+{{AP|Diferencas finitas}}       
+Uma funcao definida num intervalo de numeros inteiros e normalmente chamado de sequencia . Uma sequencia pode ser uma sequencia finita a partir de uma fonte de dados, ou uma sequencia infinita de um sistema dinamico discreto . Tal funcao discreta pode ser definido explicitamente por uma lista (se o dominio e finito), ou por uma formula para o seu termo geral, ou pode ser dada implicitamente por uma relacao de recorrencia ou equacao de diferenca . Equacoes de diferencas sao semelhantes a um equacoes diferenciais , mas substitua diferenciacao tomando a diferenca entre os termos adjacentes, pois eles podem ser usados ​​para equacoes diferenciais aproximados ou (mais frequentemente) estudados em seu proprio direito. Muitas perguntas e metodos relacionados com equacoes diferenciais tem contrapartidas para equacoes de diferenca. Por exemplo, onde ha transformadas integrais em analise harmonica para o estudo de funcoes continuas ou sinais analogicos, ha transformacoes discretas para funcoes discretas ou sinais digitais. Bem como a metrica discreta ha mais gerais discretos ou finitos espacos metricos e finitos espacos topologicos .       
+       
+===Geometria===       
+[[File:SimplexRangeSearching.png|right|thumb|150px|Geometria computacional computador aplica algoritmos para as representacoes de geometricos objetos.]]       
+{{AP|Geometria discreta|Geometria computacional}}       
+Geometria discreta e geometria combinatoria sao cerca propriedades combinatorias de colecoes de objetos geometricos discretos. Um topico de longa data na geometria discreta e a telha do aviao . Geometria computacional aplica algoritmos para problemas geometricos.       
+       
+===Topologia===       
+Apesar de topologia e o campo da matematica que formaliza e generaliza a nocao intuitiva de "deformacao continua" de objetos, que da origem a muitos temas distintos, o que pode ser atribuido em parte ao foco na invariantes topologicos , que normalmente levam-se valores discretos. Veja topologia combinatoria , teoria dos grafos topologica , combinatoria topologicos , topologia computacional , espaco topologico discreto , espaco topologico finito , topologia (quimica) .       
+       
+       
+===Investigacao ou Pesquisa Operacional===       
+{{AP|Investigacao operacional}}       
+[[File:Pert chart colored.svg|right|thumb|150px|PERT graficos como este proporcionam uma tecnica de gestao de negocios com base na teoria dos grafos.]]       
+A pesquisa operacional fornece tecnicas para resolver problemas praticos de negocios e outras areas - problemas como a alocacao de recursos para maximizar o lucro, ou agendar atividades do projeto para minimizar o risco. Tecnicas de pesquisa operacional incluem programacao linear e outras areas de otimizacao , teoria das filas , teoria de programacao , teoria de rede . A pesquisa operacional tambem inclui temas continuas, tais como tempo continuo processo de Markov de tempo continuo, martingales , otimizacao de processos e continua e hibrida teoria de controle .       
+       
+===Teoria dos jogos, Teoria da decisao, Teoria da utilidade, Teoria da escolha social===       
+Cooperar     Cooperar     Defeito
+Defeito     -1, -1     -10, 0
+Matriz de payoff para o dilema do prisioneiro , um exemplo comum em teoria dos jogos . Um jogador escolhe uma linha, o outro uma coluna, o par resultante da seus retornos    0, -10     -5, -5
+       
+A teoria da decisao esta relacionada com a identificacao de valores, incertezas e outras questoes relevantes em uma dada decisao, sua racionalidade, ea decisao resultante ideal.       
+       
+Teoria da utilidade e sobre medidas da relacao economica de satisfacao, ou conveniencia de, consumo de bens e servicos diversos.       
+       
+Teoria da escolha social e de cerca de votacao . Uma abordagem mais puzzle baseado a votacao e teoria votacao .       
+       
+Teoria dos jogos lida com situacoes onde o sucesso depende das escolhas dos outros, o que torna a escolha do melhor curso de acao mais complexa. Ha jogos mesmo continuas, ver jogo diferencial . Os topicos incluem a teoria dos leiloes e divisao justa .       
+       
+===Discretizacao===       
+{{AP|Discretizacao}}       
+       
+Discretizacao diz respeito ao processo de transferencia de modelos continuos e equacoes em homologos discretos, muitas vezes para fins de fazer calculos mais facil usando aproximacoes. analise numerica fornece um exemplo importante.       
+       
+===Analogia discreta de matematica continua===       
+Existem muitos conceitos em matematica continuas que tem versoes distintas, tais como calculo discreto , distribuicoes de probabilidade discretas , transformadas de Fourier discretas , geometria discreta , logaritmos discretos , geometria diferencial discreta , calculo exterior discreta , teoria de Morse discreta , equacoes diferenciais , sistemas dinamicos discretos , e medidas vetor discretos .       
+       
+Em matematica aplicada , modelagem discreta e o analogo discreto de modelagem continua . Na modelagem discreta, formulas discreto estao aptos a dados . Um metodo comum neste tipo de modelagem e a utilizacao de relacao de recorrencia .       
+       
+===Matematica discreta hibridos e Matematica continua===       
+O calculo escala de tempo e uma unificacao da teoria da equacoes de diferencas com o de equacoes diferenciais , que tem aplicacoes em campos que exigem modelagem simultanea de dados discretos e continuos.       
+       
+== Ver tambem ==       
+{{Portal|Matematica discreta}}       
+* [[Outline of discrete mathematics]]       
+* [[Cyberchase , um show que ensina Matematica Discreta para criancas]]       
+* [[Iowa Central: tecnologias eletricas Programe Matematica Discreta para Engenharia Eletrica.]]       
+* [[Anexo:Lista de topicos basicos de matematica discreta|Lista de topicos basicos de matematica discreta]]       
+* [[Continuo (matematica)]]       
+* [[Topologia (matematica)|Topologia]]       
+* [[Analise matematica]]       
+       
+==Referencias==       
+{{Reflist}}       
+* [[Donald Knuth|Donald E. Knuth]], ''[[The Art of Computer Programming]]''       
+* Judith L. Gersting ''Fundamentos Matematicos para a [[Ciencia da computacao|Ciencia da Computacao]]'', 5a Edicao, LTC Editora (2004)       
+* Paulo Blauth ''Matematica Discreta para Computacao e Informatica'' Sagra-Luzzato (2004)       
+* R.L. Graham, [[Donald Knuth|D. E. Knuth]] e O. Patashnik, ''Matematica Concreta – Fundamentos para a [[Ciencia da computacao|Ciencia da Computacao]]''. LTC (1995)       
+* Kenneth H. Rosen, ''Discrete Mathematics and Its Applications'', ISBN 0-07-119881-4 (International Edition)       
+* Richard Johnsonbaugh, ''Discrete Mathematics'' 5th ed. Macmillan, New Jersey       
+* ''Introducao a Analise Combinatoria'', 3a Edicao, Editora Unicamp       
+* Jaime Evaristo, ''Introducao a Algebra Abstrata'', Segunda Edicao, Versao 02.2012, Formato Digital, disponivel em [http://www.ic.ufal.br/professor/jaime]       
+       
+==Leitura complementar==       
+{{Wikibooks|Matematica Discreta}}       
+* {{cite book| author = Norman L. Biggs| title = Discrete Mathematics| date = 2002-12-19| publisher = Oxford University Press| isbn = 978-0-19-850717-8 }}       
+* [[Ronald Graham]], [[Donald Knuth|Donald E. Knuth]], [[Oren Patashnik]], ''[[Concrete Mathematics]]''       
+* {{cite book| author = Donald E. Knuth| title = The Art of Computer Programming, Volumes 1-4a Boxed Set| date = 2011-03-03| publisher = Addison-Wesley Professional| isbn = 978-0-321-75104-1 }}       
+* {{cite book| author = Kenneth H. Rosen| coauthors = John G. Michaels| title = Hand Book of Discrete and Combinatorial Mathematics| year = 2000| publisher = CRC PressI Llc| isbn = 978-0-8493-0149-0 }}       
+* {{cite book| author = Bojana Obrenic| title = Practice Problems in Discrete Mathematics| date = 2003-01-29| publisher = Prentice Hall| isbn = 978-0-13-045803-2 }}       
+* {{cite book| author = John Dwyer| title = An Introduction to Discrete Mathematics for Business &amp; Computing| year = 2010| isbn = 978-1-907934-00-1 }}       
+* {{cite book| author = Kenneth H. Rosen| title = Discrete Mathematics: And Its Applications| year = 2007| publisher = McGraw-Hill College| isbn = 978-0-07-288008-3 }}       
+* {{cite book| author = Ralph P. Grimaldi| title = Discrete and Combinatorial Mathematics: An Applied Introduction| year = 2004| publisher = Addison Wesley| isbn = 978-0-201-72634-3 }}       
+* {{cite book| author = Susanna S. Epp| title = Discrete Mathematics With Applications| date = 2010-08-04| publisher = Thomson Brooks/Cole| isbn = 978-0-495-39132-6 }}       
+* {{cite book| author = Jiři Matoušek| coauthors = Jaroslav Nešetřil| title = Discrete Mathematics| year = 1998| publisher = Oxford University Press| isbn = 978-0-19-850208-1 }}       
+* [http://archives.math.utk.edu/topics/discreteMath.html Mathematics Archives], Discrete Mathematics links to syllabi, tutorials, programs, etc.       
+* {{cite book| author = Andrew Simpson| title = Discrete Mathematics by Example| year = 2002| publisher = McGraw-Hill Incorporated| isbn = 978-0-07-709840-7 }}       
+{{esboco-matematica}}
+
+[[Categoria:Matematica discreta|*]]</text>
+      <sha1>ctdjqdqb6hafes2evsz9fk575ets97t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

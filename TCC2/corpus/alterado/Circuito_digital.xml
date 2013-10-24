@@ -1,0 +1,162 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Circuito digital</title>
+    <ns>0</ns>
+    <id>65040</id>
+    <revision>
+      <id>36052148</id>
+      <parentid>34465818</parentid>
+      <timestamp>2013-06-09T23:12:41Z</timestamp>
+      <contributor>
+        <username>Dbastro</username>
+        <id>662262</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="10653">[[Imagem:relogio binario.JPG|direita|thumb|280px|Relogio binario em [[Protoboard|placas de ensaio]]]]
+'''Circuitos Digitais''' (ou '''Circuitos Logicos''') sao definidos como [[circuitos eletronicos]] que empregam a utilizacao de sinais eletricos em apenas dois niveis de corrente (ou tensao) para definir a representacao de valores binarios.&lt;ref&gt;{{citar web |url=http://www.cp.utfpr.edu.br/chiesse/Sistemas_Digitais/Introducao.pdf |titulo=Circuitos Digitais |acessodata=14 de Maio de 2012 |autor=Prof. Luiz Marcelo Chiesse da Silva |ultimo=Chiesse da Silva |primeiro=Luiz Marcelo |ano=2012|mes=Maio |formato=PDF |publicado=Cefet PR - Cornelio Procopio }}&lt;/ref&gt;
+
+Circuitos Logicos baseiam seu funcionamento na [[logica binaria]], que consiste, que toda informacao deve ser expressa na forma de dois digitos (tanto armazenada, como processada), sendo tais digitos, 0 (zero) ou 1 (um). A partir dai surge intuitivamente a nomeacao “digital” (dois digitos).
+
+Este fato auxilia para a representacao de estados de dispositivos que funcionam em dois niveis distintos, sendo estes: ligado/desligado (on/off), alto/baixo (high/low), verdadeiro/falso (true/false) entre outros.
+
+Os [[computadores]], [[telefone celular]], leitores de [[DVD]] ou [[Blu-ray]], sao alguns exemplos de aparelhos que baseiam a totalidade, ou parte, do seu funcionamento em circuitos digitais.
+
+=== Construcao de Circuitos Digitais ===
+Circuitos sao constituidos pela associacao de [[portas logicas|blocos logicos]].
+
+Os blocos logicos sao divididos em 7 classes:
+* [[E (AND)]]
+* [[OU (OR)]]
+* [[NAO (NOT)]]
+* [[NE (NAND)]]
+* [[NOU (NOR)]]
+* [[XOR|XOR (OU EXCLUSIVO)]]
+* [[Porta XNOR|XNOR (NAO-OU EXCLUSIVO)]]
+
+A partir destes blocos logicos e possivel construir praticamente todas as outras associacoes necessarias.&lt;ref&gt;{{citar web |url=http://200.17.141.72/lew/sites/default/files/aula_03_circuitos_digitais_1.pdf |titulo=Sistemas digitais: uma abordagem integrada |acessodata=21 de Maio de 2012 |autor=John P. Uyemura |ultimo=P. Uyemura |primeiro=John |ano=2012|mes=Maio |formato=PDF |publicado=Laboratorio de Engenharia Web - LEW }}&lt;/ref&gt;
+
+Exemplos:
+# [[Contadores binarios|Contadores Binarios]] (Flip-Flops).
+# [[Unidade Logico-Aritmetica|Unidades logico-aritmeticas]] (ULA, ou, em ingles ALU).
+# Etc.
+
+== Circuitos Digitais Vs Circuitos Analogicos ==
+Circuitos Digitais apresentam diversas vantagens sobre [[circuitos analogicos|Circuitos Analogicos]], tais como:
+# Facilidade de projetar e armazenar informacoes;
+# Extensa programabilidade;
+# Maior exatidao e integracao;
+# Sao menos afetados por ruidos originarios de flutuacoes de tensao de alimentacao (causado pelo fato de que circuitos digitais nao dependem do valor exato da tensao eletrica recebida, e sim da diferenca entre os niveis Alto e Baixo).
+
+Todavia, os circuitos digitais apresentam tambem desvantagens, sendo elas:
+O mundo e de natureza analogica, ou seja, valores continuos com extensa variacao de frequencia, com isso, todo circuito digital que lida com variaveis fisicas de natureza analogica necessita converter tal informacao para o meio digital, para entao processar, e posteriormente fazer o fluxo inverso, converte da natureza digital para a analogica, sendo este processo, em alguns casos, nao benefico.
+
+== Origem do nome ==
+A palavra '''digital''' deriva de digito, que por sua vez procede do latim ''digitus'', significando dedo.
+
+Desde que a [[humanidade]] desenvolveu o processo de contagem, os [[dedo]]s foram os [[instrumento]]s mais simples e eficientes para contar pequenos valores. O [[sistema de numeracao indo-arabico]], o mais usado atualmente, e um sistema de base dez, pois sao dez os dedos das duas maos dos seres humanos. Muitos outros [[sistemas de numeracao]] usam a base decimal, pois serviam para [[simbolos matematicos|simbolizar]] a contagem com os dedos.
+
+Normalmente com os dedos so e possivel contar valores [[numero inteiro|inteiros]]. Por causa dessa caracteristica, a palavra ''digital'' tambem e usada para se referir a qualquer objeto que trabalha com valores [[Matematica discreta|discretos]]. Ou seja, entre dois valores considerados aceitaveis existe uma quantidade ''finita'' de valores aceitaveis.
+
+Digital '''nao''' e sinonimo de [[eletronica|eletronico]]: por exemplo, o [[computador eletronico]] pode ser chamado de digital porque trabalha com o [[sistema binario]], que e simbolizado por uma sequencia finita de zeros e uns, qualquer que seja o tipo de dados.
+
+Hoje em dia, porem, nao se consegue desvincular a palavra "digital" do sistema informatico e de tecnologias ligadas a computacao, como, por exemplo, "transmissao digital".
+
+A introducao da tecnologia digital na radiodifusao e vista, potencialmente, por especialistas como uma verdadeira revolucao, que ira criar um novo meio de comunicacao. "A TV digital pode quebrar todos paradigmas existentes na comunicacao", diz Gustavo Gindre, coordenador geral do Instituto de Estudos e Projetos em Comunicacao e Cultura (Indecs) e integrante do Coletivo Intervozes.
+
+== Circuitos combinacionais ==
+Um circuito digital e dito combinacional se em que em um dado instante de tempo a saida depende unica e exclusivamente das combinacoes da variaveis de entrada, ou seja, o circuito combinacional nao e capaz de armazenar valores em "memoria", para uso posterior. Seu [[fluxograma]] e composto de situacao, tabela da verdade expressao [[logica binaria|logica]] e circuito.
+
+O funcionamento de todas as [[portas logicas]] basicas e a [[logica booleana]] que descrevem e analisam os circuitos feitos a partir da combinacao de portas logicas podem ser classificados como circuitos logicos combinacionais porque, em qualquer instante de tempo, o nivel logico da saida do circuito depende da combinacao dos niveis logicos presente nas entradas. Um circuito combinacional nao possui a caracteristica de [[memoria]], portanto sua saida depende apenas dos valores atuais das entradas.&lt;ref&gt;{{citar web|url=http://www.inf.ufsc.br/ine5365/mixtcomb.html |titulo=Logica Mista. Circuitos Combinacionais |publicado=UFSC}}&lt;/ref&gt;
+
+O circuito combinacional realiza um conjunto de equacoes booleanas realizando uma determinada operacao de processamento da informacao, ou seja, a combinacao de valores de entrada e vista como uma informacao distinta das outras e o conjunto de valores de saidas das operacoes representa o resultado da operacao. Em cada circuito pode ser usado a simplificacao de circuitos logicos pelo metodo de [[Mapeamento de processos|mapeamento]] ou teoremas da [[algebra booleana]].&lt;ref&gt;{{citar web|url=http://minerva.ufpel.edu.br/~guntzel/isd/isd3.pdf |titulo=Circuitos Combinacionais |publicado=UFPEL}}&lt;/ref&gt;
+
+== Circuitos Integrados em Sistemas Digitais (CIs) ==
+Os Circuitos Integrados permitiram uma implementacao de Sistemas Digitais mais simples e segura, ou seja, permitiu que sistemas digitais complexos fossem criados de maneira mais limpa e coesa, em relacao a sistemas implementados com componentes discretos.&lt;ref&gt;{{citar web |url=http://www.dee.ufrj.br/cirlog/TextosCompl/Circuitos%20integrados.ppt |titulo=Circuitos Integrados |acessodata=17 de maio de 2012 |autor=Lucinio Preza de Araujo |ultimo=Preza de Araujo |primeiro=Lucinio |ano=2012|mes=Maio |formato=PDF |publicado=Universidade Federal do Rio de Janeiro}}&lt;/ref&gt;
+
+Existem diversas tecnologias usadas atualmente para a producao de circuitos integrados, dentre elas, as mais comuns sao:
+* [[Transistor-Transistor Logic|Logica Transistor-Transistor]].
+* [[CMOS|CMOS (Complementary Metal-oxido-semicondutor)]].
+* [[Logica NMOS|NMOS (N-type Metal-oxide-semiconductor Logic)]].
+* [[Emitter-coupled logic|ECL (Emitter-Coupled Logic)]]&lt;ref name="CEFETES"&gt;{{citar web |url=ftp://ftp.cefetes.br/Cursos/Eletrotecnica/Fabio/EletronicaDigital/Apostilas/Apostila%20com%20base%20no%20livro%20-%20Sistemas%20Digitais.pdf |titulo=Circuitos e Sistemas Digitais |acessodata=15 de maio de 2012 |autor=Marcelo Calderaro |ultimo=Calderaro |primeiro=Marcelo |ano=2012|mes=Maio |formato=PDF |publicado=Instituto Federal do Espirito Santo}}&lt;/ref&gt;
+
+=== Transferencia de Informacoes com Circuitos Integrados Digitais ===
+De maneira geral, existem duas formas de transferencia de dados em CIs, sendo elas:
+* Paralelo
+* Serial
+
+As CIs Paralelas funcionam de maneira que os bits sao transferidos simultaneamente, ou seja, varias filas de dados sofrem transicao todas ao mesmo tempo (mecanismo de multiplas filas.).
+
+E as CIs Seriais funcionam com o mecanismo de unica fila, ou seja, os bits sao transferidos  um de cada vez no mesmo fluxo de dados.
+&lt;ref name="CEFETES"&gt;{{citar web |url=ftp://ftp.cefetes.br/Cursos/Eletrotecnica/Fabio/EletronicaDigital/Apostilas/Apostila%20com%20base%20no%20livro%20-%20Sistemas%20Digitais.pdf |titulo=Circuitos e Sistemas Digitais |acessodata=15 de maio de 2012 |autor=Marcelo Calderaro |ultimo=Calderaro |primeiro=Marcelo |ano=2012|mes=Maio |formato=PDF |publicado=Instituto Federal do Espirito Santo}}&lt;/ref&gt;
+
+== Performance de circuitos digitais ==
+Circuitos digitais possuem atrasos na propagacao de seus sinais. Estes atrasos podem ocorrer devido ao tempo que cada porta logica leva para gerar um sinal de saida, dada uma mudanca no sinal de entrada, e devido a propagacao dos sinais atraves dos fios do circuito.&lt;ref name="brvr" /&gt; {{rp|p.57}}
+
+A velocidade de um circuito digital e sempre limitada de acordo com o maior atraso do circuito. Tal atraso e causado pelas portas logicas e e chamado de ''atraso de caminho critico''. O caminho com maior tempo de atraso entre dois pontos do circuito e chamado de ''caminho critico''.&lt;ref name="brvr"&gt;{{Citar livro |autor=Stephen Brown |coautor=Zvonko Vranesic |titulo=Fundamentals of Digital Logic with VHDL Design |idioma=Ingles |edicao=2 |local=Dept. of Electrical and Computer Engineering - University of Toronto | editora=McGraw-Hill |ano=2005 |isbn=0-07-246085-7 }}&lt;/ref&gt;{{rp|p.271}}
+
+{{referencias}}
+
+== Ver tambem ==
+{{Wikilivros}}
+* [[Circuito sequencial]]
+* [[Sinal Digital]]
+* [[Processamento digital de sinais]]
+* [[Porta logica]]
+* [[Circuitos combinacionais]]
+* [[Contador assincrono]]
+* [[Simplificacao de circuitos logicos]]
+
+{{Sistemas digitais}}
+
+{{Portal3|Eletronica}}
+
+[[Categoria:Hardware]]
+[[Categoria:Eletronica digital]]
+[[Categoria:Circuitos digitais]]
+[[Categoria:Ciencia da computacao]]
+[[Categoria:Logica]]
+[[Categoria:Algebra booleana]]
+[[Categoria:Computacao]]
+[[Categoria:Sintese logica]]</text>
+      <sha1>8yk9wizchigen1wrw5dea4svf15x8cs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

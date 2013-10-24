@@ -1,0 +1,160 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Projeto</title>
+    <ns>0</ns>
+    <id>2074262</id>
+    <revision>
+      <id>37100520</id>
+      <parentid>37100516</parentid>
+      <timestamp>2013-10-12T21:25:46Z</timestamp>
+      <contributor>
+        <username>Zoldyick</username>
+        <id>930575</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:REV|Revertidas]] edições por [[Special:Contribs/200.189.94.160|200.189.94.160]] para a última versão por [[Special:Contribs/189.91.67.234|189.91.67.234]] (usando [[WP:H|Huggle]])</comment>
+      <text xml:space="preserve" bytes="7703">Um '''projeto''' em [[negócio]] e [[ciência]] é normalmente definido como um empreendimento colaborativo, frequentemente envolvendo pesquisa ou desenho, que é cuidadosamente [[Plano|planejado]] para alcançar um objetivo particular. Projetos podem ainda ser definidos como [[Sistema social|sistemas sociais]] temporários, em vez de permanentes, que são constituídos por [[equipe]]s dentro ou entre as organizações para realizar [[Tarefa (gerenciamento de projetos)|tarefa]]s específicas sob restrições de tempo.
+
+Também pode ser definido como um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo. Os projetos e as operações diferem, principalmente, no fato de que  os projetos são temporários e exclusivos, enquanto as operações são contínuas e repetitivas.
+
+Os projetos são normalmente autorizados como resultado de uma ou mais considerações estratégicas. Estas podem ser uma demanda de mercado, necessidade organizacional, solicitação de um cliente, avanço tecnológico ou requisito legal.
+
+== Visão geral ==
+A palavra ''projeto'' vem da palavra [[Latim|latina]] ''projectum'' do verbo em latim ''proicere'', "antes de uma ação", que por sua vez vem de ''pró''-, que denota precedência, algo que vem antes de qualquer outra coisa no tempo (em paralelo com o [[grego]] πρό) e ''iacere'', "fazer". Portanto, a palavra "projeto", na verdade, significava originalmente "antes de uma ação".
+
+Quando o idioma Português inicialmente adotou a palavra, ela se referia a um plano de alguma coisa, não o ato de realmente levar esse plano a concretização. Algo realizado de acordo com um projeto tornou-se conhecido como um "[[objetivo]]".
+
+
+As principais características dos projetos são:
+
+* temporários, possuem um início e um fim definidos.  
+
+* planejados, executado e controlado. 
+
+* entregam produtos, serviços ou resultados exclusivos. 
+
+* desenvolvidos em etapas e continuam por incremento com uma elaboração progressiva. 
+
+* realizados por pessoas.
+
+* com recursos limitados. 
+
+Esse é um resumo da definição de projeto feita pelo Guia  [[PMBOK|PMBOK®]], um guia que identifica o subconjunto do conjunto de conhecimentos em gerenciamento de projetos, amplamente reconhecido como boa prática na maioria dos projetos na maior parte do tempo e utilizado como base pelo Project Management Institute ( [[PMI|PMI®]]).
+
+O '''contexto da gerência de projetos''' descreve o ambiente em que um projeto opera. Sua observação é fundamental, já que o gerenciamento das atividades do dia-a-dia é necessário, mas não é o suficiente para o sucesso do projeto.
+
+== Ciclo de Vida de Projeto ==
+O conjunto de fases do projeto é chamado “ciclo de vida do projeto”. De um modo geral, as fases do projeto apresentam as seguintes características:
+
+* Cada fase do projeto é marcada pela entrega de um ou mais produtos (''deliverables''), como estudos de viabilidade ou protótipos funcionais;
+
+* No início de cada fase, define-se o trabalho a ser feito e o pessoal envolvido na sua execução;
+
+* O fim da fase é marcada por uma revisão dos produtos e do desempenho do projeto até o momento;
+
+* Uma fase começa quando termina a outra. Quando há ''overlapping'' entre as fases, chamamos essa prática de "''fast tracking''". Nesse caso, começa-se a trabalhar nas próximas fases do projeto antes do fim da fase corrente (entrega e revisão dos produtos);
+
+* Os custos são geralmente crescentes à medida que a fase avança;
+
+* Os riscos são geralmente decrescentes à medida que a fase avança;
+
+* A habilidade das partes envolvidas alterarem os produtos de cada fase é decrescente à medida que a fase avança;
+
+* Cada indústria apresenta diferentes fases específicas para seus projetos, sendo que muitas têm suas fases detalhadamente descritas, em padrões.
+
+== Partes envolvidas no projeto (''stakeholders'') ==
+
+São indivíduos e organizações ativamente envolvidos no projeto, cujos interesses são afetados (positiva ou negativamente) por ele, ou que exercem influência sobre o mesmo. Incluem o gerente de projeto, o cliente, a organização que fará o projeto, os membros da equipe de projeto, o sponsor/patrocinador (indivíduo/grupo interno ou externo que provê os recursos financeiros para o projeto).
+
+Inclui também partes externas, como fundadores, vendedores, fornecedores, agências governamentais, comunidades afetadas pelo projeto e a sociedade em geral.
+
+É boa prática identificar cada uma das partes envolvidas no projeto, identificar e gerenciar possíveis áreas de conflito entre elas. Uma orientação geral é resolver as diferenças entre as partes favorecendo o cliente.
+
+== Estruturas Organizacionais ==
+
+A organização em que o projeto está inserido pode ser de duas categorias: ou é uma organização que vive de projetos, ou é uma organização que adotou o gerenciamento por projetos para a sua administração.
+
+De um modo geral, as organizações utilizam diversas estruturas. As principais são:
+
+* Organização com estrutura funcional: cada funcionário tem um superior bem definido, e as equipes são organizadas por funcionalidade (ex. finanças, produção, etc) ou seguindo estruturas internas da empresa
+
+* Organização projetizada : a empresa é organizada em departamentos, sendo que cada um responde a um gerente de projeto. Algumas áreas dão suporte a todos os projetos.
+
+* Organização matricial : a estrutura matricial é uma combinação das estruturas – funcional e projetizada. Com isso pode assumir características distintas que dependem exclusivamente do grau de relevância que cada extremo é considerado. Pode ser dividida em estrutural matricial fraca, forte e balanceada. 
+
+A estrutura matricial fraca mantém o gerente funcional com um nível maior de autoridade parecendo-se mais com uma estrutura funcional.
+
+A estrutura forte se parece muito com uma estrutura projetizada e o gerente de projetos possui grande autoridade, podendo alocar recursos de outras áreas ou mesmo contratar recursos externos para realizar o projeto.
+
+A estrutura matricial balanceada representa um equilíbrio entre os dois extremos, o lado funcional e o projetizado. Neste tipo a autoridade é balanceada, ou seja, dividida na mesma medida entre as Gestões de Projeto e Gestões Funcional o que representa o mesmo nível hierárquico. É o tipo teórico que mais se encontra nas estruturas organizacionais, porém não é o mais praticado. Ela é similar à estrutura de projetos, ela tem a capacidade técnica e inteiração e a participação de terceiro no projeto.
+
+== Contexto Sócio-Econômicos e Ambientais ==
+
+O projeto deve levar em conta as seguintes questões:
+
+* Padrões e regulamentos, é importante ressaltar que a legislação em alguns países e/ou regiões pode alterar consideravelmente os rumos de um projeto.
+
+* Questões pertinentes à internacionalização, quando for o caso
+
+* Questões de diferenças culturais (políticas, econômicas, éticas, étnicas, religiosas, etc), quando for o caso 
+
+* Sustentabilidade social (econômica e ambiental)
+
+== {{Ver também}} ==
+
+* [[Gerência de projetos]]
+
+* [[PMBOK]]
+
+== Referências ==
+
+*{{cite book |last= |first= |authorlink= |coauthors= |title=A Guide to the Project Management Body of Knowledge (PMBOK® Guide) |edition=Third Edition |publisher=Project Management Institute |isbn=1-930699-45-X }}
+
+== Ligações externas ==
+* {{Link|pt|2=http://www.projectbuilder.com.br/blog-pb/entry/blog-gestao-de-projetos/voce-sabe-o-que-e-fast-tracking|3=Artigo ''Você sabe o que é Fast Tracking?''}}
+
+[[Categoria:Projetos]]
+[[Categoria:Gerência de projetos]]
+[[Categoria:Colaboração]]</text>
+      <sha1>2ji8maqoehtdbmuevlvlm57e7ws8jga</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

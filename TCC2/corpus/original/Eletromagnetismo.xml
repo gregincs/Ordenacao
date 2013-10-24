@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Eletromagnetismo</title>
+    <ns>0</ns>
+    <id>811</id>
+    <revision>
+      <id>36983776</id>
+      <parentid>36898515</parentid>
+      <timestamp>2013-09-26T01:26:45Z</timestamp>
+      <contributor>
+        <username>James28087</username>
+        <id>1188754</id>
+      </contributor>
+      <comment>inserir uma imagem</comment>
+      <text xml:space="preserve" bytes="14607">{{Ciência/Reformar|Física|15/02/2010}}
+{{Eletromagnetismo}}
+No estudo da [[Física]], o {{PU-AO45|eletromagnetismo|electromagnetismo}} é o nome da teoria unificada desenvolvida por [[James Maxwell]] para explicar a relação entre a [[eletricidade]] e o [[magnetismo]]. Esta teoria baseia-se no conceito de ''[[campo eletromagnético]]''.&lt;ref name="Brasil Escola"&gt;{{citar web |url=http://www.brasilescola.com/fisica/eletromagnetismo.htm |título=Eletromagnetismo |acessodata=12 de dezembro de 2012 |autor=Marco Aurélio da Silva |coautores= |data= |ano= |mes= |formato= |obra=R7 |publicado=Brasil Escola |páginas= |língua= |língua2=pt |língua3= |lang= |citação= }}&lt;/ref&gt;
+
+O [[campo magnético]] é resultado do movimento de [[carga elétrica|cargas elétricas]], ou seja, é resultado de [[corrente elétrica]]. O campo magnético pode resultar em uma [[força eletromagnética]] quando associada a [[ímã]]s.
+
+A variação do [[fluxo magnético]] resulta em um [[campo elétrico]] (fenômeno conhecido por [[indução eletromagnética]], mecanismo utilizado em [[gerador|geradores elétricos]], [[motor]]es e transformadores de tensão).&lt;ref name="Brasil Escola"/&gt; Semelhantemente, a variação de um campo elétrico gera um campo magnético. Devido a essa interdependência entre campo elétrico e campo magnético, faz sentido falar em uma única entidade chamada [[campo eletromagnético]].
+
+== História ==
+{{AP|História do eletromagnetismo}}
+Desde a [[Grécia Antiga]], fenômenos magnéticos e elétricos são conhecidos. Mas foi somente no início do [[século XVII]] que se começaram a realizar conclusões científicas destes fenômenos.&lt;ref name="historia"&gt;{{citar web|url=http://www.juntadeandalucia.es/averroes/~29009272/1999/articulos/articulo1.PDF|título= Historia del Electromagnetismo|autor=Rafael Lopez Valverde|língua3=es|acessodata=13 de fevereiror de 2008}}&lt;/ref&gt; Durante estes dois séculos, [[século XVII|XVII]] e [[século XVIII|XVIII]], célebres cientistas como [[William Gilbert]], [[Otto von Guericke]], [[Stephen Gray]], [[Benjamin Franklin]], [[Alessandro Volta]] entre outros, dedicaram-se a investigar estes dois fenômenos separadamente e chegando a conclusões coerentes com seus experimentos.  
+[[Imagem:M Faraday Th Phillips oil 1842.jpg|thumb|100px|[[Michael Faraday]].]]
+No início do [[século XIX]], [[Hans Christian Ørsted]] obteve evidência empírica da relação entre os fenômenos magnéticos e elétricos. A partir daí, os trabalhos de físicos como [[André-Marie Ampère]], [[William Sturgeon]], [[Joseph Henry]], [[Georg Simon Ohm]], [[Michael Faraday]] foram unificados por [[James Clerk Maxwell]] em [[1861]] sob equações que descreviam ambos os fenômenos como um só: o fenômeno eletromagnético.&lt;ref name="historia" /&gt; 
+[[Imagem:James-clerk-maxwell 1.jpg|thumb|esquerda|100px|[[James Clerk Maxwell]].]]
+As chamadas [[equações de Maxwell]] demonstravam que os campos elétricos e os campos magnéticos eram manifestações de um só campo eletromagnético. Além disso, descreviam a natureza ondulatória da luz, mostrando-a como uma [[onda eletromagnética]].&lt;ref&gt;{{Citar web| url = http://en.wikisource.org/wiki/A_Treatise_on_Electricity_and_Magnetism | título = A Treatise on Electricity and Magnetism | primeiro = James | último = Clerk Maxwell | ano= 1873 | acessodata= 20 de novembro de 2007 | língua3= en}}&lt;/ref&gt; 
+
+Com uma teoria única e consistente, que descrevia os dois fenômenos anteriormente julgados distintos, os físicos puderam realizar vários experimentos prodigiosos e inventos úteis, como a lâmpada elétrica ([[Thomas Alva Edison]]) ou o gerador de corrente alternada ([[Nikola Tesla]]).&lt;ref&gt;{{Citar web| url = http://en.wikisource.org/wiki/Author:Nikola_Tesla | título = Obras de Nikola Tesla|publicado=Wikisource| primeiro = Nikola | último = Tesla | ano= 1856–1943 | língua3=en | acessodata= 20 de novembro de 2007 }}&lt;/ref&gt; O êxito preditivo da teoria de Maxwell e a busca de uma interpretação coerente das suas implicações foi o que levou [[Albert Einstein]] a formular sua [[teoria da relatividade]] que se apoiava em alguns resultados prévios de [[Hendrik Antoon Lorentz]] e [[Henri Poincaré]].&lt;ref name="Brasil Escola"/&gt;
+
+Na primeira metade do {{séc|XX}}, com o advento da mecânica quântica, o eletromagnetismo tinha que melhorar sua formulação com o objetivo de que fosse coerente com a nova teoria. Isto se conseguiu na década de 1940 quando se completou a teoria quântica eletromagnética, mais conhecida como [[eletrodinâmica quântica]].
+
+Esta unificação foi uma das grandes descobertas da [[Física]] no {{séc|XIX|x}}. Essa descoberta posteriormente levou a um melhor entendimento da natureza da [[luz]], ou seja, pôde-se entender que a luz é uma propagação de uma perturbação eletromagnética, ou melhor dizendo, a luz é uma [[onda eletromagnética]].
+
+== A força eletromagnética ==
+A força que um campo eletromagnético exerce sobre [[carga elétrica|cargas elétricas]], chamada força eletromagnética, é uma das quatro forças fundamentais. As outras são: a [[força nuclear forte]] (que mantém o núcleo [[átomo|atômico]] coeso), a [[força nuclear fraca]] (que causa certas formas de decaimento radioativo), e a [[força gravitacional]].&lt;ref name="Brasil Escola"/&gt; Quaisquer outras forças provêm necessariamente dessas quatro forças fundamentais.
+
+A força eletromagnética tem a ver com praticamente todos os fenômenos físicos que se encontram no cotidiano, com exceção da [[gravidade]]. Isso porque as interações entre os [[átomo]]s são regidas pelo eletromagnetismo, já que são compostos por [[próton]]s e [[elétron]]s, ou seja, por cargas elétricas. Do mesmo modo as forças eletromagnéticas interferem nas relações intermoleculares, ou seja, entre nós e quaisquer outros objetos. Assim podem-se incluir fenômenos químicos e biológicos como consequência do eletromagnetismo.
+
+Cabe ressaltar que, conforme a eletrodinâmica quântica, a força eletromagnética é resultado da interação de cargas elétricas com [[fóton]]s.
+
+== O eletromagnetismo clássico ==
+[[Imagem:Homemade Electromagnet.jpg|direita|thumb|200px|Eletroímã: um exemplo de aplicação da força eletromagnética.]]
+O cientista [[William Gilbert]] propôs que a eletricidade e o magnetismo, apesar de ambos causarem efeitos de atração e repulsão, seriam efeitos distintos. Entretanto marinheiros percebiam que raios causavam perturbações nas agulhas das [[bússola]]s, mas a ligação entre os raios e a eletricidade ainda não estava traçada até os experimentos que [[Benjamin Franklin]] propôs em [[1752]]. Um dos primeiros a descobrir e publicar as relações entre [[corrente elétrica]] e o [[magnetismo]] foi Romagnosi, que em [[1802]] afirmou que um fio conectado a uma [[pilha]] provocava um desvio na agulha de uma [[bússola]] que estivesse próxima. No entanto essa notícia não recebeu o crédito que lhe era devido até que, em 1820, [[Hans Christian Ørsted]] montou um experimento similar.
+
+A teoria do eletromagnetismo foi desenvolvida por vários físicos durante o século XIX, culminando finalmente no trabalho de [[James Clerk Maxwell]], o qual unificou as pesquisas anteriores em uma única teoria e descobriu a natureza eletromagnética da luz. No eletromagnetismo clássico, o campo eletromagnético obedece a uma série de equações conhecidas como [[equações de Maxwell]], e a força eletromagnética pela Lei de Lorentz.
+
+Uma das características do eletromagnetismo clássico é a dificuldade em associar com a [[mecânica clássica]], compatível porém com a [[relatividade especial]]. Conforme as equações de Maxwell, a velocidade da luz é uma constante, depende apenas da permissividade elétrica e permeabilidade magnética do vácuo. Isso porém viola a invariância de [[Galileu]], a qual já era há muito tempo base da [[mecânica clássica]]. Um caminho para reconciliar as duas teorias era assumir a existência de [[éter luminífero]] através do qual a luz propagaria. No entanto, os experimentos seguintes falharam em detectar a presença do éter. Em 1905, Albert Einstein resolveu o problema com a teoria da [[relatividade especial]], a qual abandonava as antigas leis da [[cinemática]] para seguir as [[transformação de Lorentz|transformações de Lorentz]] as quais eram compatíveis com o eletromagnetismo clássico.
+
+A teoria da relatividade mostrou também que adotando-se um referencial em movimento em relação a um campo magnético, tem-se então um campo elétrico gerado. Assim como também o contrário era válido, então de fato foi confirmado a relação entre [[eletricidade]] e [[magnetismo]]. Portanto o termo "eletromagnetismo" estava consolidado.
+
+== O efeito fotoelétrico ==
+Em outra publicação sua no mesmo ano, Einstein pôs em dúvida vários princípios do eletromagnetismo clássico. Sua teoria do [[efeito fotoelétrico]] (pelo qual ganhou o [[Prêmio Nobel]] em Física) afirmava que a [[luz]] tinha em certo momento um comportamento corpuscular, isso porque a luz demonstrava carregar corpos com quantidades discretas de [[energia]], esses corpos posteriormente passaram a ser chamados de [[fóton]]s. Através de sua pesquisa, [[Max Planck]] mostrou que qualquer objeto emite radiação eletromagnética discretamente em pacotes, ideia que leva a teoria de [[Corpo Negro|Radiação de Corpo Negro]]. Todos esses resultados estavam em contradição com a teoria clássica da luz como uma mera onda contínua. As teorias de Planck e Einstein foram as causadoras da teoria da [[mecânica quântica]], a qual, quando formulada em 1925, necessitava ainda de uma teoria quântica para o Eletromagnetismo.
+
+Essa teoria só veio a aparecer em 1940, conhecida hoje como [[eletrodinâmica quântica]]; essa é uma das teorias mais precisas da Física nos dias de hoje.
+
+== Unidades ==
+{{Unidades para Eletromagnetismo}}
+== Constantes e dados numéricos==
+'''Abaixo algumas constantes e outros dados usados no eletromagnetismo.'''&lt;ref name=Villate&gt;[ ''Eletricidade e Magnetismo''. Porto: Jaime E. Villate, 20 de março de 2013. 221 págs]. [[Creative Commons]] Atribuição-Partilha (versão 3.0) [[ISBN]] 978-972-99396-2-4. Acesso em 10 jun. 2013.&lt;/ref&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{Referências}}
+
+== Ver também ==
+{{portal-física}}
+* [[Força Eletromagnética]]
+* [[Equações de Maxwell]]
+
+== Ligações externas ==
+{{correlatos
+|wikilivros = Eletromagnetismo
+}}
+* {{Link||2=http://sites.google.com/site/cefetrjalunos/Home/eletromag-2/Eletromagnetismo2_mat%C3%A9ria.pdf |3=Um pouco sobre ELETROMAGNETISMO}}
+# Forças Magnéticas, materiais e indutância.
+# Aplicações das equações de Maxwell para campos variáveis em relação ao tempo.
+# Propagação e reflexão de ondas planas em meios isotópicos.
+# Ondas planas e linhas de transmissão.
+* {{Link||2=http://sites.google.com/site/cefetrjalunos/Home/eletromag-2 |3=ELetromagnetismo II CEFET/RJ}}
+* {{Link||2=http://www.emtalk.com |3=Electromagnetic Tutorials and Forums}} EM Talk
+* {{Link||2=http://ocw.mit.edu/OcwWeb/Physics/8-02Electricity-and-MagnetismSpring2002/VideoLectures/index.htm |3=MIT Video Lectures - Electricity and Magnetism}} from Spring 2002. Taught by Professor Walter Lewin.
+* {{Link||2=http://www.lightandmatter.com/area1book4.html |3=Electricity and Magnetism}} - an online textbook (uses algebra, with optional calculus-based sections)
+* {{Link||2=http://www.plasma.uu.se/CED/Book/ |3=Electromagnetic Field Theory}} - an online textbook (uses calculus)
+* {{Link||2=http://farside.ph.utexas.edu/teaching/em/em.html |3=Classical Electromagnetism: An intermediate level course}} - an online intermediate level texbook downloadable as PDF file
+* {{Link||2=http://www.scienceaid.co.uk/physics/electricity/electromagnetism.html |3=Science Aid: electromagnetism}} Electromagnetism, aimed at teens.
+* {{Link||2=http://www.motionmountain.net/C-4-EDYN.pdf |3=Motion Mountain}} A modern introduction to electromagnetism and its effects in everyday life.
+* {{Link||2=http://www.rfzone.org/free-rf-ebooks/ |3=Books on Electromagnetism and RF field}}
+* {{Link||2=http://dcjenn.com/ |3=Dr. David C. Jenn's site}} - specializing in radar systems and electromagnetic scattering and radiation
+* {{Link||2=http://www.ee.umd.edu/~taylor/frame1.htm |3=Gallery of Electromagnetic Personalities}}
+* {{Link||2=http://monopole.ph.qmw.ac.uk/~bill/emt/LecNotes.html |3=MSci Electromagnetic Theory Lecture Notes}}
+* {{Link||2=http://newton.ex.ac.uk/teaching/CDHW/EM/ |3=PHY2206 Electromagnetic Fields Course Handouts}}
+* {{Link||2=http://phys.csuchico.edu:16080/kagan/204B/lecture/ |3=Dr. David Kagan Physics 204B Lecture Notes}}
+* {{Link||2=http://www.ece.rutgers.edu/~orfanidi/ewa/ |3=Sophocles J. Orfanidis' Electromagnetic Waves and Antennas}}
+* {{Link||2=http://www.maths.qmul.ac.uk/~hve/MAS207/ |3=MAS207 Electromagnetism Lecture Notes}}
+* {{Link||2=http://www.physics.uq.edu.au/courses/phys1002/notes/ |3=PHYS1002 - Electromagnetism, Optics, Relativity and Quantum Physics I}}
+* {{Link||2=http://www.physics.uq.edu.au/people/ficek/pdfs/ph3050.pdf |3=Dr. Zbigniew Ficek's PHYS3050 Electromagnetic theory lecture notes}}
+* {{Link||2=http://www.sp.phy.cam.ac.uk/teaching/em/ |3=University of Cambridge's Advanced Physics Electromagnetism}}
+* {{Link||2=http://ece-www.colorado.edu/~ecen4634/4634-Lectures-Labs-1-10.pdf |3=ECEN4364 Principles of RF and Microwave Measurements lecture notes}}
+* {{Link||2=http://www.maths.ox.ac.uk/~lmason/B7/ |3=B7 Relativity and Electromagnetism}}
+* {{Link||2=http://www.maths.ox.ac.uk/~nwoodh/sr/ |3=NMJ Woodhouse's Special Relativity and Electromagnetism}}
+* {{Link||2=http://www.maths.ox.ac.uk/~nwoodh/gr/ |3=NMJ Woodhouse's General Relativity}}
+* {{Link||2=http://www.apriorijournal.org/volume1/chalmers.pdf |3=Maxwell, Mechanism and the Nature of Electricity}}
+* {{Link||2=http://ftp.physics.uwa.edu.au/pub/Electromagnetism/Electromagnetism.pdf |3=Electromagnetism Mathematica notes}}
+* {{Link||2=http://www.ee.byu.edu/forms/ |3=Differential Forms in Electromagnetic Theory}}
+* {{Link||2=http://www.sonnetsoftware.com/bio/maxbio.pdf |3=The Life of James Clerk Maxwell}} - prepared by James C. Rautio of Sonnet Software, Inc.
+* {{Link||2=http://uk.arxiv.org/PS_cache/physics/pdf/0311/0311011.pdf |3=Classical Electrodynamics and Theory of Relativity}} - by Ruslan Sharipov
+* {{Link||2=http://www.icm.edu.pl/edukacja/mat/axial.php |3=Axial Vectors}} - by Alain Bossavit
+
+{{Física-rodapé}}
+{{Bom interwiki|es}}
+
+[[Categoria:Eletromagnetismo| ]]
+
+{{Link GA|es}}
+{{Link FA|la}}</text>
+      <sha1>pu9e3wb9odundy6jtsbv74mjx1lbcnb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

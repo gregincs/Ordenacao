@@ -1,0 +1,206 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Transmissão de energia elétrica</title>
+    <ns>0</ns>
+    <id>532434</id>
+    <revision>
+      <id>36987787</id>
+      <parentid>36986885</parentid>
+      <timestamp>2013-09-26T17:19:19Z</timestamp>
+      <contributor>
+        <username>HVL</username>
+        <id>634769</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:REV|Revertidas]] edições por [[Especial:Contribuições/189.106.3.97|189.106.3.97]] para a última versão por [[Especial:Contribuições/Vitor Mazuco|Vitor Mazuco]], de 15h23min de 17 de maio de 2013 (UTC)</comment>
+      <text xml:space="preserve" bytes="12676">[[Ficheiro:Electric wiring near Helsinki.JPG|250px|right|thumb| Linha de transmissão de energia elétrica]]
+'''Transmissão de energia elétrica''' é o processo de transportar [[energia]] entre dois pontos. O transporte é realizado por [[linha de transmissão|linhas de transmissão]] de alta [[potência]], geralmente usando [[corrente alternada]], que de uma forma mais simples conecta uma [[usina elétrica|usina]] ao consumidor.
+
+== Introdução ==
+
+A transmissão de energia é dividida em duas faixas: a transmissão propriamente dita, para potências mais elevadas e ligando grandes centros, e a distribuição, usada dentro de centros urbanos, por exemplo.
+
+Cada linha de transmissão possui um nível de tensão nominal, onde encontramos valores até de 750 [[volt|kV]], com diversos estudos e protótipos em 1 a 1,2 [[volt|MV]]. As linhas de distribuição são usualmente na faixa de 13,8 kV no Brasil. Para a conversão entre níveis de tensão, são usados como equipamento fundamental o [[Transformador|transformador de potência]]. Os transformadores de grande porte (para grandes elevações ou diminuições na tensão do sistema) encontram-se normalmente nas [[Subestação|subestações]].
+
+Em sistemas de grande porte, é usual a interligação [[redundante]] entre sistemas, formando uma rede. O número de interligações aumenta a [[confiabilidade]] do sistema, porém aumentando a [[complexidade]]. A interligação pode tanto contribuir para o suprimento de energia quanto para a propagação de falhas do sistema: um problema que ocorra em um ponto da rede pode afundar a tensão nos pontos a sua volta e acelerar os geradores, sendo necessário o desligamento de vários pontos, incluindo centros consumidores, havendo o aparecimento de [[apagão|apagões]] ou blecautes.
+
+== Componentes de um sistema de transmissão ==
+
+[[Ficheiro:XN Power pole 01.jpg|150px|right|thumb| Interior de uma torre de transmissão.]]
+
+[[Ficheiro:High-voltage Transmission Insulator 2005.JPG|150px|right|thumb| Detalhe de uma coluna de isoladores em uma torre. Os anéis próximos aos cabos e nas ferragens dos isoladores são usados para uniformizar o campo eléctrico, reduzindo o [[efeito corona]].]]
+
+=== Torres ===
+
+Para linhas aéreas, é necessário erguer os cabos a uma distância segura do solo, de forma a evitar contato elétrico com pessoas, vegetação e veículos que eventualmente atravessem a região. As torres devem suportar os cabos em condições extremas, determinadas basicamente pelo tipo de cabo, regime de ventos da região, terremotos, entre outros eventos.
+
+=== Isoladores ===
+
+Os cabos devem ser suportados pelas torres através de isoladores, evitando a dissipação da energia através da estrutura. Estes suportes devem garantir a rigidez dielétrica e suportar o peso dos cabos. Em geral são constituídos de cerâmica, vidro ou polímeros.
+
+=== Subestações ===
+
+As linhas de transmissão são conectadas às [[subestações]]
+
+== Transmissão em corrente alternada ==
+
+O uso de corrente alternada para transmissão de energia tornou-se evidente pela capacidade dos transformadores elevarem a tensão e reduzir a [[corrente eléctrica]], reduzindo ao quadrado as perdas na linha pelo [[Efeito Joule]]:
+
+&lt;math&gt;P=R \cdot I^2&lt;/math&gt;
+
+Sendo &lt;math&gt;P&lt;/math&gt; a perda de potência, &lt;math&gt;R&lt;/math&gt; a resistência equivalente da linha e &lt;math&gt;I&lt;/math&gt; a corrente.
+
+=== Limites da transmissão ===
+==== Torres ====
+
+O projeto das torres deve ser otimizado para tornar o custo viável, não deixando de suportar os cabos em qualquer condição de vento, temperatura, e quando aplicável, na formação de gelo.
+
+As torres são usualmente construídas em aço, com algumas alternativas em madeira e concreto para tensões de até 13,8 [[kV]], e com estudos na utilização de alumínio e outras ligas.
+
+Um problema de difícil solução no projecto de torres são os casos de vandalismo e furto.
+
+==== Ampacidade ====
+
+Trata-se da capacidade máxima de corrente elétrica nos condutores. Conforme a corrente aumenta, a temperatura eleva-se e os condutores se dilatam, aumentando a [[Arco (matemática)|flecha]] e diminuindo a distância do centro do vão para o solo. Esta distância deve ser tal para evitar contatos com o solo ou outros elementos, como animais e pessoas.
+
+Eventualmente a linha pode operar em regime de emergência, com sobrecarga, o que é previsto em projeto mas não deve ser utilizado com frequência. Os limites de operação normal e de emergência variam para cada país.
+
+O aumento da temperatura nos condutores eleva a resistência, no qual altera a própria corrente. O vento em contacto com o condutor é um elemento relevante no resfriamento, além da [[convecção]]. A [[radiação solar]] também influencia na elevação da temperatura do condutor.
+
+==== Potência natural ====
+
+Para linhas longas, usualmente de extra-alta tensão, o limite de transmissão, sem o uso de equipamentos adicionais, tende para a [[potência natural]], ou potência característica da linha. Este valor equivale a uma absorção total da energia por uma carga com [[factor de potência]] unitário que esteja demandando esta potência. Neste regime toda a energia reactiva gerada pela linha é consumida pela própria&lt;ref&gt;SIL - Surge impedance loading, http://www.o-t-s.com/sil.htm&lt;/ref&gt;. É determinado pela equação:
+
+&lt;math&gt;P_c = \frac{V^2}{Z_c}&lt;/math&gt;
+
+No qual &lt;math&gt;V&lt;/math&gt; é a tensão entre fases e &lt;math&gt;Z_c&lt;/math&gt; é a [[impedância de surto]] da linha, aproximadamente:
+
+&lt;math&gt;Z_c = \sqrt{\frac{L}{C}}&lt;/math&gt;
+
+Sendo &lt;math&gt;L&lt;/math&gt; e &lt;math&gt;C&lt;/math&gt; a [[indutância]] e [[capacitância]] equivalente, respectivamente, por unidade de comprimento.
+
+A forma intuitiva de aumentar a capacidade de transmissão é elevar a tensão nominal da linha. Obviamente isto implica limites operacionais dos equipamentos.
+
+Outra maneira tradicional de aumentar a capacidade de transmissão é compensando a linha, anulando desta forma, parcialmente, os valores de capacitância e indutância da linha.
+
+Os valores de indutância e capacitância são basicamente determinados pela posição dos cabos de fase. Quanto maior a capacitância, ou menor a indutância, menor a impedância de surto e maior a potência característica. Uma linha pode ter sua potência natural elevada, optimizando desta forma sua capacidade de transmissão para longas distâncias&lt;ref&gt;CEPEL, LPNE - Linhas de potência natural elevada, http://www.cepel.br/~lpne/conceit1.htm&lt;/ref&gt;.
+
+==== Efeito corona ====
+
+Para linhas de extra-alta tensão (acima de 345 [[kV]]), o principal limitante é o [[efeito corona]] (ou coroa em Portugal). O [[campo eléctrico]] na superfície dos condutores atinge um limiar no qual o [[dieléctrico]] do ar rompe-se, criando assim pequenas descargas em torno do condutor, similar a uma coroa.
+
+Este efeito é muito interessante visualmente, mas provoca perdas eléctricas no sistema e interferência em rádio e TV em localidades próximas. O efeito corona/ coroa torna-se mais intenso na ocorrência de chuva, no qual as gotas nos cabos provocam uma concentração do campo eléctrico, e elevando o nível de perdas e interferência. Outro factor que favorece a ocorrência desse efeito são as condições físicas da superfície do cabo. Se este for arranhado, sujo ou sofre algum processo que torne sua superfície mais rugosa (isso pode ocorrer especialmente no lançamento dos cabos se a equipe não tomar cuidado. Por exemplo, deixar acidentalmente o cabo arrastar no solo) pode facilitar a ocorrência do efeito. Normas específicas, como a NBR 5422 no Brasil, impõe um limite de interferência provocado pelas linhas de transmissão, geralmente especificado para clima ameno.
+
+Na ocorrência de sobretensões na linha, o efeito corona é um meio importante de amortecer tais falhas, agindo como um "escape" desta energia excedente.
+
+Uma linha de extra-alta tensão projectada de forma optimizada possui os campos superficiais nos condutores próximos do limite.
+
+==== Campos eletromagnéticos ====
+
+A linha irradia campos eletromagnéticos na sua vizinhança, podendo causar interferências e problemas de saúde. Uma publicação do [[INCIRP]]&lt;ref&gt;ICNIRP, Guidelines for Limiting Exposure to Time-Varying Electric, Magnetic, and Electromagnetic Fields (up to 300 GHz). Health Physics 74 (4): 494-522; 1998, disponível em http://www.icnirp.de/documents/emfgdl.pdf&lt;/ref&gt; define como limites para frequência industrial (50 ou 60 Hz) os valores de 10 e 8,33 [[volt por metro|kV/m]], respectivamente. Os limites para [[campo magnético]], em 50 e 60 Hz, são de 500 e 420 [[Tesla|microteslas]], respectivamente.
+
+=== Compensação de linhas ===
+
+Para linhas com grandes comprimentos, acima de 400 km, é necessário o uso de equipamentos de compensação, tais como [[reator]]es em paralelo e [[capacitor]]es em série, para aumentar a capacidade da linha.
+
+Os reatores em paralelo (também chamados de reatores ''shunt'') anulam parcialmente o efeito capacitativo da linha, minimizando o [[Efeito Ferranti]], que ocorre quando a linha opera em carga leve. Estes reatores geralmente não são manobráveis, o que pode ser indesejável quando a linha estiver em sobrecarga. A manobra convencional de um reator pode levar a sobretensões indesejáveis, e é evitada na medida do possível. O uso de reatores controláveis permite uma maior flexibilidade, mas acrescenta uma maior complexidade e custo no sistema de transmissão.
+
+O projeto de uma linha envolve limites físicos importantes:
+
+== Transmissão em corrente contínua ==
+
+Nas últimas décadas mostrou-se a possibilidade de uso de [[corrente contínua em alta tensão]] (CCAT, em inglês HVDC), para a transmissão de grandes blocos de energia. A conversão entre corrente alternada e corrente continua é realizada através de rectificados utilizando [[tiristor]]es de alta tensão.
+
+O uso do CCAT provem uma série de vantagens, tais como o desacoplamento entre sistemas e a economia de cabos, usando de estruturas mais leves.
+
+A transmissão em corrente contínua pode ser realizada de forma unipolar (um condutor, com retorno pelo terra) ou bipolar (dois condutores, de polaridades positiva e negativa).
+
+== Linhas de transmissão subterrâneas ==
+
+Uma solução para os grandes centros urbanos é o uso de linhas subterrâneas. A principal dificuldade é na isolação e blindagem dos condutores, de forma a acomodarem-se nos espaços reduzidos, ao contrário das linhas aéreas que utilizam cabos nus, utilizando-se do ar como isolante natural.
+
+O uso de condutores isolados também dificulta a dissipação de calor, reduzindo consideravelmente a ampacidade da linha.
+...
+
+== Linhas de transmissão submarinas ==
+
+A travessia de rios e canais por linhas aéreas demanda um projeto especial, por quase sempre haver a necessidade de transpor um vão muito grande. Neste caso, a catenária formada pelos cabos será imensa, necessitando o uso de cabos com liga especial&lt;ref&gt;Por exemplo, cabos ACCR: http://solutions.3m.com/wps/portal/3M/en_US/Energy-Advanced/Materials/Industry_Solutions/MMC/ACCR/&lt;/ref&gt; e torres gigantescas&lt;ref&gt;As torres da travessia do Rio Yangtze são as maiores do mundo, com 346,5 m de altura, para transpor um vão de 2303 m&lt;/ref&gt;.
+
+O uso de linhas submarinas evita o uso destas estruturas, reduzindo a poluição visual e evitando problemas em locais com travessias de navios. A linha submarina tem a limitação de possuir uma grande capacitância, reduzindo o seu alcance prático para aplicações em corrente alternada, facto no qual é preferível o uso de linhas em corrente contínua.
+
+== Proteção ==
+
+Diversos problemas assolam a integridade de uma rede de transmissão, tais como:
+* Sobretensões devido a [[descarga atmosférica|descargas atmosféricas]];
+* Sobretensões devido a manobras;
+* Ventania, furacões, geada e outras condições climáticas extremas;
+* Poluição;
+* Vandalismo;
+* Eletrocorrosão.
+
+Alguns destes problemas são transitórios, desaparecendo após o desligamento da linha. Outros acarretam danos permanentes, como queda de torres.
+
+Defeitos de origem eléctrica podem ser minimizados a partir de sistemas de protecção:
+* Cabos pára-raios,
+* Pára-raios (supressores de surto),
+* Pára-raios de linha,
+* Procedimentos coordenados de manobra,
+* Aterramento adequado,
+* Proteção catódica.
+
+== Sistemas flexíveis ==
+
+Outra forma de controle do fluxo de carga é a utilização de transformadores defasadores.
+
+== Referências ==
+
+&lt;references/&gt;
+
+{{esboço-eletricidade}}
+
+[[Categoria:Engenharia elétrica]]
+[[Categoria:Eletricidade]]
+
+[[bg:Електрически далекопровод]]</text>
+      <sha1>hjiypnc4rv6wi2dfjxqfo0dxb30zi5g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

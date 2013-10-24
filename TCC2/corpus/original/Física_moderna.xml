@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Física moderna</title>
+    <ns>0</ns>
+    <id>187956</id>
+    <revision>
+      <id>36208634</id>
+      <parentid>36063445</parentid>
+      <timestamp>2013-06-25T03:01:15Z</timestamp>
+      <contributor>
+        <username>Kaktus Kid</username>
+        <id>235754</id>
+      </contributor>
+      <text xml:space="preserve" bytes="9266">'''Física Moderna''' é a denominação dada ao conjunto de teorias surgidas no começo do [[século XX]], principiando com a [[Mecânica quântica|Mecânica Quântica]] e a [[Teoria da relatividade|Teoria da Relatividade]] e as alterações no entendimento científico daí decorrente, bem como todas as teorias posteriores. De fato, destas duas teorias resultaram drásticas alterações no entendimento das noções do [[espaço]], [[tempo]], [[Medida (física)|medida]], causalidade, simultaneidade , [[trajetória]] e localidade.
+
+[[Imagem:Max Planck.png|thumb|right170px|[[Max Planck]].]]
+
+A [[mecânica quântica]]&lt;ref group = "Ref." name = "QuantumMechanics_Griffiths" /&gt;&lt;ref group = "Ref." name = "Fisica_Eisberg" /&gt;surgiu inicialmente dos trabalhos de [[Max Planck]] e de [[Albert Einstein|Einstein]]. Um dos mais importantes problemas de física não resolvidos no final do séc. XIX, era o da radiação do [[corpo negro]]. Planck resolve este problema em [[1901]] utilizando como hipótese ''ad hoc'' que a energia deste não tem um [[espectro contínuo]], mas pelo contrário é discreta, ou em outras palavras ''quantizada''. Einstein utiliza esta mesma hipótese para resolver o problema do [[efeito fotoeléctrico]] em [[1905]]. Mas vai mais longe propondo que esta é na realidade a verdadeira natureza da luz. A essa quantidade discreta de luz se chama quantum de luz ou [[fóton]].
+
+Nasce assim a Mecânica Quântica que será posteriormente desenvolvida pelo trabalho de muitos outros cientistas como [[Niels Bohr]], [[Erwin Schrödinger]], [[Werner Heisenberg]], Einstein, [[Louis de Broglie]], [[Max Born]], [[Wolfgang Pauli]] ou [[Paul Adrien Maurice Dirac|Paul Dirac]], citando apenas os mais importantes.
+
+A hipótese de que a energia é quantizada permite então resolver muitos dos problemas pendentes da Física do início do séc. XX. Einstein utiliza-a para explicar o [[calor específico]] dos sólidos e Niels Bohr para explicar a estabilidade do átomo. O primeiro modelo atómico, chamado [[Modelo atômico de Bohr|modelo de Bohr]], é posteriormente melhorado por Sommerfeld e outros cientistas acima referidos dando origem à moderna teoria quântica, com uma formalização em moldes mais rigorosos. Tal desenvolvimento também se deu pelos esforços do matemático [[John von Neumann]].
+
+Dentre esses desenvolvimentos, a teoria quântica abandonou parcialmente a noção de trajetória e da localidade, em função do [[princípio da incerteza]] de Heisenberg. Assim tem-se a noção da trajetória, de natureza determinista, substituída pela noção de [[função de onda]], de natureza probabilística. Essa interpretação da função de onda, como ''medida'' da potencialidade de localização de uma partícula, foi dada pela análise e correta interpretação de Max Born.
+
+[[Ficheiro:Albert Einstein Head.jpg|thumb|right170px|[[Albert Einstein]].]]
+
+Bohr contribui decisivamente também para esse desenvolvimento ulterior da mecânica quântica. Ele e seus seguidores (incluindo Heisenberg) ajudaram a formar a chamada [[Interpretação de Copenhaga]]. Nessa interpretação, dá-se a explicação quântica da medida. Uma medida realizada sobre um sistema quântico resulta da interação do observador - um aparelho de medida geralmente clássico - com um sistema quântico. Como a medida resulta numa certeza sobre um valor de uma grandeza ([[observável]]) ao passo que a função de onda associada representa uma função de probabilidades em termos da posição e tempo, tal conjectura implica dizer que o ato de medir acarreta um [[colapso da função de onda]]: o ato de medir destrói um possível [[emaranhamento quântico]] e literalmente cria a realidade experimentalmente mensurada&lt;ref group = "Nota" name = "ParadoxoEPR" /&gt;&lt;ref group = "Ref." name = "QuantumMechanics_Griffiths" /&gt;.
+
+Também em 1905, Einstein publica a [[teoria da relatividade restrita]], nesta a idéia clássica que se tinha da simultaniedade foi abandonada, em decorrência da finitude da velocidade de transmissão das [[Interação|interações]] electromagnéticas, que resulta da teoria clássica do [[electromagnetismo]] de [[James Clerk Maxwell|Maxwell]].&lt;ref group = "Ref." name = "Fundamentos_Fisica_Halliday_Walker" /&gt;&lt;ref group = "Ref." name = "Classical_Mechanisc_Goldstein" /&gt;&lt;ref group = "Ref." name = "Fisica_Halliday_Krane" /&gt;&lt;ref group = "Ref." name = "Eletrodynamics_Griffths" /&gt;A simultaniedade passa a depender do [[referencial]] que se está adotando para se analisar uma dada situação física. É assim, a invariância da [[velocidade da luz]] (que corresponde precisamente à velocidade de transmissão das interações) implica que as noções de espaço e tempo se mesclam em um novo conceito, o [[espaço-tempo]]. Para a ''teoria da relatividade restrita'' contribuíram decisivamente também [[Henri Poincaré]], [[Hendrik Lorentz]] e [[Hermann Minkowski]]. Assim se encerra de modo consistente a teoria da [[equações de Maxwell|electrodinâmica clássica]]. Posteriormente, em [[1915]], Einstein leva mais longe os conceitos da teoria da relatividade ao generalizar o conceito de finitude da velocidade de transmissão das interações à interação gravitacional. Do desenvolvimento desta ideia resulta a moderna teoria da [[gravitação]], conhecida por [[teoria da relatividade geral]].
+
+É Dirac quem posteriormente formaliza a teoria da [[teoria quântica dos campos|Electrodinâmica Quântica]] que une de modo consistente a teoria quântica e a electrodinâmica clássica, baseando-se em trabalho anterior de [[Oskar Klein]], [[Walter Gordon]] e [[Vladimir Fock]]. As tentativas de lhes juntar também a teoria da relatividade geral foram até hoje infrutíferas, sendo este um dos maiores problemas em aberto da física moderna.
+
+{{Referências|Notas|grupo="Nota"|refs =
+&lt;ref group = "Nota" name = "ParadoxoEPR" &gt;Havia em verdade três correntes a respeito da realidade subjacente e da medida quando em âmbito da física quântica: a corrente realista - a que contava com Einstein como um de seus defensores -, a agnóstica, e a ortodoxa. Ao contrário dos realistas - que defendiam uma realidade sempre existente, consistindo-se o ato de medir pois em uma simples inspeção de tal realidade -, os ortodoxos afirmavam que não haveria uma realidade tangível associada ao sistema quântico até o momento em que se realiza alguma medida sobre o mesmo, momento no qual a realidade mensurada seria literalmente "criada" com a redução da função de onda associada. A interpretação dos ortodoxos é pois a denominada ''Interpretação de Copenhage'', sendo esta a vitoriosa frente às experiências - a saber o [[paradoxo EPR]] e a [[Teorema de Bell|desigualdade de Bell]] - pelo menos até o momento. Entre os dois, os agnósticos recusavam-se simplesmente a responder tal questão afirmando tratar-se de uma pergunta intangível por meios experimentais, contudo as mesmas experiências citadas demonstram que esta posição não era admissível, e que um dos outros dois grupos deveria estar com a razão - e o outro não. Einstein contudo morreu sem aceitar a Interpretação de Copenhage.&lt;/ref&gt;
+}}
+{{Referências|grupo="Ref."|refs =
+
+&lt;ref group = "Ref." name = "QuantumMechanics_Griffiths" &gt;[[David Griffiths (físico)|Griffiths, David J.]] - Introduction to Quantum Mechanics - Prentice Hall - 1994 - ISBN 0-13-124405-1.&lt;/ref&gt;
+
+&lt;ref group = "Ref." name = "Fisica_Eisberg" &gt;Eisberg, Robert; Resnick, Robert - Física Quântica , Átomos, Moléculas, Sólidos, Núcleos e Partículas - 13ª edição - Editora Campus - Rio de Janeiro - ISBN 85-7001-309-4&lt;/ref&gt;
+
+&lt;ref group = "Ref." name = "Classical_Mechanisc_Goldstein" &gt;Goldstein, Herbert - Classical Mechanics - Second Edition - Addison-Wesley Publishing Company - 1992 -  ISBN 0-201-02918-9&lt;/ref&gt;
+
+&lt;ref group = "Ref." name = "Fundamentos_Fisica_Halliday_Walker" &gt;[[David Halliday|Halliday]]; Resnick; Walker - Fundamentos de Física (1; 2; 3; 4) - LTC Livros Técnicos e Científicos Editor SA 1996 - Rio de Janeiro -RJ&lt;/ref&gt;
+
+&lt;ref group = "Ref." name = "Fisica_Halliday_Krane" &gt;[[Robert Resnick|Resnick, Robert]]; [[David Halliday|Halliday, David]]; Krane, Kenneth S. - Física (1 ; 2; 3; 4)  - 4ª edição - LTC Livros Técnicos e Científicos Editora SA -Rio de Janeiro - RJ - 1996&lt;/ref&gt;
+
+&lt;ref group = "Ref." name = "Eletrodynamics_Griffths" &gt;[[David Griffiths (físico)|Griffiths, David J.]] - Introduction to Eletrodynamics - Third Edition - Prentice Hall - Upper Saddle River, New jersey - 1999 -ISBN 0-13-805326-X&lt;/ref&gt;
+}}
+&lt;references /&gt;
+::'''Bibliografia auxiliar'''
+
+* J.S. Bell, ''Speakable and Unspeakable in Quantum Mechanics'' (Cambridge University Press, 1987). ISBN 0-521-36869-3
+* J.J. Sakurai, ''Modern Quantum Mechanics'' (Addison-Wesley, 1994), pp.&amp;nbsp;174–187, 223-232. ISBN 0-201-53929-2
+* F. Selleri, ''Quantum Mechanics Versus Local Realism: The Einstein-Podolsky-Rosen Paradox'' (Plenum Press, New York, 1988)
+
+== {{Ver também}} ==
+* [[Física clássica]]
+* [[Física teórica]]
+* [[História da Física]]
+* [[Física Quântica]]
+* [[Relatividade]]
+* [[Paradoxo EPR]]
+* [[Teorema de Bell]]
+
+{{Campos de estudo da Física}}
+{{Portal3|Física}}
+
+{{DEFAULTSORT:Fisica Moderna}}
+[[Categoria:Física moderna]]</text>
+      <sha1>03emyq3nmiqd1jjm2zxkbo2jwqzl0s1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

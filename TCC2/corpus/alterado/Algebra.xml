@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Algebra</title>
+    <ns>0</ns>
+    <id>44171</id>
+    <revision>
+      <id>36978593</id>
+      <parentid>36911834</parentid>
+      <timestamp>2013-09-25T13:58:10Z</timestamp>
+      <contributor>
+        <username>Albmont</username>
+        <id>117075</id>
+      </contributor>
+      <comment>/* Ver tambem */ Nao tem nada para ver, porque nao tem fontes no destino</comment>
+      <text xml:space="preserve" bytes="10437">{{mais-notas|data=Junho de 2013}}
+Em [[matematica]], '''algebra''' e o ramo que estuda a manipulacao formal de [[Equacao|equacoes]], [[Operacao (matematica)|operacoes matematicas]], [[polinomios]] e [[estrutura algebrica|estruturas algebricas]].&lt;ref name="EBAH"&gt;{{citar web|url=http://www.ebah.com.br/content/ABAAABpOYAJ/algebra-definicao|titulo=Algebra- Definicao|autor=Benatti, Kleber|publicado=Ebah|acessodata=8 de fevereiro de 2012}}&lt;/ref&gt;
+A algebra e um dos principais ramos da [[matematica pura]], juntamente com a [[geometria]], [[Topologia (matematica)|topologia]], [[Analise matematica|analise]] [[combinatoria]], e [[Teoria dos numeros]].
+
+O termo ''algebra'', na verdade, compreende um espectro de diferentes ramos da matematica, cada um com suas especificidades.
+
+A [[algebra elementar]], que frequentemente faz parte do curriculo no [[ensino secundario]], introduz o conceito de [[variavel (matematica)|variavel]] representativa de [[numero]]s. 
+[[expressao matematica|Expressoes]] usando estas variaveis sao manipuladas usando as regras de [[operacao (matematica)|operacao]] aplicaveis a numeros, como a [[adicao]]. Estes conceitos podem ser usados, por exemplo, na [[Resolucao de equacoes]]. Por sua vez, A adicao e a [[multiplicacao]] podem ser generalizadas e as suas definicoes exactas  conduzem a [[Estrutura algebrica|estruturas]] tais como os [[Grupo (matematica)|grupos]], [[Anel (matematica)|aneis]] e [[Corpo (matematica)|corpos]], que sao estudados na area da matematica intitulada [[algebra abstrata]].
+
+== Classificacao ==
+De uma forma geral pode-se organizar a algebra como: 
+
+* [[Algebra universal]];
+* [[Algebra abstrata]];
+* [[Algebra elementar]];
+* [[Algebra computacional]];
+* [[Algebra linear]].
+
+== Historia ==
+[[Imagem:Image-Al-Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-l-muqābala.jpg|thumb|Uma pagina do tratado ''[[Livro da Restauracao e do Balanceamento|al-Kitāb al-mukhtaṣar fī ḥisāb al-jabr wa-l-muqābala]]'', de [[Al-Khwarizmi]], de [[830]].]]
+
+As origens da algebra se encontram na antiga [[Babilonia]]&lt;ref&gt;{{citar livro|autor=Struik, Dirk J.|ano=1987|titulo=A Concise History of Mathematics|local=New York|editora=Dover Publications}}&lt;/ref&gt;, cujos matematicos desenvolveram um [[Aritmetica|sistema aritmetico]] avancado, com o qual puderam fazer calculos algebricos. Com esse sistema eles foram capazes de aplicar formulas e calcular solucoes para incognitas numa classe de problemas que, hoje, seriam resolvidos como [[Equacao linear|equacoes lineares]], [[Equacao quadratica|equacoes quadraticas]] e equacoes indeterminadas.
+
+Por outro lado, a maioria dos matematicos [[Egito|egipcios]] desta era e a maioria dos matematicos [[India|indianos]], [[Grecia|gregos]] e [[China|chineses]] do [[primeiro milenio a.C.]] normalmente resolviam estas equacoes por [[Geometria|metodos geometricos]], como descrito no ''[[Papiro Rhind]]'', ''Sulba Sutras'', [[Os elementos|''Elementos de Euclides'']] e ''Os Nove Capitulos da Arte Matematica''. Os estudos geometricos dos gregos, consolidado nos ''[[Elementos de Euclides|Elementos]]'', deram a base para a generalizacao de [[formula matematica|formulas]], indo alem da solucao de problemas particulares para [[sistema de equacoes lineares|sistemas]] gerais para especificar e resolver equacoes.
+
+O nome "algebra" surgiu de um tratado escrito por [[Mohammed ben Musa]], um matematico nascido por volta de 900 d.C. Seu trabalho intitulado ''Al-gjabr Wa'l-mocabala'',&lt;ref name="john.wallis.p.4"&gt;[[John Wallis]], ''De algebra tractatus, historicus &amp; practicus ... cum variis appendicibus ... Operum Mathematicorum volumen alterum'' (1693), p.4 [http://books.google.com.br/books?id=EuzpN1t5SOcC&amp;pg=PP268 &lt;nowiki&gt;[google books]&lt;/nowiki&gt;]&lt;/ref&gt; ou ''[[Livro da Restauracao e do Balanceamento|O livro sumario sobre calculos por transposicao e reducao]]'' e um trabalho extremamente didatico e com o objetivo de ensinar solucoes para os problemas matematicos cotidianos de entao. A palavra ''Al-jabr'' da qual algebra foi derivada significa ''"reuniao"'', ''"conexao"'' ou ''"complementacao"''. A palavra ''Al-jabr'' significa, ao pe da letra, ''a reuniao de partes quebradas''. Foi traduzida para o [[latim]] quase quatro seculos depois, com o titulo ''Ludus Algebrae et Almucgrabalaeque.''
+
+Na data de [[1140]], ''Robert de Chester'' traduziu o titulo arabe para o latim, como ''Liber Algebrae et almucabala''. No [[seculo XVI]], e encontrado em [[ingles]] como ''Algiebar and Almachabel'', e em varias outras formas, mas foi finalmente encurtado para Algebra. As palavras significam "restauracao e oposicao".
+
+No ''Kholasat Al-Hisab'' ("Essencia da Aritmetica"), ''Beha Eddin'' (cerca de 1600 d.C.) escreve: "o membro que e afetado por um sinal de menos sera aumentado e o mesmo adicionado ao outro membro, isto sendo algebra; os [[termo (matematica)|termos]] homogeneos e iguais serao entao cancelados, isto sendo al-muqabala".
+
+Os mouros levaram a palavra al-jabr para a [[Espanha]], um algebrista sendo um restaurador ou alguem que conserta ossos quebrados. Por isso, [[Miguel de Cervantes]] em [[Dom Quixote]] (II, cap. 15) e feita mencao a "um algebrista que atendeu ao infeliz Sansao". Em certo tempo nao era raro ver sobre a entrada de uma barbearia as palavras "Algebrista y Sangrador" (Smith, Vol. 2, paginas 389-90).
+
+O uso mais antigo da palavra algebra no ingles em seu sentido matematico foi por ''Robert Recorde'' no ''The Pathwaie to Knowledge'' ("O Caminho para o Conhecimento") em 1551: "tambem a regra da falsa posicao, que traz exemplos nao somente comuns, mas alguns pertinentes a regra da Algebra".
+
+"Algebras" (no plural) aparece em 1849 no ''Trigonometry and Double Algebra'' ("[[Trigonometria]] e Dupla Algebra") de Augustus de Morgan: &lt;blockquote&gt;E mais importante que o estudante tenha em mente que, com uma excecao, nenhuma palavra ou sinal de aritmetica ou algebra tem um atomo de significado ao longo deste capitulo, cujo objeto sao os simbolos, e suas leis de combinacao, dando uma algebra simbolica (pagina 92) a qual pode daqui em diante se tornar a gramatica de cem algebras significativas e distintas. [Colecao de Matematica Historica da Universidade de Michigan].&lt;/blockquote&gt;
+
+A expressao "uma algebra" tambem e encontrada em 1849 no ''Trigonometry and Double Algebra'' ("Trigonometria e Dupla Algebra") de Augustus de Morgan:&lt;blockquote&gt;A linguagem ordinaria tem metodos de assinalamento instantaneo de significado a termos contraditorios: e assim ela tem analogias mais fortes com uma algebra (se houvesse uma tal coisa) na qual estao pre-organizadas regras para explicar novos simbolos contraditorios a medida que surgem, do que em uma [algebra] na qual uma unica instancia deles demanda uma imediata revisao de todo o dicionario. [Colecao de Matematica Historica da Universidade de Michigan].&lt;/blockquote&gt;
+
+Comecou a ser usada na [[Europa]] para designar os sistemas de equacoes com uma ou mais incognitas a partir do [[seculo XI]].
+
+==== Notacao algebrica ====
+A notacao algebrica utilizada hoje normalmente por nos comecou com [[Francois Viète]]&lt;ref name="SOMAT"&gt;{{citar web|url=http://www.somatematica.com.br/biograf/francois.php|titulo=Francois Viète|publicado=So Matematica|acessodata=8 de fevereiro de 2012}}&lt;/ref&gt; e foi configurada na forma atual por [[Rene Descartes]].&lt;ref name="PENSEVEST"&gt;{{citar web|url=http://www.pensevestibular.com.br/enem/geometria-analitica-aula-e-historia|titulo=Geometria Analitica: um Pouco de Historia e Nocoes Basicas|autor=Zuin, Elenice de Souza Lodron|publicado=Pense Vestibular|acessodata=8 de fevereiro de 2012}}&lt;/ref&gt;
+
+Antes disso, os processos para achar as [[raiz (matematica)|raizes]] de equacoes dos [[Babilonia|babilonios]], gregos, hindus, [[arabe]]s e mesmo dos algebristas [[Italia|italianos]] do [[seculo XV]] eram formulados com palavras e as vezes ate com versos (India).
+
+''Viète'' adotou vogais para representar as variaveis e incognitas, e consoantes para representar as constantes&lt;ref&gt;[http://historymedren.about.com/od/aentries/a/11_algebrab_2.htm The History of Algebra, Page Seven]&lt;/ref&gt;. Atualmente, constantes sao representadas pelas primeiras letras do alfabeto e variaveis pelas finais (principalmente, mas nao exclusivamente, ''x'').
+
+== Algebra elementar ==
+{{Artigo principal|Algebra elementar}}
+A  '''algebra elementar''' e a forma mais basica de algebra. E ensinada a quem presume-se ter pouco ou nenhum conhecimento formal de [[matematica]] alem da [[aritmetica]]. Em aritmetica, temos apenas [[numero]]s e suas operacoes aritmeticas,  como +, −, × e  ÷. Em algebra, os numeros sao frequentemente denotados por simbolos, como ''a'', ''x'' ou ''y''. Isso e util porque:
+* Permite a formulacao geral das leis aritmeticas (tais como ''a'' + ''b'' = ''b'' + ''a'' para quaisquer ''a'' e ''b'') e, portanto, e o primeiro passo para uma exploracao sistematica das propriedades do [[Numero real|sistema dos numeros reais]].
+* Permite a referencia a numeros "desconhecidos", a formulacao de [[Equacao|equacoes]] e o estudo das formas para as resolver. (Por exemplo, "encontrar um numero ''x'' tal que 3''x'' + 1 = 10" ou, indo um pouco mais longe, "encontrar um numero ''x'' tal que ''ax''+''b''=''c''"). Este passo leva a conclusao de que nao e a natureza dos numeros especificos que permitem resolver a equacao, mas sim a natureza das operacoes envolvidas.
+* Permite a formulacao de relacoes [[Funcao matematica|funcionais]]. Por exemplo, "se vender '''x''' bilhetes, tera um lucro de 3''x'' menos 10, ou seja: ''f''(''x'') = 3''x'' − 10, onde ''f'' e a funcao, e ''x'' e o numero ao qual a funcao e aplicada.
+
+{{Referencias}}
+
+== Ligacoes externas ==
+{{wikisource|it:Quando chel cubo con le cose appresso}}
+{{Wikilivros|Algebra linear}}
+{{Wikilivros|Algebra abstrata}}
+{{wikcionario}}
+* Struik, Dirk J. ''A Concise History of Mathematics''. New York: Dover Publications, 1987.
+* [http://www.profcardy.com/cardicas/multiarabe.php Metodo Arabe de Multiplicacao]
+* [http://www.bienasbm.ufba.br/M18.pdf Introducao a Historia da Algebra]
+
+[[Categoria:Algebra| ]]</text>
+      <sha1>b46k9l3flmkfd5cuyo3ky00y2tursnp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

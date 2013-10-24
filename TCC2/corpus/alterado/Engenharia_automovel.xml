@@ -1,0 +1,129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Engenharia automovel</title>
+    <ns>0</ns>
+    <id>1248413</id>
+    <revision>
+      <id>37014772</id>
+      <parentid>37014676</parentid>
+      <timestamp>2013-09-30T13:39:07Z</timestamp>
+      <contributor>
+        <username>Acscosta</username>
+        <id>142851</id>
+      </contributor>
+      <comment>/* Engenharia de produto */ Eliminar palavra sem nexo</comment>
+      <text xml:space="preserve" bytes="11636">[[Imagem:Volkswagen Bluesport--DC.jpg|thumb|right|350px|Engenharia automovel: [[carro conceptual|veiculo conceptual]] da [[Volkswagen]].]]
+A '''engenharia automovel''', '''engenharia automotiva''' ou '''engenharia automobilistica''' e um ramo da [[engenharia mecanica]] especializado nos varios tipos de [[automovel|veiculos automoveis]]. Nela sao aplicados elementos de [[ciencias]] de base e de [[engenharia]], elementos de engenharia mecanica, [[engenharia eletrotecnica|eletrotecnica]], [[engenharia eletronica|eletronica]], [[engenharia informatica|informatica]] e [[engenharia de seguranca|de seguranca]] e aperfeicoamentos tecnicos que respondem a evolucao tecnologica dos automoveis, no sentido de aumentar a qualidade, competitividade e a produtividade no setor automovel.
+
+==Vertentes da engenharia automovel==
+===Engenharia de produto===
+Na vertente de engenharia de produto, a engenharia automovel atua nos seguintes aspetos: [[Engenharia de seguranca]]: analise dos [[acidente de automovel|acidentes automoveis]] - incluindo o seu impacto nos ocupantes dos veiculos - e o cumprimento dos parametros legais de seguranca em veiculos. Nessa analise sao avaliados varios parametros, nomeadamente a atuacao dos [[cinto de seguranca|cintos de seguranca]] e ''[[airbag]]s'', a resistencia lateral e frontal ao choque, a resistencia ao capotamento. A analise e realizada com o auxilio de varias ferramentas e metodos, como a [[engenharia assistida por computador|simulacao computacional de acidentes]], os dispositivos antropomorficos de ensaio (''crash test dummies'') e os testes destrutivos com automoveis reais.
+* Consumo de combustivel e emissoes poluentes: a eficiencia em termos de consumo de [[combustivel]] e avaliada atraves do numero de [[litro]]s de [[gasolina]] ou [[diesel]] gasto por um veiculo depois de percorrer 100 [[quilometros|km]]. As [[poluicao|emissoes poluentes]] sao avaliadas em termos da quantidade de [[hidrocarboneto]]s, [[oxido de azoto|oxidos de azoto]] (NOx), [[monoxido de carbono]] (CO), [[dioxido de carbono]] (CO&lt;sub&gt;2&lt;/sub&gt;) e outros gases emitidos para a atmosfera, por um veiculo em funcionamento.
+* Dinamica do veiculo: consiste na resposta do veiculo aos seguintes aspetos: carga, conducao, direcao, [[travao|travagem]] e tracao. O projeto dos [[suspensao veicular|sistemas de suspensao]], direcao, [[chassis|estrutura]], [[roda automotiva|rodas]], [[pneu]]s e controlo de tracao sao alvo de uma grande atencao por parte dos engenheiros de dinamica, no sentido de dotarem o veiculo das qualidades dinamicas desejadas.
+* Ruidos, vibracao e dureza (NVH, ''noise, vibration and harshness''): a NVH e a impressao [[tato|tatil]] e [[audicao|auditiva]] do [[motorista]] em relacao ao veiculo. Enquanto que a impressao auditiva pode ser interpretada como um chocalhar, um guinchar ou um assobiar, a impressao tatil pode ser sentida como uma vibracao no [[volante]]. Estas impressoes sao geradas por componentes em friccao, em vibracao ou em rotacao ou por outros aspetos como o vento. Um engenheiro de NVH procurara eliminar as mas caracteristicas de ruidos, vibracao e dureza de um automovel.
+* [[Desempenho]]: o mesmo consiste num valor mensuravel e testavel relativo a capacidade do veiculo de se comportar em varias condicoes. O desempenho pode ser considerado em termos de uma serie de parametros, mas esta geralmente associado a rapidez com que um automovel pode acelerar (dos 0 km/h aos 100 km/h), a rapidez de travagem (dos 100 km/h aos 0 km/h), a quantidade de [[gravidade|forcas g]] que pode gerar sem derrapar, capacidade de curva e outras. O desempenho tambem pode refletir a capacidade de controlo do veiculo em condicoes climaterias adversas, como a chuva, a neve e o gelo.
+* Durabilidade e corrosao: avaliacao de um veiculo no que diz respeito a sua vida util. Nesta avaliacao entram fatores como a quilometragem total, a conducao em condicoes adversas e os banhos corrosivos de sal.
+* [[Ergonomia]]: analise e projeto das condicoes de acomodacao dos ocupantes de um veiculo, de entrada e saida, campo de visao do motorista, acesso aos pedais, volante e outros controlos, bem como de outros aspetos do conforto.
+* [[AVAC|Climatizacao]]: condicoes de conforto ambiental dentro da cabina de um automovel, no que diz respeito a [[temperatura]] e [[humidade]]. 
+* Facilidade de conducao: a resposta do veiculo as diversas condicoes de conducao.
+* Custo: o custo de um modelo automovel tem em conta, normalmente, os custos variaveis do veiculo e dos seus extras, bem como os custos fixos associados ao seu desenvolvimento. Existem tambem custos associados as garantias e ao [[marketing]].
+* [[Engenharia de producao|Viabilidade de producao]]: existe o risco elevado de um componente automovel ser projetado de uma forma que torna dificil ou impossivel a sua correta fabricacao. Os engenheiros de produto automovel terao que trabalhar em conjunto com os [[engenharia de producao|engenheiros de producao industrial]] no sentido dos projetos resultantes serem faceis e economicos de fabricar e montar, mantendo a sua funcionalidade e aparencia.
+
+===Engenharia de desenvolvimento===
+Em comparacao com a engenharia de produto que trata de cada sistema individualmente, a [[engenharia de sistemas]] ou de desenvolvimento aborda a interacao dos diversos sistemas do automovel, de modo a cumprirem os requisitos ditados pelos fabricantes, pelas imposicoes legais e pelo consumidor. Conquanto existem multiplos componentes e sistemas num automovel que se destinam a desempenhar uma funcao especifica, os mesmos tambem tem que funcionar em harmonia com os restantes. Por exemplo no caso dos travoes, apesar da sua funcao principal ser a de permitir que o automovel trave, os mesmos tambem tem que permitir um niveis aceitaveis de conforto no pedal, de ruido de travagem e de interacao com o [[freio ABS|sistema ABS]].
+
+Outro aspeto abordado pela engenharia de desenvolvimento e o processo de compensacao entre uns atributos e outros, de modo a que o automovel se torne num conjunto equilibrado. Um exemplo, e o equilibrio entre o desempenho do [[motor]] e a economia de combustivel. Do ponto de vista do motor, estes sao fatores opostos. O fator desempenho privilegia um motor grande e potente, enquanto que, pelo contrario, a economia de combustivel privilegia um motor menor. 
+
+A engenharia de desenvolvimento tambem esta encarregue de organizar o teste, a validacao e a certificacao dos automoveis. Os componentes e os sistemas sao projetados e testados individualmente pelos engenheiros de produto. Contudo, a avaliacao final tera que ser feita ao nivel do veiculo completo, no sentido de serem avaliadas as interacoes entre os varios sistemas. Por exemplo, o sistema de som do automovel tem que ser avaliado ao nivel do veiculo, para se verificar se o mesmo causa interferencia com outros componentes eletronicos, se o som e sentido em todos os lugares do automovel e se os controlos estao facilmente acessiveis.
+
+===Outras vertentes da engenharia automovel===
+A engenharia automovel tambem intervem em vertentes como as da aerodinamica e da carrocaria do automovel, conjugando a estetica, com o aerodinamismo e a viabilidade de fabrico dos componentes da carrocaria.
+
+== Engenheiros automoveis ==
+=== Areas de atuacao ===
+No ambito da sua profissao, os engenheiros automoveis atuam, normalmente, nas seguintes areas:
+* Desenvolvimento, projeto, fabrica de montagem de equipamentos e sistemas para veiculos [[automoveis]], [[motocicleta]]s, maquinas industriais e agricolas;
+* Consultoria do setor automovel;
+* Servicos tecnicos de importadores e representantes de equipamentos para o setor automovel;
+* Entidades que operam no setor de inspecao, homologacao, legislacao automovel e centros de formacao de condutores de veiculos;
+* Apoio tecnico especializado em equipamentos de competicao automobilistica;
+* [[Transportes publicos]] e privados;
+* Centros de formacao tecnica de fabricantes de veiculos automotores;
+* Exploracao de frotas de veiculos e de transportes publicos ou privados.
+* como empreendedor, no qual o engenheiro trabalha por conta propria.
+
+=== Formacao ===
+A maioria dos engenheiros automoveis obtem a sua formacao academica atraves de um curso superior de engenharia mecanica de banda larga, especializando-se depois no setor automovel. Contudo, alguns estabelecimentos de ensino superior ministram cursos de graduacao e de pos-graduacao especifica em engenharia automovel.
+====No Brasil====
+No [[Brasil]], existem cursos de engenharia automotiva em varias universidades, incluindo:
+
+* Graduacao em Engenharia Automotiva, no [[Centro das Engenharias da Mobilidade]] na [[Universidade Federal de Santa Catarina]]
+* Graduacao em Engenharia Mecanica com Enfase em Automobilistica, no [[Faculdade de Engenharia Industrial|Centro Universitario da FEI]];
+* Pos graduacao - Especializacao em Mecanica Automobilistica, no [[Faculdade de Engenharia Industrial|Centro Universitario da FEI]];
+* Graduacao em Engenharia Automotiva, na [[Universidade Luterana do Brasil/RS]];
+* Graduacao em Engenharia Automotiva, na [[Universidade de Brasilia]];
+* Especializacao em Engenharia Automotiva, na [[Escola Politecnica da Universidade de Sao Paulo]],
+* Mestrado em Engenharia Automotiva, na Escola Politecnica da Universidade de Sao Paulo;
+* Especializacao em Engenharia Automotiva, na [[Pontificia Universidade Catolica do Parana]];
+* Especializacao em Engenharia Automotiva, no [[Instituto Maua de Tecnologia]];
+* Graduacao em Engenharia Mecanica e de Automovel, no [[Instituto Militar de Engenharia]].
+
+====Em Portugal====
+Em [[Portugal]], sao ministrados os seguintes cursos superiores em engenharia automovel:
+* Licenciatura (1.º ciclo) + Mestrado (2.º ciclo) em Engenharia Automovel, na [[Escola Superior de Tecnologia e Gestao de Leiria]]&lt;ref&gt;[http://cursos.ipleiria.pt/Licenciaturas/Pages/mostrarConteudo.aspx?cid=9741 Licenciatura] e [http://cursos.ipleiria.pt/Mestrados/Pages/mostrarConteudo.aspx?cid=2011 Mestrado] em Engenharia Automovel da Escola Superior de Tecnologia e Gestao do Instituto Politecnico de Leiria.&lt;/ref&gt;;
+* Licenciatura (1.º ciclo) em Engenharia Mecanica - Ramo de Automovel, na [[Instituto Politecnico de Setubal|Escola Superior de Tecnologia de Setubal]]&lt;ref&gt;[http://www.si.ips.pt/ests_si/cursos_geral.FormView?P_CUR_SIGLA=EM Licenciatura] em Engenharia Mecanica, ramo Automovel, na Escola Superior de Gestao do Instituto Politecnico de Setubal.&lt;/ref&gt;;
+* Mestrado (2.º ciclo) em Engenharia Automovel, na [[Faculdade de Ciencias e Tecnologia da Universidade de Coimbra]]&lt;ref&gt;[http://www.uc.pt/fctuc/Ensino/cursos/2ciclo_especializacao/lista/MEA Mestrado] em Engenharia Automovel da Faculdade de Ciencias e Tecnologia da Universidade de Coimbra.&lt;/ref&gt;;
+* Licenciatura em Engenharia Mecanica Automovel (1.º ciclo), no [[Instituto Superior de Engenharia do Porto]]&lt;ref&gt;[http://www.isep.ipp.pt/ Licenciatura] em Engenharia Mecanica Automovel (1.º ciclo), no Instituto Superior de Engenharia do Instituto Politecnico do Porto.&lt;/ref&gt;.
+
+==Referencias==
+* MORGAN, James M., LIKER, Jeffrey K., ''The Toyota Product Development System''
+{{Referencias|Notas}}
+
+
+{{engenharia}}
+
+[[Categoria:Tecnologias automotivas]]
+[[Categoria:Automoveis]]
+[[Categoria:Engenharia]]</text>
+      <sha1>iphyoloofarm02nut598ngqyuy9j2zj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

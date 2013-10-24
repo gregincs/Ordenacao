@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Engenharia eletronica</title>
+    <ns>0</ns>
+    <id>758</id>
+    <revision>
+      <id>36601320</id>
+      <parentid>36601272</parentid>
+      <timestamp>2013-08-05T20:15:05Z</timestamp>
+      <contributor>
+        <username>HVL</username>
+        <id>634769</id>
+      </contributor>
+      <minor/>
+      <comment>Desfeita a edicao 35354522 de [[Special:Contribs/189.84.192.170|189.84.192.170]]</comment>
+      <text xml:space="preserve" bytes="4071">{{Sem-fontes|data=maio de 2009}}
+{{Reciclagem|data=maio de 2009}}
+[[Ficheiro:HitachiJ100A.jpg|thumb|150px]]
+A {{PBPE|engenharia eletronica|engenharia eletronica}} ([[Acordo Ortografico de 1945|AO 1945]]: engenharia electronica) e uma subdivisao da [[engenharia eletrica]]. Essa especialidade lida essencialmente com grandezas eletricas de pequena amplitude e de elevadas frequencias, os chamados sinais eletricos ou eletronicos. A '''engenharia eletronica''' cuida da [[energia eletrica]] sob os micro-aspectos de controle, automacao e telecomunicacao.
+O estudo da '''engenharia eletronica''' fornece meios para o desenvolvimento de componentes, dispositivos, sistemas e equipamentos como: [[transistor]]es, [[circuito integrado|circuitos integrados]] e placas de [[circuito impresso]]. 
+
+==Historia==
+[[Ficheiro:Arduino ftdi chip-1.jpg|thumb|left|150px|Chip [[FTDI]] num [[Arduino]]]]
+A '''engenharia eletronica'''  a partir do desenvolvimento tecnologico nas industrias do [[telegrafia|telegrafo]], no final do seculo 19; e do [[radio]] e [[telefone]] no inicio do seculo 20. A maior parte do desenvolvimento dessa disciplina ocorreu durante o periodo da segunda guerra mundial, com o advento do [[radar]], do [[sonar]], dos sistemas de comunicacao e de outros sistemas com fins de aplicacao belica. Durante os anos que precederam a segunda guerra o assunto era conhecido como "engenharia de radio" e apenas no final dos anos 50 o termo '''engenharia eletronica''' comecou a surgir.&lt;ref&gt;[http://books.google.com/books?id=zhdDAAAAIAAJ&amp;dq=radio+engineering&amp;lr= Radio Engineering Principles]&lt;/ref&gt;
+
+Em 1948 surgiu o transistor e em 1960 o circuito integrado (CI) viria a revolucionar a industria eletronica. &lt;ref&gt;Daniel Todd ''The World Electronics Industry'', p. 55, Taylor &amp; Francis, 1990 ISBN 978-0415024976&lt;/ref&gt;&lt;ref&gt;[http://books.google.com/books?id=XA9Zx1bMH-oC&amp;dq=IC+integrated+circuit&amp;lr=&amp;as_brr=l Silicon Destiny]&lt;/ref&gt; 
+
+Historicamente considerada mera subdivisao da engenharia eletrica, especialmente durante a "[[Valvula eletronica|era da valvula]]", ganhou autonomia plena com o advento da "[[Semicondutor|era do semicondutor]]", rapidamente sucedida pela era da miniaturizacao em larga escala.
+
+==Subdivisoes==
+
+A '''engenharia eletronica''', constitui-se atualmente de varias subdivisoes e ramos, cada vez mais numerosos. Algumas das especialidades e areas de estudos incluem:
+
+* [[Engenharia de Controle e Automacao]]: Comumente chamado de "mecatronica", e a area dentro da engenharia voltada ao controle de processos industriais.
+* [[Engenharia de Telecomunicacoes]]: Um engenheiro de telecomunicacoes e responsavel por desenhar e supervisionar instalacoes de equipamentos de telecomunicacoes, como complexos sistemas eletronicos de comutacao ate instalacoes telefonicas de cobre e fibra otica.
+** [[Radio|Radiofonia]]
+** [[Satelite artificial|Satelites]]
+** [[Telefonia]]
+** [[Telematica]]
+** Televisao
+* [[Engenharia de computacao]]: Especialidade que combina a engenharia eletronica e a [[ciencia da computacao]].
+** Engenharia de [[Hardware]]
+** [[Engenharia de Software]]
+* Engenharia de [[Instrumentacao]]: Lida com o projeto de dispositivos de medicao de grandezas fisicas como pressao, vazao e temperatura.
+* Outras areas de estudo
+** [[Micro-eletronica]]
+** [[Analogico|Sistemas Analogicos]]
+** [[Sistemas Digitais]]
+** [[Sistemas Hibridos]]
+** [[Processamento de sinal|Processamento de sinais]]
+
+{{Referencias}}
+
+==Ver tambem==
+
+{{Correlatos
+|commons         = 
+|commonscat      = Electronic engineering
+|wikisource      = 
+|wikiquote       = Engenharia eletronica
+|wikiquotecat    = 
+|wikilivros      = 
+|wikinoticias    = 
+|wikinoticiascat = Engenharia eletronica
+|wikcionario     = Engenharia eletronica
+|wikispecies     = 
+|wikiversidade   = Portal:Engenharia
+|meta            = 
+}}
+
+*[[Engenharia eletrica]]
+*[[Engenharia eletrotecnica]]
+
+{{Portal de engenharia}}
+{{esboco-engenharia}}
+{{Engenharia}}
+
+[[Categoria:Engenharia eletrica]]</text>
+      <sha1>le1x2r6y69gkl53j5fob75ap4l62c4i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

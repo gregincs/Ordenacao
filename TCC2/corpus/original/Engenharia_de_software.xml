@@ -1,0 +1,305 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Engenharia de software</title>
+    <ns>0</ns>
+    <id>803</id>
+    <revision>
+      <id>37040189</id>
+      <parentid>37040186</parentid>
+      <timestamp>2013-10-03T20:34:09Z</timestamp>
+      <contributor>
+        <username>Stuckkey</username>
+        <id>781874</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:REV|Revertidas]] edições por [[Special:Contribs/186.226.38.54|186.226.38.54]] para a última versão por [[Special:Contribs/177.19.67.174|177.19.67.174]] (usando [[WP:H|Huggle]])</comment>
+      <text xml:space="preserve" bytes="22715">[[Imagem:NIST Industrial Control Security Testbed.jpg|thumb|250px|A engenharia de software é a área responsável pelo estabelecimento de técnicas e práticas para o [[desenvolvimento de software]] cobrindo uma ampla área de aplicações e diferentes tipos de dispositivos.&lt;ref&gt;{{Citar web|url=http://www.dimap.ufrn.br/bes/|título=Engenharia de Software|publicado=www.dimap.ufrn.br|acessodata=26 de julho de 2012}}&lt;/ref&gt;]]
+
+'''Engenharia de software''' é uma área da computação voltada à especificação, [[Desenvolvimento de software|desenvolvimento]] e manutenção de sistemas de ''[[software]]'', com aplicação de tecnologias e práticas de [[gerência de projetos]] e outras disciplinas, visando organização, produtividade e qualidade.&lt;ref&gt;[http://www.inf.ufes.br/~falbo/download/aulas/es-g/2005-1/NotasDeAula.pdf Notas de aula sobre engenharia de software, proferias pelo professor Ricardo de Almeida Falbo, 2005 - UFES]&lt;/ref&gt;
+
+Atualmente, essas [[tecnologia]]s e práticas englobam [[linguagem de programação|linguagens de programação]], [[banco de dados]], [[ferramenta CASE|ferramentas]], [[plataforma (informática)|plataforma]]s, [[Biblioteca de rotinas|biblioteca]]s, padrões, processos e a questão da [[Qualidade de Software]].
+
+Os fundamentos [[Ciência|científicos]] para a engenharia de software envolvem o uso de [[Modelo (matemática)|modelos]] abstratos e precisos que permitem ao engenheiro especificar, projetar, implementar e manter sistemas de software, avaliando e garantindo suas qualidades. Além disso, a engenharia de software deve oferecer mecanismos para se planejar e gerenciar o processo de [[Desenvolvimento de software|desenvolvimento]] de um [[sistema computacional]].
+ 
+== Definição ==
+[[Friedrich Ludwig Bauer]] foi o primeiro dizendo: "Engenharia de ''Software'' é a criação e a utilização de sólidos princípios de engenharia a fim de obter [[software]] de maneira econômica, que seja confiável e que trabalhe em máquinas reais". O próprio significado de [[engenharia]] já traz os conceitos de criação, construção, análise, desenvolvimento e manutenção.   
+   
+A Engenharia de ''Software'' se concentra nos aspectos práticos da produção de um sistema de ''software'', enquanto a [[ciência da computação]] estuda os fundamentos teóricos dos aspectos computacionais.    
+    
+O termo foi criado na década de 1960 e utilizado oficialmente em 1968 na  ''NATO Science Committee''. Sua criação surgiu numa tentativa de contornar a [[crise do software]] e dar um tratamento de engenharia (mais sistemático e controlado) ao [[Desenvolvimento de software|desenvolvimento de sistemas]] de ''software'' complexos. Um sistema de ''software'' complexo se caracteriza por um conjunto de componentes abstratos de ''software'' (estruturas de dados e algoritmos) encapsulados na forma de procedimentos, funções, módulos, objetos ou agentes e interconectados entre si, compondo a [[arquitetura de software|arquitetura do software]], que deverão ser executados em [[sistemas computacionais]].
+   
+Os fundamentos científicos envolvem o uso de '''modelos abstratos e precisos''' que permitem ao engenheiro especificar, projetar, implementar e manter sistemas de ''software'', avaliando e garantindo suas qualidades. Além disto, deve oferecer mecanismos para se planejar e gerenciar o processo de desenvolvimento. Empresas desenvolvedoras de ''software'' passaram a empregar esses conceitos sobretudo para orientar suas áreas de desenvolvimento, muitas delas organizadas sob a forma de [[Fábrica de Software]].
+    
+A [[Engenharia de Sistemas]] é uma área mais ampla por tratar de todos os aspectos de sistemas baseados em [[computador]]es, incluindo ''hardware'' e engenharia de processos além do ''software''.
+
+A Universidade Federal de Goiás foi a primeira instituição no país a criar o curso de graduação em Engenharia de Software, tendo em constante evolução de sua grade curricular.
+
+== Áreas de conhecimento ==
+Segundo o [[Software Engineering Body of Knowledge|SWEBOK]] (Corpo de Conhecimento da Engenharia de Software), versão 2004, as áreas de conhecimento da '''Engenharia de Software''' são:
+* [[Requisitos de Software|Requisitos (Requirements) de Software]]
+* [[Projeto de Software|Projeto (Design) de Software]]
+* [[Construção ou Implementação de Software|Construção (Construction) de Software]]
+* [[Teste de software|Teste (Testing) de Software]]
+* [[Manutenção de Software|Manutenção (Maintenance) de software]]
+* [[Gerência de Configuração de Software]]
+* [[Gerência de Engenharia de Software]]
+* [[Processos de Engenharia de Software]]
+* [[Ferramentas e Métodos de Engenharia de Software]]   
+* [[Qualidade de Software|Qualidade (Quality) de Software]]
+
+Conforme [[Roger Pressman|Pressman]], a Engenharia de Software (ES) é uma tecnologia em camadas. E a base de todas essas camadas é o foco na qualidade do software desenvolvido. Portanto, inclusive do ponto de vista didático, é interessante estudarmos a ES em suas camadas de [[Processo]], [[Métodos]] e [[Ferramentas]].
+
+== Processo de software ==
+{{Artigo principal|Processos de Engenharia de Software}}
+
+Processo de ''software'', ou processo de engenharia de software, é uma seqüência coerente de práticas que objetiva o desenvolvimento ou evolução de sistemas de ''software''. Estas práticas englobam as atividades de especificação, projeto, implementação, testes e caracterizam-se pela interação de ferramentas, pessoas e métodos.
+
+[[SEE]] e [[PSEE]] são os ambientes voltados ao desenvolvimento e manutenção de
+processos. O projeto [[ExPSEE]] é uma continuação dos estudos de processos, principalmente
+do ambiente [[PSEE]].
+
+Devido ao uso da palavra projeto em muitos contextos, por questões de clareza, há vezes em que se prefira usar o original em inglês [[design]].
+
+=== [[Modelos de processo de software]] ===
+Um modelo de [[processo de desenvolvimento de software]], ou simplesmente modelo de processo, pode ser visto como uma representação, ou abstração dos
+objetos e atividades envolvidas no processo de software. Além disso, oferece uma forma
+mais abrangente e fácil de representar o gerenciamento de processo de software e
+consequentemente o progresso do projeto.
+
+Exemplos de alguns modelos de processo de software;
+
+* [[Modelos ciclo de vida]]
+* Sequencial ou [[Modelo em cascata|Cascata]] (do inglês ''waterfall'') - com fases distintas de especificação, projeto  e desenvolvimento.
+* [[Desenvolvimento iterativo e incremental]] - desenvolvimento é iniciado com um subconjunto simples de [[Requisitos de Software]] e iterativamente alcança evoluções subsequentes das versões até o sistema todo estar implementado
+* Evolucional ou [[Prototipação]] - especificação, projeto e desenvolvimento de [[Protótipo|protótipos]].
+* V-Model - Parecido com o modelo cascata, mas com uma organização melhor, que permite que se compare com outros modelos mais modernos.
+* [[Modelo em espiral|Espiral]] - evolução através de vários ciclos completos de especificação, projeto e desenvolvimento.
+* Componentizado - reuso através de montagem de componentes já existentes.
+* Formal - implementação a partir de modelo matemático formal.
+* [[Desenvolvimento ágil de software|Ágil]]
+* [[Rapid Application Development|RAD]]
+* Quarta geração.
+
+=== Modelos de maturidade ===
+Os modelos de maturidade são um metamodelo de processo. Eles surgiram para avaliar a qualidade dos processos de ''software'' aplicados em uma organização (empresa ou instituição). O mais conhecido é o ''Capability Maturity Model Integration'' ('''[[CMMI|CMMi]]'''), do [[Software Engineering Institute|Software Engineering Institute - SEI]].
+
+O CMMI pode ser organizado através de duas formas: Contínua e estagiada.
+Pelo modelo estagiado, mais tradicional e mantendo compatibilidade com o CMM, uma organização pode ter sua maturidade medida em 5 níveis:
+* &lt;b&gt;Nível 1 - Inicial (Ad hoc):&lt;/b&gt; Ambiente instável. O sucesso depende da competência de funcionários e não no uso de processos estruturados;
+* &lt;b&gt;Nível 2 - Gerenciado:&lt;/b&gt; Capacidade de repetir sucessos anteriores pelo acompanhamento de custos, cronogramas e funcionalidades;
+* &lt;b&gt;Nível 3 - Definido:&lt;/b&gt; O processo de desenvolvimento de software é bem definido, documentado e padronizado a nível organizacional;
+* &lt;b&gt;Nível 4 - Gerenciado quantitativamente:&lt;/b&gt; Realiza uma gerência quantitativa do processo de software e do produto por meio de métricas adequadas;
+* &lt;b&gt;Nível 5 - Em otimização:&lt;/b&gt; Usa a informação quantitativa para melhorar continuamente e gerenciar o processo de desenvolvimento. Até março/2012, no Brasil, há somente 13 empresas neste nível.&lt;ref&gt;Washington Souza, Lista de empresas CMMI no brasil (2012), Site brasileiro BlogCMMI.&lt;/ref&gt;
+
+
+
+O ('''[[MPS.BR]]'''),  ou Melhoria de Processos do Software Brasileiro, é simultaneamente um movimento para a melhoria e um modelo de qualidade de processo voltada para a realidade do mercado de pequenas e médias empresas de desenvolvimento de software no Brasil. O MPS.BR contempla 7 níveis de maturidade, de A a G, sendo a primeira o mais maduro. Até agosto/2012, no Brasil, há somente 2 empresas neste nível.&lt;ref&gt;Washington Souza, Lista de empresas MPS.BR no Brasil (atualizado: ago-12), Site BlogCMMI.&lt;/ref&gt;
+
+== Metodologias e métodos ==
+O termo [[Metodologia (engenharia de software)|metodologia]] é bastante controverso nas ciências em geral e na Engenharia de Software em particular. Muitos autores parecem tratar [[metodologia]] e [[método]] como sinônimos, porém seria mais adequado dizer que uma metodologia envolve princípios filosóficos que guiam uma gama de métodos que utilizam ferramentas e práticas diferenciadas para realizar algo.&lt;ref&gt;Veja mais detalhes em [[Metodologia (engenharia de software)]]&lt;/ref&gt;
+
+Assim teríamos, por exemplo, a [[Metodologia Estruturada]], na qual existem vários métodos, como [[Análise Estruturada]] e [[Projeto Estruturado]] (muitas vezes denominados [[SA/SD]], e [[Análise Essencial]]). 
+Dessa forma, tanto a [[Análise Estruturada]] quanto a [[Análise Essencial]] utilizam a ferramenta [[Diagrama de Fluxos de Dados]] para modelar o funcionamento do sistema. 
+
+Segue abaixo as principais Metodologias e Métodos correspondentes no desenvolvimento de software: 
+
+* Metodologia Estruturada
+** [[Análise Estruturada]]
+** [[Projeto Estruturado]]
+** [[Programação Estruturada]]
+** [[Análise Essencial]]
+** [[Structured Analysis and Design Technique|SADT]]
+** [[DFD]] - Diagrama de Fluxo de Dados
+** MER - [[Modelo de Entidades e Relacionamentos]]
+* Metodologia Orientada a Objetos
+** [[Orientação a Objetos]]
+** [[Rational Unified Process]] ( RUP )
+* [[Desenvolvimento ágil de software]]
+** [[Feature Driven Development]] ( FDD )
+** [[Enterprise Unified Process]] (EUP)
+** [[Scrum]] (Scrum)
+** [[Crystal (metodologia)|Crystal]] (Crystal Clear, Crystal Orange, Crystal Orange Web)
+** [[Programação extrema]] ( XP )
+* Outras Metodologias
+** [[Microsoft Solution Framework]] ( MSF )
+
+=== Modelagem ===
+A abstração do sistema de ''software'' através de modelos que o descrevem é um poderoso instrumento para o entendimento e comunicação do produto final que será desenvolvido. 
+
+A maior dificuldade nesta atividade está no equilíbrio (''tradeoff'') entre simplicidade (favorecendo a comunicação) e a complexidade (favorecendo a precisão) do modelo.
+
+Para a modelagem podemos citar 3 métodos:
+* [[Análise estruturada]], criada por Gane &amp; Searson;
+* [[Análise Essencial]], criada por Palmer &amp; McMenamin e Ed. Yourdon;
+* [[UML]], criada por Grady Booch, Ivar Jacobson &amp; Jaimes Rumbaugh. É hoje o método mais comum para o [[paradigma orientado a objetos]].
+
+== Ferramentas, tecnologias e práticas ==
+A '''engenharia de software''' aborda uma série de práticas e tecnologias, principalmente estudadas pela [[ciência da computação]], enfocando seu impacto na produtividade e qualidade de ''software''.
+
+Destacam-se o estudo de [[linguagem de programação]], [[banco de dados]] e [[paradigma de programação|paradigmas de programação]], como:
+
+* [[Programação estruturada]] 
+* [[Programação funcional]]
+* [[Programação orientada a objetos]]
+* [[Componentes de Software]]
+* [[Programação orientada a aspecto]]
+
+=== Ferramentas ===
+Outro ponto importante é o uso de [[Ferramenta CASE|ferramentas '''CASE''']] (do inglês ''Computer-Aided Software Engineering''). Essa classificação abrange toda ferramenta baseada em computadores que auxiliam atividades de engenharia de ''software'', desde a análise de requisitos e modelagem até programação e testes.
+
+Os [[Ambiente de Desenvolvimento Integrado|ambientes de desenvolvimento integrado]] ('''IDEs''') têm maior destaque e suportam, entre outras coisas:
+
+* [[Editor]]{{dn}}
+* [[Compilador]]
+* [[Debug]]
+* [[Geração de código]]
+* [[Modelagem]]
+* [[Deploy]]
+* [[Testes não automatizados]]
+* [[Testes automatizados]]
+* [[Refatoração]] (''Refactoring'')
+* [[Gestão de Riscos nos projectos de Software]]
+* [[Uso da Prototipagem na Eng. de Requisitos]]
+
+== Gerência de projetos ==
+A [[gerência de projetos]] se preocupa em entregar o sistema de ''software'' no prazo e de acordo com os requisitos estabelecidos, levando em conta sempre as limitações de orçamento e tempo. 
+
+A gerência de projetos de software se caracteriza por tratar sobre um produto intangível, muito flexível e com processo de desenvolvimento com baixa padronização.
+
+=== Planejamento ===
+O planejamento de um projeto de desenvolvimento de ''software'' inclui:
+
+* Análise Econômica de Sistemas de Informações
+* organização do projeto (incluindo equipes e responsabilidades)
+* estruturação das tarefas (do inglês WBS - ''[[work breakdown structure]]'')
+* cronograma do projeto (do inglês ''project schedule'')
+* análise e gestão de risco
+* estimativa de custos
+
+Essas atividades sofrem com dificuldades típicas de desenvolvimento de ''software''. A produtividade não é linear em relação ao tamanho da equipe e o aumento de produtividade não é imediato devido aos custos de aprendizado de novos membros. A diminuição de qualidade para acelerar o desenvolvimento constantemente prejudica futuramente a produtividade.
+
+A estimativa de dificuldades e custos de desenvolvimentos são muito difíceis, além do surgimento de problemas técnicos. Esses fatores requerem uma análise de riscos cuidadosa.
+
+Além da própria identificação dos riscos, há que ter em conta a sua gestão. Seja evitando, seja resolvendo, os riscos necessitam ser identificados (estimando o seu impacto) e devem ser criados planos para resolução de problemas.
+
+=== Análise de requisitos ===
+As atividades de análise concentram-se na identificação, especificação e descrição dos [[Processo de Engenharia de Requisitos|requisitos]] do sistema de ''software''. Em resumo, requisito é uma necessidade que o ''software'' deve cumprir.
+
+Há várias interpretações e classificações sobre requisitos, entre elas:
+
+* funcional 
+* não funcional
+* de usuário 
+* de sistema
+
+É comum que o cliente não saiba o que ele realmente deseja, que haja problemas na comunicação e ainda que haja mudança constante de requisitos. Todos esses fatores são recrudescidos pela intangibilidade sobre características de sistemas de ''software'', principalmente sobre o custo de cada requisito.
+
+* Estudo de Viabilidade (Levantamento de Requisitos)
+
+A Engenharia de requisitos é um processo que envolve todas as atividades exigidas para criar e manter o documento de requisitos de sistema (SOMMERVILLE). Segundo RUMBAUGH, alguns analistas consideram a engenharia de Requisitos como um processo de aplicação de um método estrutura como a análise orientada a objetos. No entanto, a Engenharia de requisitos possui muito mais aspectos do que os que estão abordados por esses métodos.
+
+Abaixo um pequeno Processo de Engenharia de Requisitos (SOMMERVILLE).
+
+Estudo da viabilidade → "Relatório de Viabilidade"
+Obtenção e Análise de Requisitos → "Modelos de Sistema"
+Especificação de Requisitos → "Requisitos de Usuário e de Sistema"
+Validação de Requisitos → "Documento de Requisitos"
+
+O primeiro processo a ser realizado num Sistema novo é o Estudo de Viabilidade. Os resultados deste processo devem ser um relatório com as recomendações da viabilidade técnica ou não da continuidade no desenvolvimento do Sistema proposto. Basicamente um estudo de viabilidade, embora seja normalmente rápido, deverá abordar fundamentalmente as seguintes questões:
+
+* O Sistema proposto contribui para os objetivos gerais da organização?
+* O Sistema poderá ser implementado com as tecnologias dominadas pela equipe dentro das restrições de custo e de prazo? Ou precisa de treinamentos adicionais?
+* O Sistema pode ser integrado, e é compatível com os outros sistemas já em operação?
+
+=== Gestão ===
+Existem cinco tipo de gestões: pessoal, produto, processo, projeto e material.
+
+== Histórico ==
+A Engenharia de Software (ES) surgiu em meados dos anos [[1970]] numa tentativa de contornar a crise do [[software]] e dar um tratamento de [[engenharia]] (mais sistemático e controlado) ao desenvolvimento de sistemas de software complexos. Um sistema de software complexo se caracteriza por um conjunto de componentes abstratos de software ([[estrutura de dados|estruturas de dados]] e [[algoritmo]]s) encapsulados na forma de procedimentos, [[funções]], [[módulo de um programa|módulos]], [[objeto]]s ou [[agentes]] interconectados entre si, compondo a arquitetura do software, que deverão ser executados em [[sistemas computacionais]].
+
+== ES no presente e tendências ==
+Atualmente existe um destaque todo especial para a Engenharia de Software na Web. Também utilizado por [[Roger Pressman|Presmann]] a sigla WebE, é o processo usado para criar [[Aplicação Web|WebApps]] (aplicações baseadas na Web) de alta qualidade. Embora os princípios básicos da WebE sejam muito próximos da Engenharia de Software clássica, existem peculiaridades específicas e próprias.
+
+Com o advento do B2B ([[e-business]]) e do B2C ([[e-commerce]]), e ainda mais com aplicações para a [[Web 2.0]], maior importância ficou sendo esse tipo de engenharia. Normalmente adotam no desenvolvimento a arquitetura [[MVC]] (Model-View-Controller).
+
+Outra área de tendência em Engenharia de Software trata da aplicação de técnicas otimização matemática para a resolução de diversos problemas da área. A área, denominada [[Search-based software engineering]], ou [[Otimização em engenharia de software]] em Português, apresenta vários resultados interessantes.&lt;ref&gt;HARMAN, M., JONES, B.F., Search-based software engineering, Information and Software Technology, 2001, pp. 833-839.&lt;/ref&gt; Para mais detalhes em Português, ver texto com [http://goesuece.yolasite.com/resources/Search-based%20Software%20Engineering%20-%20Aplicação%20de%20Metaheurísticas%20em%20Problemas%20da%20Engenharia%20de%20Software%20Revisão%20de%20Literatura%20%28Otimização%20em%20Engenharia%20de%20Software%292.pdf aplicações da otimização em engenharia de software].&lt;ref&gt;FREITAS, F.G., MAIA, C.L.B., COUTINHO, D.P., CAMPOS, G.A.L., SOUZA, J.T., [http://goesuece.yolasite.com/resources/Search-based%20Software%20Engineering%20-%20Aplicação%20de%20Metaheurísticas%20em%20Problemas%20da%20Engenharia%20de%20Software%20Revisão%20de%20Literatura%20%28Otimização%20em%20Engenharia%20de%20Software%292.pdf Aplicação de Metaheurísticas em Problemas da Engenharia de Software: Revisão de Literatura], II Congresso Tecnológico Infobrasil, 2009,&lt;/ref&gt;
+
+O Brasil atualmente conta com seis cursos de nível superior em Engenharia de Software nas seguintes instituições reconhecidas pelo [[MEC]]: [[UnB]], [[UFRN]], [[Universidade Federal do Ceará]], [[Universidade Federal de Goiás]], [[Universidade de Rio Verde]] e [[Unipampa]].&lt;ref&gt;emec.mec.gov.br&lt;/ref&gt;
+
+Eventos acadêmicos também mostram tópicos interessantes sobre futuras tendências de engenharia de software. O Brasil em 2013 sedia grandes eventos de engenharia como a Conferência Internacional de Engenharia de Requisitos&lt;ref&gt;Conferência Internacional de Engenharia de Requisitos[http://www.re2013.inf.puc-rio.br/]&lt;/ref&gt; e a Escola Latino Americana de Engenharia de Software.&lt;ref&gt; Escola Latino Americana de Engenharia de Software[http://www.inf.ufrgs.br/elaes2013] &lt;/ref&gt; 
+
+== Ver também ==
+{{Portal de engenharia}}
+{{portal|Portal=[[Portal:Tecnologias de informação|Portal das tecnologias de informação]]}}
+* [[Engenharia informática]]
+* [[Desenvolvimento de software]]
+* [[Qualidade de software]]
+* [[Arquitetura de dados]]
+* [[Software Engineering Body of Knowledge]]
+* [[Análise econômica de sistemas de informações]]
+* [[Matriz CRUD]]
+* [[Otimização em engenharia de software]]
+* [[Praxis (engenharia de software)|Praxis]] - Processo de desenvolvimento de software com enfoque educacional
+
+{{Referências}}
+
+== Bibliografia ==
+* MAGELA, Rogerio. Engenharia de Software Aplicada: Princípios  (volume 1). Alta Books. 2006.
+* MAGELA, Rogerio. Engenharia de Software Aplicada: Fundamentos (volume 2). Alta Books. 2006.
+* {{referência a livro|Autor=MOLINARI, Leonardo|Título=Gerência de Configuração - Técnicas e Práticas no Desenvolvimento do Software|Editora=Visual Books|Ano=2007|Local de publicação=Florianópolis|ID=85-7502-210-5}}
+* PRESSMAN, Roger. Software Engineering: A Practitioner's Approach, 6ªedição, Mc Graw Hill, 2005.
+* [http://www.editoraixtlan.com/livros.htm ''ANÁLISE ECONÔMICA DE SISTEMAS DE INFORMAÇÕES.''] (ISBN 978-85-909374-7-0) Editora Ixtlan. Autor : ''Sergio Kaminski.'' Comentário: ''Mostra todas as etapas de desenvolvimento do software, relacionando ao lucro,receita e custo.''
+
+== Ligações externas ==
+* [http://www.improveit.com.br/podcast Podcasts (em português) sobre áreas de interesse da Engenharia de Software] CMMI, MPS.BR, Scrum, Extreme Programming e Lean Software Development
+* [http://www.careercast.com/jobs-rated/10-best-jobs-2012 The 10 Best Jobs of 2012] {{en}} - Engenharia apontada como melhor profissão dos Estados Unidos em 2012
+
+[[Categoria:Engenharia de software| ]]
+[http://www.careercast.com/jobs-rated/10-best-jobs-2012 The 10 Best Jobs of 2012] {{en}} - Engenharia apontada como melhor profissão dos Estados Unidos em 2012
+
+[[Categoria:Engenharia de software| ]]
+[http://www.careercast.com/jobs-rated/10-best-jobs-2012 The 10 Best Jobs of 2012] {{en}} - Engenharia apontada como melhor profissão dos Estados Unidos em 2012
+
+[[Categoria:Engenharia de software| ]]</text>
+      <sha1>agac3kii2vrnxy5gn1xxr6mwx3n2rib</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

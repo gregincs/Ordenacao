@@ -1,0 +1,171 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Máquina térmica</title>
+    <ns>0</ns>
+    <id>115426</id>
+    <revision>
+      <id>37045564</id>
+      <parentid>37045556</parentid>
+      <timestamp>2013-10-04T16:18:39Z</timestamp>
+      <contributor>
+        <username>Victor R12</username>
+        <id>1150245</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:REV|Revertidas]] edições por [[Especial:Contribuições/189.72.106.108|189.72.106.108]] para a última versão por [[Especial:Contribuições/189.59.144.21|189.59.144.21]], de 02h06min de 2 de outubro de 2013 (UTC)</comment>
+      <text xml:space="preserve" bytes="15364">Em [[termodinâmica]], '''máquinas térmicas''' são sistemas que realizam a [[conversão]] de [[calor]] ou energia térmica em [[trabalho mecânico]]. Isto se dá quando uma fonte de [[calor]] leva uma substância de [[trabalho]] de um estado de baixa [[temperatura]] para um estado de [[temperatura]] mais alta. A substância de [[trabalho]] (normalmente [[gás]] ou [[vapor]] em expansão térmica) transfere essa [[energia]] através de sua [[expansão]] no interior da máquina térmica acionando o sistema mecânico (pistão, rotor ou outro) e realizando [[trabalho]]. Durante essa [[expansão]], a substância de [[trabalho]] perde [[calor]] para o meio.&lt;ref&gt;Tipler, P.A.; ''Física (Para Cientistas e Engenheiros)'', Vol.2 , Gravitação Ondas e Termodinâmica, 3a Ed., Livros Técnicos e Científicos Editora S.A., 1995. &lt;/ref&gt;
+O [[trabalho]] pode ser definido a partir das trocas de [[calor]]:
+
+
+
+&lt;math&gt;\ W_t=Q_2-Q_1&lt;/math&gt; (1)&lt;/center&gt;
+
+
+
+onde &lt;math&gt;Q_2&lt;/math&gt; e &lt;math&gt;Q_1&lt;/math&gt; são respectivamente o calor cedido da fonte quente e o calor recebido pela fonte fria.
+
+As máquinas térmicas se distinguem de outros tipos por operarem, fundamentalmente, de acordo com  [[Ciclo de Carnot]].
+Apesar de sua limitação de [[eficiência]], têm uma grande vantagem que são várias formas de [[energia]] que podem ser transformadas em [[calor]] como reações exotérmicas ( como combustão), absorção de luz de [[partículas]] energéticas, [[fricção]], [[dissipação]] e [[resistência]].
+Como a fonte de calor que abastece a energia térmica da máquina pode ser gerada virtualmente por qualquer tipo de [[energia]], estas são extremamente versáteis e como enorme gama de aplicação.
+[[arquivo:Second law heat engine.png|thumb|right|350px|'''Diagrama Máquina Térmica''']]
+
+== '''Visão Geral''' ==
+
+Em [[termodinâmica]], máquinas térmicas são usualmente projetadas utilizando um [[modelo padrão]], como o [[Ciclo Otto]]. O modelo teórico pode ser refinado e ampliado com dados reais de um [[motor]] em funcionamento, usando ferramentas como um diagrama indicador. Desde que o modelo padrão foi criado, poucas mudanças foram implementadas, podendo-se dizer que um ciclo termodinâmico é um caso ideal de um motor mecânico.
+Em termos gerais, quanto maior for a diferença na temperatura entre a fonte de calor e o dissipador frio, maior é a eficiência térmica potencial do ciclo. A [[temperatura]] fria da máquina térmica está limitada a temperatura do ambiente, ou seja, não muito inferior a 300 [[Kelvin]]. Por isso a maioria dos esforços para melhorar as eficiências termodinâmicas das máquinas térmicas tem como foco o aumento da temperatura de origem, dentro dos limites dos materiais. A eficiência teórica máxima de uma máquina térmica é igual à diferença de temperatura entre as extremidades quentes e frias, dividida pela [[temperatura]] na extremidade quente, todas expressas em graus [[Kelvin]], ou a [[temperatura absoluta]].&lt;ref&gt;http://memagazine.asme.org/Web/Efficiency_by_Numbers.cfm "Efficiency by the Numbers"] by Lee S. Langston&lt;/ref&gt;
+
+== Potência ==
+Máquinas térmicas podem ser caracterizadas pela sua potência específica, que é normalmente dada em quilowatts (kW) ou em cavalo vapor (cv). Esta característica oferece uma aproximação da saída de pico de potência de um motor. Isto não deve ser confundido com a eficiência de combustível, uma vez que a eficiência elevada, muitas vezes requer uma relação de ar-combustível pobre, e, portanto, menor quantidade de potência.&lt;ref&gt;Halliday, D., Resnick, R., Walker, J.; ''Física'', Vol. 2, Livros Técnicos e Científicos Editora, Rio de Janeiro, 1996&lt;/ref&gt;
+
+== Rendimento ==
+O rendimento das máquinas térmicas pode ser, de uma maneira geral, a razão entre o trabalho total e o trabalho (ou calor) necessário para que ela funcione, ou seja, é o que se obtém pelo que se dá de trabalho&lt;ref&gt;Tipler, P.A.; ''Física (Para Cientistas e Engenheiros)'', Vol.2 , Gravitação Ondas e Termodinâmica, 3a Ed., Livros Técnicos e Científicos Editora S.A., 1995. &lt;/ref&gt;:
+&lt;center&gt;&lt;math&gt;n=\frac{W_t}{Q_1}&lt;/math&gt; (2)&lt;/center&gt;
+mas pela equação (1) podemos melhorar a equação (2):
+&lt;center&gt;&lt;math&gt;n=\frac{(Q_1-Q_2)}{Q_1}&lt;/math&gt;&lt;/center&gt;
+e por fim:
+&lt;center&gt;&lt;math&gt;n=1-\frac{Q_2}{Q_1}&lt;/math&gt; (3)&lt;/center&gt;
+O rendimento é a eficiência com que uma máquina térmica funciona. Em geral o rendimento das máquinas é baixo:
+* motores de automóveis rendem em média 22%;
+* motores a diesel rendem em médiade 25%;
+* grandes turbinas a gás da ordem de 33%
+* o motor de Stirling tem um dos maiores rendimentos, podendo chegar a 40%.&lt;ref&gt; Callen Herbert B. ; “Thermodynamics and an Introduction to Thermostatistics” | edition  2nd ed. , Inc. 1985  isbn 0-471-86256-8&lt;/ref&gt;
+
+
+Supondo que uma máquina térmica receba 100 cal de calor da fonte e, simultaneamente, realize um
+trabalho útil de 20 cal. Essa máquina teria então uma eficiência, 
+
+&lt;math&gt; n= \frac{W}{Q_1}=20/100&lt;/math&gt;, &lt;math&gt;n=0,2&lt;/math&gt; ou &lt;math&gt; 20% &lt;/math&gt;.
+Isso significa apenas 20% da energia térmica fornecida à máquina é convertida em trabalho útil sendo o restante não aproveitado pela máquina. Como a quantidade total de energia não pode aumentar ou diminuir,temos&lt;ref&gt;Kroemer, Herbert ; Kittel, Charles ; “Thermal Physics” edition  2nd ed. publisher  W. H. Freeman Company | year  1980 | isbn  0-7167-1088-9&lt;/ref&gt;: 
+
+
+&lt;center&gt;&lt;math&gt;Q_1=W+Q_2&lt;/math&gt;&lt;/center&gt;
+
+
+Portanto: 
+
+&lt;math&gt;100 = 20 +Q_2 &lt;/math&gt;
+
+&lt;math&gt;Q_2 = 100 -20&lt;/math&gt;  
+
+&lt;math&gt;Q_2=80&lt;/math&gt;
+
+== Exemplos de Máquinas Térmicas ==
+
+=== [[Motor a combustão]] ===
+
+[[File:4StrokeEngine Ortho 3D Small.gif|thumb|Motor a combustão]]
+O motor a combustão é uma máquina térmica comumente relacionada à automóveis. Na animação ao lado podemos observar as fases do processo e entender como a energia de determinados gases pode ser convertida em movimento, que é a justificativa para classificarmos essa máquina como uma máquina térmica, ou seja, que converte energia térmica(calor) em trabalho. A eficiência do motor a combustão é de aproximadamente 25%.&lt;ref name=Richard&gt;{{Cite book |last=[[Richard Stone|Stone, Richard]]|title= Introduction to Internal Comcustion Engines.|year=1993 |publisher= Society of Automotive Engineers|location= Warrendale, PA, USA.}}&lt;/ref&gt;
+==== Fase 1 ====
+Uma mistura de gases(ar e combustível) devidamente dosados por um carburador ou pela injeção eletrônica, preenche o cilindro a medida que o pistão libera espaço, mantendo o sistema a uma pressão constante. Esta mistura geralmente separa uma parte de combustível para cada 15 partes de ar, entretanto dosagens diferentes podem melhorar o desempenho do motor dependendo da necessidade. Nesta fase do processo ainda não há nenhum princípio termodinâmico envolvido.
+==== Fase 2 ====
+Em seguida o pistão sobe e comprime a mistura gasosa. Essa compressão pode ser considerada uma [[transformação adiabática]], pois é muito rápida e não permite que o gás troque calor com o meio externo. Nesse ponto a temperatura e a pressão do gás estão muito elevadas.
+Deve-se lembrar que o motor precisa estar em movimento para funcionar, ou seja, o pistão deve ser acionado e estar em movimento antes de ser adicionada a mistura gasosa e o motor iniciar seu funcionamento normal. Essa partida do pistão era feita com uma manivela nos primeiros veículos, e atualmente é feita por um motor elétrica auxiliar, alimentado pela bateria do carro.
+==== Fase 3 ====
+Na terceira fase do processo, uma faísca(como a do fogão automático) faz com que o gás entre em combustão. Quando as moléculas da gasolina entram em combustão há um rompimento de ligações químicas e esse processo origina novos gases(CO&lt;sub&gt;2&lt;/sub&gt; e H&lt;sub&gt;2&lt;/sub&gt;O). A pressão gerada pelo aumento do volume pode ser relacionada pela [[lei dos gases ideais]], e é essa pressão que empurra o pistão e mantém o movimento contínuo do sistema mecânico. Essa expansão do gás em combustão também é um processo adiabático devido a velocidade com que o pistão desce e retorna a pressão inicial do sistema.
+
+==== Fase 4 ====
+Nesta última etapa os gases queimados precisam ser expulsos do cilindro para recomeçar o processo. Devido a inércia, o pistão é impulsionado para cima e nesse momento a válvula de escape abre e os gases são empurrados para fora. Esse processo também é [[isobárico]] pois o pistão não comprime os gases, apenas os empurra para fora.
+
+=== [[Motor a vapor]] ===
+[[File:Steam Engine.ogg|thumb|220px|Vídeo de uma [[Eolípila]], considerado um dos primeiros motores a vapor documentados.]]
+A [[locomotiva a vapor]] ficou conhecida como [[Maria Fumaça]] devido a coluna de vapor e fuligem que marcava o caminho do primeiro vagão. Geralmente, o material que fornece energia térmica(carvão, lenha) era levado nesses primeiros vagões. Além desse combustível, a máquina precisa de água, que vai absorver essa energia e liberará-la realizando trabalho para dar movimento ao transporte. A eficiência do motor a vapor é inferior a 10%.
+A animação ilustra as articulações ligadas ao pistão e nos ajuda a compreender como o movimento de vai-e-vem pode girar uma roda. Entretanto, a classificação de '''máquina térmica''' para este sistema está relacionada com o vapor que empurra o pistão. É principalmente na caldeira da locomotiva, onde o combustível é queimado, o lugar em que os conceitos da termodinâmica podem ser melhor observados:
+[[File:Locomotiva FS 625.100 (09).jpg|thumb|220px|Imagem da peça real exibida na animação.]]
+A energia térmica proveniente do material em combustão aquece um reservatório com água. Essa transferência de calor pode ser calculada pela diferença de temperatura, pelo volume de água que vira vapor e pelo [[calor específico]] da água. Esse vapor sobe e uma válvula permite que ele entre no cilindro onde está o pistão. Uma vez que não há mais espaço, e, sabendo que o volume do vapor continua crescendo conforme mais energia é transferida para o reservatório de água, a pressão dentro do cilindro aumenta até que o pistão é empurrado e seu movimento abre outra válvula que libera o vapor.
+[[File:Walschaerts motion.gif|thumb|300px|left|Funcionamento de uma locomotiva a vapor.]]
+Uma vez iniciado o movimento, o pistão retorna a posição inicial devido a sua inércia e isso faz com que a válvula permita que o vapor do reservatório ocupe o espaço do cilindro, completando o ciclo.&lt;ref name=Schmidt&gt;{{Cite book |last=[[Frank Schmidt|Schmidt, Frank]] e [[Robert Henderson|Henderson, Robert]]|title=Introdução às Ciências Térmicas|year=1996 |publisher=Edgard Blusher|location=}}&lt;/ref&gt;
+
+=== [[Geladeira]] ===
+[[File:Refrigerator-cycle.svg|thumb|300px|Ciclo de refrigeração.]]
+A geladeira é uma das máquinas que revolucionou a vida do homem. Entretanto, pouco pensamos sobre seu ciclo de refrigeração. Quanta física há no processo de resfriar a comida?
+O equipamento pode ser caracterizado como uma máquina térmica onde estamos interessados no calor dissipado, e não no trabalho realizado. Parece errado, depois de tudo o que vimos, pensar que quanto mais calor for dissipado melhor será o rendimento da geladeira, mas é exatamente isso.&lt;ref name= Schmidt/&gt;
+O processo de refrigeração é um ciclo térmico, ilustrado na imagem.
+==== Fase 1 ====
+O [[hidrofluorcarbono]] é o gás atualmente utilizado em refrigeradores e ar-condicionados. É ele quem faz o ar dentro da geladeira esfriar, graças a troca de calor por [[Condução térmica|condução]] e por [[convecção]]. Inicialmente esse gás percorre a serpentina exterior da geladeira, também chamada de condensador, para que fique a temperatura ambiente. Essa serpentina geralmente fica atrás do equipamento, mas pode ficar em qualquer lugar desde que fique a temperatura ambiente.
+==== Fase 2 ====
+Na segunda fase do ciclo o gás passa por um pequeno capilar e em seguida entra em uma tubulação com um volume maior do que o pequeno capilar onde se encontrava. Essa mudança de volume diminui a pressão do gás e sua temperatura, deixando a tubulação gelada. Essa relação entre [[pressão]] [[temperatura]] e [[volume]] é conhecida como [[equação de estado]].
+[[File:Empty refrigerator.jpg|thumb|150px|left|Geladeira vazia.]]
+==== Fase 3 ====
+Já resfriado o gás passa por uma outra serpentina, deixando o material mais gelado. É nessa parte que a geladeira começa a gelar: o ar troca calor com a serpentina por condução e fica mais denso que o resto do ar da geladeira. Esse ar mais pesado troca de lugar com o ar quente por convecção e o ar quente entra em contato com a serpentina, tornando-se frio também. Essa serpentina precisa estar no parte mais alta da geladeira para que o processo de convecção ocorra e a temperatura interna fique aproximadamente igual.
+==== Fase 4 ====
+É na quarta fase do processo que realizamos trabalho sobre o sistema, ou seja, fazemos exatamente o contrário do que vinhamos fazendo até agora com as máquinas térmicas. Um motor elétrico é utilizado para comprimir o gás gelado e fazer com que ele volte a tubulação externa a uma pressão muito maior do que a anterior. Ao elevar a pressão também aumentamos a temperatura, ou seja, o gás sai mais quente do que estava dentro da geladeira. Além de estar mais quente do que antes, ele precisa estar mais quente do que a temperatura ambiente, para que o sistema dissipe perca calor. Além de elevar a temperatura, o compressor empurra o gás para que o ciclo continue.
+
+=== [[Turbina a vapor|Turbinas]] ===
+O termo '''turbinas''' é utilizado aqui para caracterizar qualquer sistema que utilize os princípios da termodinâmica para converter algum tipo de energia em energia elétrica.
+A explicação resume bem essa sessão de máquinas térmicas, pois em geral o mecanismo de tansformação é o mesmo: uma [[hélice]] (ou pá) que gira uma turbina, podendo esta ser um motor ou um corpo com propriedades magnéticas.&lt;ref name=Schmidt/&gt;
+==== [[central nuclear|Usina Nuclear]] ====
+[[File:Steam-electric power plant.PNG|thumb|left|350px|Planta de um gerador de energia elétrica seguindo os princípios da termodinâmica.]]
+Esse processo fica bem claro em uma usina nuclear, pois o calor gerado no processo(seja ele fusão ou fissão) é convertido, em parte, em energia elétrica por um processo termodinâmico.
+[[File:Angra dos Reis - usinas nucleares.jpg|thumb|300px|Usina nuclear de Angra dos Reis.]]
+Funciona da seguinte maneira: A partir de um processo nuclear de [[fissão]] ou [[fusão]] é extraída energia de materiais radioativos, e essa energia é liberada no ambiente na forma de calor. Esse ambiente é uma câmara com água, que esquenta muito rápido e evapora, originando colunas gigantes de vapor. A câmara é completamente vedada, a não ser a superfície, que é obstruída por um conjunto de pás giratórias. Devido a imensa pressão do vapor d'água as helices gigantes giram e liberam o gás aos poucos.
+Esse movimento rotatório das pás é propagado para algum eixo de motor ou corpo magnético, que vai acabar gerando energia elétrica usando os mesmos princípios de uma usina [[hidroelétrica]], por exemplo.
+
+{{Referências}}
+{{Refbegin}}
+
+
+{{Refend}}
+
+[[Categoria:Termodinâmica]]</text>
+      <sha1>9bucrkudkzpolkwsl5qavwum3vgr238</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,137 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Engenharia mecânica</title>
+    <ns>0</ns>
+    <id>10159</id>
+    <revision>
+      <id>37165011</id>
+      <parentid>37165009</parentid>
+      <timestamp>2013-10-22T11:13:50Z</timestamp>
+      <contributor>
+        <username>Aleph Bot</username>
+        <id>691220</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipédia:Robô|BOT]] - Possível teste de [[Special:Contributions/201.55.31.17|201.55.31.17]], revertendo para a edição 36897553 de [[User:Salebot|Salebot]].</comment>
+      <text xml:space="preserve" bytes="6668">{{Sem-fontes|data=dezembro de 2009}}
+[[Ficheiro:Dampfturbine Montage01.jpg|right|200px|center|thumb|Montagem de [[Turbina a vapor]], [[máquina]] avançada em todas as áreas da '''engenharia mecânica''']]
+A '''engenharia mecânica''' é a aplicação de [[matemática]] e [[ciência]]s básicas, principalmente [[física]], no projeto, construção, análise, manutenção e operação de sistemas mecânicos. Sistemas mecânicos são constituidos por elementos físicos, construídos pelo [[Homo sapiens|homem]] ou presentes na [[natureza]].
+
+== Ciências mecânicas ==
+A engenharia mecânica é [[didática|didaticamente]] dividida em áreas como a criação que frequentemente se entrelaçam nos diversos ramos de atuação. Destas áreas, aquelas mais próximas à [[física]] são chamadas '''ciências mecânicas''' e servem de base [[teoria|teórica]] às áreas de direta aplicação de [[engenharia]]. As ciências mecânicas pouco abordam aspéctos tecnológicos e práticos, tratam de conceitos básicos bem estabelecidos e que muito dificilmente se tornam ultrapassados.
+
+[[Ficheiro:Newtons cradle animation book.gif|right|200px|thumb|[[Quantidade de movimento]] transferída através de [[pêndulo]]s, objeto de estudo da '''mecânica geral'''.]]
+
+=== Mecânica geral ===
+A mecânica geral engloba áreas fundamentais da [[física]], podendo ser separada em [[estática]] e [[dinâmica]]. Suas abordagens mais conhecidas são: [[mecânica clássica|clássica]], de [[mecânica de Lagrange|Lagrange]] e a [[dinâmicas de corpo rígido|dinâmica dos corpos rígidos]]. Ainda que a mecânica geral inclua teorias fundamentais de dinâmica, teorias mais sofisticadas a respeito fogem ao tipo de abordagem, que geralmente trata de corpos inflexíveis e é pouco viável para análise de [[sistema]]s complexos.
+
+São estudados pela mecânica geral [[modelos físicos|modelos]] de [[atrito]], [[inércia]], choque mecânico, [[Teorema do trabalho-energia|trabalho e energia]], [[gravitação]] e [[quantidade de movimento]]. Estes conceitos são imprescindíveis ao desenvolvimento das demais áreas de engenharia mecânica.
+
+=== Dinâmica ===
+A [[Dinâmica]], não só no campo da mecânica, estuda a forma como elementos se comportam e interagem entre si, ao longo do [[tempo]]. Considera-se um [[sistema dinâmico]] se o estado ou condição em que o mesmo se encontra não depende apenas das [[força]]s ou condições momentâneas a que é submetido, mas também depende do estado anterior em que se encontrava. Este tipo de sistema físico geralmente acarreta em [[Modelo (matemática)|modelos matemáticos]] de [[equações diferenciais]]. A análise envolvida pode atingir alto grau de complexidade demandando soluções [[Álgebra|algébricas]] sofisticadas ou até se restringindo a simulações numéricas (através de [[modelagem computacional|modelos computacionais]]).
+
+Na mecânica, a dinâmica é empregada em diversos tipos de tecnologia, como suspensão de [[automóvel]], [[motores]], projetos de [[navios]] e estruturas ''[[offshore]]'', [[aeronaves]], projeto de [[prótese]]s ósseas etc.
+
+[[Ficheiro:Centrifugal governor.png|left|200px|thumb|[[Regulador centrífugo]], utilizado por [[James Watt]] em [[motor a vapor]], em [[1788]])]]
+
+=== Controle ===
+A [[Engenharia de controle e automação|Engenharia de Controle]] tem como objetivo o desenvolvimento de máquinas acopláveis a [[sistemas dinâmicos]], com a função de modificar o comportamento dos mesmos. Por trás do projeto de controle, envolvem-se as [[teoria]]s de [[dinâmica]] associadas a [[lógica de controle|lógicas de controle]].
+
+Os primeiros sistemas de controle foram criados para limitar a velocidade de rotação de máquinas a vapor, no século XVIII. Estes sistemas eram puramente mecânicos. Hoje, são mais comuns dispositivos que envolvem partes eletrônicas e eletromecânicas, contendo sensores, atuadores e controladores digitais, como é o caso dos sistemas de injeção eletrônica de combustível de veículo automotores e piloto automático de navios, aeronaves e mísseis.
+
+=== Mecânica dos sólidos ===
+[[Ficheiro:FAE visualization.jpg|right|200px|thumb|[[Simulação]] do estado de distribuição de tensões num [[automóvel]] em colisão, por [[método dos elementos finitos|elementos finitos]]]]
+Também conhecida como [[resistência dos materiais]], a mecânica dos sólidos estuda o comportamento de corpos submetidos a [[força|esforços mecânicos]]. Entre as principais teorias, envolvem-se a da [[elasticidade]], [[plasticidade]] e estabilidade
+
+A mecânica dos sólidos é fundamental no desenvolvimento de estruturas e [[elementos de máquinas]], tais como [[engrenagens]], árvores (eixos), [[mancal|mancais]], etc. Permite estudar as variações de [[tensão mecânica|tensões]] e deformações ao longo do [[sólido]] (ou peça), esseciais ao dimensionamento do mesmo. Para corpos de [[geometria]] e [[carregamento]] (forças externas) complexos, bem como aqueles constituidos de materiais não-isotrópicos, é necessário utilizar técnicas numéricas assistidas por computador, a fim de determinar os campos de tensão ou deformação, como por exemplo:
+* [[Método das diferenças finitas]];
+* [[Método dos elementos finitos]];
+* [[Método dos elementos de contorno]].
+
+=== Mecânica dos fluidos ===
+{{Artigo principal|[[Mecânica dos fluidos]]}}
+
+=== Termodinâmica ===
+{{Artigo principal|[[Termodinâmica]]}}
+
+=== Transferência de calor ===
+{{Artigo principal|[[Transferência de calor]]}}
+
+== {{Ver também}} ==
+{{Portal de engenharia}}
+{{Correlatos
+|commons         = 
+|commonscat      = Mechanical engineering
+|wikisource      = 
+|wikiquote       = Engenharia mecânica
+|wikiquotecat    = 
+|wikilivros      = 
+|wikinoticias    = 
+|wikinoticiascat = Engenharia mecânica
+|wikcionario     = Engenharia mecânica
+|wikispecies     = 
+|wikiversidade   = Portal:Engenharia
+|meta            = 
+}}
+*[[Técnico em Mecânica (Técnico Mecânico)|Técnico em Mecânica]]
+* [[Engenharia]]
+* [[Engenharia aeronáutica]]
+* [[Engenharia aeroespacial]]
+* [[Engenharia automóvel]]
+* [[Engenharia de base]]
+* [[Engenharia industrial]]
+* [[Engenharia mecatrônica]]
+* [[Engenharia naval]]
+
+== {{Ligações externas}} ==
+* {{Link|en|2=http://kmoddl.library.cornell.edu/index.php |3=Kinematic Models for Design Digital Library (KMODDL)}}&lt;br /&gt; Filmes e fotos de centenas de modelos mecânicos na Cornell University. Inclui, igualmente, uma [http://kmoddl.library.cornell.edu/e-books.php biblioteca eletrônica] sobre projeto mecânico .
+
+{{Esboço-engenharia}}
+
+{{Engenharia}}
+
+{{DEFAULTSORT:Engenharia Mecanica}}
+
+[[Categoria:Engenharia]]</text>
+      <sha1>7rmox5r12sq4rv5ho5jwoucs8t2r783</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

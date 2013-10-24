@@ -1,0 +1,200 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Computacao quantica</title>
+    <ns>0</ns>
+    <id>12699</id>
+    <revision>
+      <id>36255379</id>
+      <parentid>36047451</parentid>
+      <timestamp>2013-06-29T20:45:27Z</timestamp>
+      <contributor>
+        <ip>186.212.213.225</ip>
+      </contributor>
+      <comment>/* Principios da Computacao Quantica */</comment>
+      <text xml:space="preserve" bytes="16988">{{Reciclagem|data=novembro de 2011}}
+A '''computacao quantica''' e a ciencia que estuda as aplicacoes das teorias e propriedades da mecanica quantica na [[Ciencia da Computacao]]. Dessa forma seu principal foco e o desenvolvimento do [[computador quantico]].
+
+Na computacao classica o computador e baseado na arquitetura de Von Neumann que faz uma distincao clara entre elementos de processamento e armazenamento de dados, isto e, possui processador e memoria destacados por um barramento de comunicacao, sendo seu processamento sequencial.
+
+Entretanto os computadores atuais possuem limitacoes, como por exemplo na area de Inteligencia Artificial(IA) onde nao existem computadores com potencia ou velocidade de processamento suficiente para suportar uma IA avancada. Dessa forma surgiu a necessidade da criacao de um computador diferente dos usuais que resolvesse problemas de IA, ou outros como a fatoracao de numeros primos muito grandes, logaritmos discretos e simulacao de problemas da [[Fisica Quantica]].
+
+A Lei de Moore afirma que a velocidade de um computador e dobrada a cada 18 meses. Assim sempre houve um crescimento constante na velocidade de processamento dos computadores. Entretanto essa evolucao pode atingir um certo limite,  um ponto onde nao sera possivel aumentar essa velocidade e entao se fez necessario uma revolucao significativa na computacao para que este obstaculo fosse quebrado. E assim os estudos em Computacao Quantica se tornaram muito importantes e a necessidade do desenvolvimento de uma maquina extremamente eficiente se torna maior a cada dia.
+
+== Historia ==
+A pesquisa para o desenvolvimento da computacao quantica iniciou-se ja na decada de 50 quando pensavam em aplicar as leis da fisica e da mecanica quantica nos computadores. Em 1981 em uma conferencia no [[MIT]] o fisico [[Richard Feynman]] apresentou uma proposta para utilizacao de sistemas quanticos em computadores, que teriam entao uma capacidade de processamento superior aos computadores comuns.  Ja em 1985, [[David Deutsch]], da [[Universidade de Oxford]], descreveu o primeiro computador quantico, uma [[Maquina de Turing Quantica]], ele simularia outro computador quantico.
+Depois de Deutsch apenas em 1994 houveram noticias da computacao quantica, quando em [[Nova Jersey]], no [[Bell Labs]] da AT&amp;T, o professor de matematica aplicada [[Peter Shor]] desenvolveu o Algoritmo de Shor, capaz de fatorar grandes numeros numa velocidade muito superior a dos computadores convencionais.
+Em 1996, [[Lov Grover]], tambem da Bell Labs, desenvolveu o Speedup, o primeiro algoritmo para pesquisa de base de dados quanticos. Nesse mesmo ano foi proposto um modelo para a correcao do erro quantico. Em 1999 no MIT foram construidos os primeiros prototipos de computadores quanticos utilizando montagem termica.
+No ano de 2007 surge o Orion, um processador quantico de 16 qubits que realiza tarefas praticas foi desenvolvido pela empresa canadense D-Wave.
+Em 2011 a D-Wave lancou o primeiro computador quantico para comercializacao, o D-Wave One, que possui um processador de 128 qubits. Porem o D-Wave One ainda nao e totalmente independente, precisa ser usado em conjunto com computadores convencionais.
+
+== Quebras de paradigmas ==
+A computacao quantica quebra inumeros paradigmas da computacao classica, aonde podemos dividir os problemas em "problemas trataveis" e "problemas intrataveis".
+
+Todos os elementos que mudam as estruturas classicas vem das mudancas que a fisica classica trouxe. Fisicos como [[Heisenberg]], [[Bohr]], [[Schrödinger]] e [[Einstein]] estudaram esses novos fundamentos. Dentre eles podemos destacar:
+* [[Sobreposicao quantica]]
+* Experiencia do [[Gato de Schrödinger]]
+* [[Entrelacamento quantico]] ou "Acao fantasmagorica a distancia"
+* [[Teletransporte quantico]]
+* [[Espalhamento de Rutherford]]
+* Existencia de [[multiverso]]
+
+E foi gracas a estes principios que foi possivel o desenvolvimento da Computacao Quantica.
+
+== Principios da Computacao Quantica ==
+A [[Mecanica Quantica]] e considerada a mais bem sucedida teoria fisica. Pois desde a sua criacao ate os dias atuais, ela tem sido aplicada em diversos ramos, desde a fisica de particulas, atomica e molecular ate a [[astrofisica]] e materia condensada.
+
+Na computacao quantica a unidade de informacao basica e o [[Bit quantico]] ou q-bit. O fato da computacao quantica ser tao poderosa esta no fato de que alem de assumir '0' ou '1' como na computacao classica, ela pode assumir ambos os estados '0' e '1' ao mesmo tempo. Parece estranho algo assumir os dois estados diferentes ao mesmo tempo, mas a experiencia mental do [[Gato de Schrödinger]] pode dar um sentido intuitivo a situacao. E e gracas a essa propriedade da superposicao de estados que motivou os estudos em computacao quantica. Se na computacao classica o processamento e sequencial, na computacao quantica o processamento e simultaneo.
+
+Imagine que uma pessoa precise encontrar o contato de telefone de alguma pessoa em uma lista, na computacao classica e como se ela olhasse em cada nome conferindo se e o contato procurado. Ja em um processamento quantico e como se uma pessoa conseguisse conferir varios nomes a cada processamento.
+
+O q-bit e descrito por um vetor estados em um sistema quantico de dois niveis o qual e equivalente a um vetor de espaco bidimensional sobre numeros complexos. Usa-se a notacao de bra-ket para representa-los:
+
+: &lt;math&gt; |0\rangle = \begin{bmatrix} 0 \\ 1\end{bmatrix} &lt;/math&gt;  e  &lt;math&gt;|1\rangle = \begin{bmatrix} 1 \\ 0\end{bmatrix} &lt;/math&gt;
+
+Assim, o estado de um q-bit pode ser representado por:
+
+: &lt;math&gt;| \psi \rangle = \alpha |0 \rangle + \beta |1 \rangle,\,&lt;/math&gt;
+
+O conjunto &lt;math&gt;\{ |0\rangle,|1\rangle \} &lt;/math&gt; forma uma base no espaco de Hilbert de duas dimensoes, chamada de base computacional.
+
+Para a manipulacao dos estados quanticos utiliza-se principalmente tecnicas opticas, isto e radiacao eletromagnetica. Estes dispositivos constituem-se as  portas logicas quanticas. A manipulacao pode ser realizada utilizando atomos que podem ser excitados ou nao ou os dois ao mesmo tempo. Outro dispositivo utilizado e a manipulacao de fotons. A vantagem em utiliza-los esta no fato de que esses fotons podem constituir-se portadores altamente estaveis de informacao quantica. Entretanto fotons nao interagem diretamente entre si, sendo necessario o uso de um atomo como mediador, que introduz um ruido adicional e complicacoes no experimento. Neste caso um atomo interage com um atomo que por sua vez interage com o segundo foton, levando a interacao completa entre os dois fotons.
+
+Para armazenar os q-bits utiliza-se armadilhas de ions (ion trap) em que um pequeno numero de atomos carregados sao aprisionados e armadilhas de atomos neutros (neutral ion trap) para aprisionar atomos sem carga.
+
+Neste esquema os fotons sao usados para manipular a informacao contida nos atomos, dessa forma constituem um tipo de porta logica quantica que aplica pulsos apropriados de radiacao eletromagnetica para que os atomos vizinhos possam interagir um com o outro como via, por exemplo, forcas dipolo.
+
+Outra classe de processamento de informacao quantica e baseada na ressonancia magnetica nuclear (RMN). Neste caso a informacao quantica e armazenada nos spins nucleares dos atomos em moleculas e as portas logicas manipulam essa informacao usando a radiacao eletromagnetica. Um positron ou eletron podem ter um spin pra cima, pra baixo e os dois ao mesmo tempo.
+
+Os momentos magneticos nucleares fazem um movimento natural de precessao na presenca de campos magneticos. Os estados quanticos dos nucleos podem ser manipulados irradiando os nucleos com pulsos de radio frequencia sintonizados na frequencia de precessao destes.
+
+Em um determinado composto constituido por diferentes atomos pode-se medir as ressonancias dos nucleos de alguns atomos sem altera-los utilizando a RMN. Ela e sensivel as interacoes dos momentos nucleares expostos a campos eletricos e magneticos locais, estas interacoes sao chamadas de hiperfinas. Cada tipo de spin possui uma velocidade angular que depende do campo aplicado e da interacao de troca entre eles.
+
+Assim como na computacao classica, na computacao quantica utiliza-se circuitos, porem esses circuitos sao quanticos:
+
+* '''Entrada:''' considera-se conjuntamente os ''qubits'' de entrada, matematicamente o que e chamado de seu produto tensorial;
+* '''Linhas horizontais:''' as linhas que aparecem nao sao necessariamente fios. Elas representam a evolucao de um ''qubit'', podendo ser apenas a passagem do tempo ou, por exemplo, o deslocamento de um foton;
+* '''Sentido:''' o circuito descreve a evolucao do sistema quantico no tempo, da esquerda para a direita;
+* '''Linhas verticais:''' o segmento vertical informa que o circuito atua simultaneamente nos dois ''qubits''. A linha vertical representa o sincronismo, e nao o envio de informacao;
+* '''Controle:''' indica que o ''qubit'' representado nessa linha e um ''qubit'' de controle, ou seja, caso esteja no estado &lt;math&gt;|1\rangle,&lt;/math&gt; a porta realiza a operacao; caso esteja no estado &lt;math&gt;|0\rangle,&lt;/math&gt; a porta nao realiza operacao alguma. Caso o ''qubit'' de controle seja um estado superposto ou os 2 ''qubits'' estejam emaranhados, nao e possivel compreender o comportamento individual do ''qubit'' de controle e do ''qubit'' alvo. Deve-se considerar a acao do operador unitario, que representa todo o circuito, atuando simultaneamente nos 2 ''qubits''.
+* '''Saida:''' os ''qubits'' que compoem a saida do circuito podem ou nao ser medidos. Como o ''qubit'' inferior esta sendo medido, o resultado sera 0 ou 1.
+
+Como vemos, operacoes logicas ou ate mesmo algoritmos podem ser descritos por um circuito quantico. Nestes circuitos podemos utilizar as portas logicas utilizadas na computacao classica, mas podemos utilizar ainda outras que chegam a permitir, por exemplo, a construcao de um possivel circuito para o teletransporte de dados.
+
+Atualmente e possivel realizar qualquer operacao classica utilizando somente portas '''Nand'''. O mesmo ocorre em circuitos quanticos onde as portas sao: Hadanard (H), Controladora (CNOT), fase (S) e '''&lt;math&gt;\scriptstyle{\pi}/8&lt;/math&gt;'''(T). Exemplos de portas quanticas:
+
+* Porta '''NOT''' Quantica:
+
+No caso classico, a porta ''NOT'' troca o 1 por 0 e vice-versa. A generalizacao para o caso quantico e dada por um operador &lt;math&gt;X&lt;/math&gt; que satisfaz
+
+:&lt;math&gt;X|1\rangle = |0\rangle&lt;/math&gt; e &lt;math&gt;X|0\rangle = |1\rangle.&lt;/math&gt;
+
+Com isso, verifica-se facilmente que a representacao matricial do operador &lt;math&gt;X&lt;/math&gt; e dada por
+
+:&lt;math&gt;X = \begin{bmatrix}
+ 0 &amp; 1 \\
+ 1 &amp; 0
+\end{bmatrix}.&lt;/math&gt;
+
+Com a porta ''NOT'' quantica, existem situacoes sem contrapartida no caso classico, pois, se a entrada &lt;math&gt;|\phi\rangle&lt;/math&gt; for uma superposicao dos estados &lt;math&gt;|0\rangle&lt;/math&gt; e &lt;math&gt;|1\rangle,&lt;/math&gt;
+
+:&lt;math&gt;|\phi\rangle = \alpha|0\rangle + \beta|1\rangle,&lt;/math&gt;
+a saida sera
+:&lt;math&gt;X|\phi\rangle = \beta|0\rangle + \alpha|1\rangle,&lt;/math&gt;
+
+A porta &lt;math&gt;X&lt;/math&gt; e apenas uma das portas de 1 ''qubit'', ja que ha infinitas matrizes unitarias &lt;math&gt;2 \times 2&lt;/math&gt;.
+
+* Porta '''CNOT''' Quantica:
+
+Atua em estados de 2 ''qubits'', e a contrapartida quantica do circuito classico da porta ''XOR''. Ela tem 2 ''qubits'' de entrada, o de controle e o alvo. Uma porta controlada, age dependendo do valor do ''qubit'' de controle. Ela e "ativada" se o ''qubit'' de controle estiver no estado &lt;math&gt;|1\rangle,&lt;/math&gt; e nada faz, se ele estiver no estado &lt;math&gt;|0\rangle.&lt;/math&gt; Essa descricao e adequada apenas quando o ''qubit'' de controle esta nos estados &lt;math&gt;|0\rangle,&lt;/math&gt; ou &lt;math&gt;|1\rangle.&lt;/math&gt; Entretanto, o que distingue a porta ''CNOT'' quantica da classica e que, na porta ''CNOT'' quantica, os ''qubits'' alvo e de controle podem ser estados superpostos.
+
+A acao da porta ''CNOT'' pode ser caracterizada pelas transformacoes operadas nos elementos da base computacional associada, ou seja,
+
+:&lt;math&gt;\begin{matrix}
+ |00\rangle &amp; \rightarrow &amp; |00\rangle,\\
+ |01\rangle &amp; \rightarrow &amp; |01\rangle,\\
+ |10\rangle &amp; \rightarrow &amp; |11\rangle,\\
+ |11\rangle &amp; \rightarrow &amp; |10\rangle.
+\end{matrix}&lt;/math&gt;
+
+Note que e possivel representar essa acao na base computacional de forma mais esquematica por
+:&lt;math&gt;|i,j\rangle \rightarrow |i, i\oplus j\rangle,&lt;/math&gt;
+onde &lt;math&gt;i, j \in \{0, 1\}&lt;/math&gt; e &lt;math&gt;\oplus&lt;/math&gt; e a adicao modulo 2.
+
+Entretanto da mesma maneira que a superposicao de estados permite a criacao do computador quantico e essa mesma propriedade que inviabiliza a criacao deles. A superposicao e muito sensivel a qualquer microruido eletromagnetico que pode alterar o estado do q-bit fazendo com que a informacao que ele continha seja perdida. Outro fato importante em questao e o superaquecimento das maquinas.
+
+== Pesquisa hoje ==
+Ainda nao existe hoje um computador inteiramente quantico funcionando. Porem, empresas como a canadense "D-Wave", entre outras tem feito promessas, que se forem cumpridas, anunciarao um novo horizonte para a realidade e o mercado de computadores domesticos, cientificos e corporativos.
+
+Muitos prototipos de computadores quanticos ja foram testados em laboratorios de todo o mundo, porem o seu desenvolvimento em larga escala ainda pode estar distante. E dependente de muitas pesquisas e investimentos.
+
+No Brasil ha diversos nucleos de pesquisas na area da computacao quantica. Ha um grupo no LNCC (Laboratorio Nacional de Computacao Cientifica) formado por orientandos de projetos de iniciacao cientifica, mestrado e doutorado. Alem de grupos pertencentes as instituicoes de ensino superiores, com destaque para universidades do Rio de Janeiro e da Paraiba.
+
+Os grupos do Brasil ligados a hardware quantico costumam desenvolver apenas pequenos prototipos, mas cooperam com os grandes pesquisadores estrangeiros da area.
+
+As dificuldades de se criar um computador quantico reside no fato de que os processos computacionais passam a ser no universo atomico, que carece de tecnologias de manipulacao ainda. Um dos principais problemas, por exemplo, e a alta taxa de erros causada pelo meio ambiente, devido a extrema sensibilidade da tecnologia.
+
+== Conclusoes ==
+Se analisada, a computacao quantica pode ser encarada como um processo natural de evolucao dos computadores, que a partir dos decada de 50, com o surgimento dos transistores, tem sua velocidade aumentada atraves da minituriarizacao de componentes. O limite fisico destes componentes e justamente o tamanho quantico. O problema e que na escala quantica os conhecimentos da fisica classica nao podem ser aplicados.
+
+Vale lembrar que para a maioria das aplicacoes convencionais os computadores atuais sao eficientes. Porem para aplicacoes que requerem um processamento intenso (por exemplo: inteligencia artificial, criptografia, busca em listas desordenadas, fatoracao de numeros grandes) o computador quantico e a opcao mais promissora. Segundo o fisico Ivan Oliveira, do Centro de Pesquisas Fisicas (CBPF), “Na teoria, computadores baseados em Qubits poderiam resolver problemas, que hoje levariam bilhoes de anos, em questao de minutos.”
+
+== Referencias ==
+* Livro "A revolucao dos Q-bits" - Ivan Oliveira
+* Livro "O que e computacao quantica?" - Galvao, Ernesto F.
+* Livro "Computacao Quantica e Informacao Quantica" - Nielsen, Michael A.; Chuang, Isaac L.
+* Texto "Computacao Quantica" - Algretti, F.J.P.
+* Texto "Computacao Quantica e Informacao Quantica" Oliveira, I.S. e Sarthour, R.S.
+* M.A. Nielsen and I.L. Chuang, Quantum Computation and Quantum Information (Cambridge Press, 2001).
+* D. Bouwmeester, A. Ekert and A. Zeilinger, The Physics of Quantum Information (Springer Verlag, 2001).
+* C.P. Williams and S.H. Clearwater, Explorations in Quantum Computing (Springer Verlag, 1998).
+* {{Link||2=http://qubit.lncc.br |3=}}
+* {{Link||2=http://www.tecmundo.com.br/computacao-quantica/2666-e-hora-de-descobrir-os-segredos-da-computacao-quantica.htm |3=}}
+* {{Link||2=http://www.guiadacarreira.com.br/artigos/ciencia/computador-quantico-ciencia-computacao/ |3=}}
+* {{Link||2=http://www.techtudo.com.br/artigos/noticia/2011/05/d-wave-one-o-primeiro-computador-quantico.html |3=}}
+* {{Link||2=http://cienciahoje.uol.com.br/instituto-ch/destaques/2012/07/nova-revolucao-quantica |3=}}
+* {{Link||2=http://idgnow.uol.com.br/ti-corporativa/2007/03/19/idgnoticia.2007-03-19.3013831963/ |3=}}
+
+[[Categoria:Computacao quantica| ]]
+{{Seminterwiki|data=junho de 2013}}</text>
+      <sha1>6fvlpxsi60vabgog4ngiexn701ic47w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

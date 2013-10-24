@@ -1,0 +1,220 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Engenharia elétrica</title>
+    <ns>0</ns>
+    <id>10679</id>
+    <revision>
+      <id>37161619</id>
+      <parentid>37161488</parentid>
+      <timestamp>2013-10-21T19:54:50Z</timestamp>
+      <contributor>
+        <username>Yanguas</username>
+        <id>71355</id>
+      </contributor>
+      <minor/>
+      <comment>Reversão de uma ou mais edições de [[Special:Contribs/Hugoxrosa|Hugoxrosa]] para a versão 36916945 de [[User:Mirelli Navarra|Mirelli Navarra]] (Especulativo e sem fontes), (com [[WP:RA|Reversão e avisos]]).</comment>
+      <text xml:space="preserve" bytes="19711">A '''engenharia elétrica''' é o ramo da [[engenharia]] que lida com o estudo e a aplicação da [[energia elétrica]] e do [[eletromagnetismo]].
+
+De observar que, em [[Portugal]], todos os engenheiros eletricistas recebem a designação genérica de "[[Engenharia Eletrotécnica|engenheiros eletrotécnicos]]", independentemente da sua especialização ser em [[eletrotécnica]] propriamente dita, em [[eletrônica]] ou em outro ramo da engenharia elétrica. 
+
+[[Ficheiro:Chip.jpg|right|164px|Eletrônica]]
+[[Ficheiro:Power Lines.jpg|right|164px|Eletrotécnica]]
+[[Ficheiro:Electrical Machinery 1917 - synchronous motor.jpg|right|164px|Motor Síncrono]]
+
+A engenharia elétrica dedica-se ao estudo e aplicações de: 
+* A geração de energia (usinas/fábricas geradoras [[Usina hidrelétrica|hidrelétricas]], [[Usina termoelétrica|termoelétricas]], [[Central nuclear|nucleares]]);
+* A transmissão ou o transporte de energia(linhas de transmissão de [[alta tensão]]) (AT) e extra alta tensão (EAT);
+* A distribuição e utilização de energia nas residências, nas indústrias (controle e automação, [[máquina|máquinas elétricas]], [[motores elétricos]]);
+* As telecomunicações (telefonia fixa e celular, rádio, televisão, internet);
+* A informática;
+* A eletrônica. 
+
+==Especializações==
+Ela divide-se nas seguintes áreas de especialização:
+
+* Sistemas de [[energia elétrica]] ou [[Sistemas elétricos de potência|sistemas de potência]] - estudos de geração, transmissão e distribuição de energia elétrica; planejamento, confiabilidade, estabilidade e proteção de sistemas elétricos e utilização de técnicas computacionais aplicadas a sistemas de potência;
+* Sistemas de [[eletrônica]]/[[eletrónica]] - desenvolvimento de circuitos eletrônicos para a aquisição de dados como temperatura, umidade, pressão entre outros e transmissão de dados por radiofrequência etc;
+* Sistemas de [[microeletrônica]]/[[microeletrónica]] - projeto, fabricação e testes de circuitos integrados - C.I. para sistemas de computação, telecomunicações, entretenimento entre outros;
+* Sistemas de [[eletrônica de potência]] - estudos de dispositivos eletrônicos de potência, acionamento de máquinas elétricas, controle de motores, simulação digital de máquinas e conversores e cargas elétricas especiais; 
+* Sistemas de [[telecomunicações]] - estudos de sistemas de áudio e vídeo, antenas e propagação de ondas eletromagnéticas, micro-ondas, telefonia analógica e digital, fibras ópticas, processamento analógico e digital de sinais, telecomunicações por satélite e redes de comunicações;
+* Sistemas de [[Computação]] - estudos de sistemas operacionais para computadores, projeto e programação de sistemas digitais, redes digitais, computação gráfica e [[CAD]], Ciência dos computadores e análise de sistemas computacionais; 
+* Sistemas de [[engenharia de controle e automação|controle e automação]] - estudos de controle de processos industriais por computador, controle óptico, sistemas inteligentes para automação industrial, robótica, inteligência artificial, controles adaptativos e não-lineares.
+* Sistemas [[Engenharia Biomédica|biomédicos]] - Especificar e gerenciar a utilização de equipamentos médico-assistenciais em hospitais, clínicas e laboratórios, além do projeto e construção desses mesmos tipos de aparelhos.
+
+==Matérias estudadas==
+[[Matemática]] e [[física]] são as matérias básicas. O aluno passa parte do tempo em laboratórios, especialmente para aprender, conhecer e interpretar fenômenos elétricos, especialmente o eletromagnetismo, assunto ao qual é dedicada parte significativa do curso. Além de matemática e física também estuda-se química, sociologia, comunicação e expressão (português), e outros. Algumas faculdades dão maior ênfase a [[eletrotécnica]] ("altas tensões e baixas frequências") ou [[eletrônica]] ("baixas tensões e altas frequências").
+
+==Engenharia eletrotécnica==
+{{AP|[[Engenharia eletrotécnica]]}}
+A ênfase em eletrotécnica estuda o [[Sistemas elétricos de potência|sistema de potência elétrica]]. O sistema de potência elétrica compreende a geração, transmissão, distribuição e utilização de [[energia elétrica]]; materiais e equipamentos elétricos, instalações elétricas prediais e industriais; acionamentos industriais; [[fontes alternativas de energia]]; máquinas elétricas; eficiência energética; sistemas de medição e controle. Além disso, geralmente a área de eletrotécnica abrange assuntos de outros ramos, como eletrônica analógica, digital e de potência.
+
+==Engenharia eletrônica==
+{{AP|[[Engenharia eletrônica]]}}
+A diferença entre os termos eletricidade e eletrônica está na natureza dos elementos. A eletricidade trabalha com elementos chamados passivos, os resistores, os indutores, os capacitores. Estes elementos também podem ser chamados de clássicos, pois, desde os primeiros estudos modernos sobre eletricidade estes elementos já eram conhecidos. 
+
+A engenharia eletrônica surgiu com a invenção da válvula. Porém, tomou impulso em 1947 com a chegada do [[transístor]], dando à eletrônica seu maior impulso. O transistor juntamente com o [[diodo]] são classificados como dispositivos de estado sólido. Posteriormente surgiram outros elementos eletrônicos como [[transistores de potência]], [[tiristores]] e [[TRIAC]]s.
+
+A eletrônica digital surgiu quando foi possível aplicar a teoria da lógica digital (que define apenas dois estados, certo/errado; falso/verdadeiro, 0/1, ligado/desligado, e está já existia há mais de 200 anos) em equipamentos compactos. Os primeiros computadores digitais eram mecânicos, o que os tornavam grandes e eram impraticáveis para desenvolvimento em larga escala. Os primeiros computadores à válvula diminuíram em tamanho, porém, continuaram grandes, caros e complicados. A eletrônica digital permitiu a miniaturização dos circuitos, a diminuição do consumo de energia elétrica e o aumento na velocidade do processamento das informações. 
+
+A grande vantagem da eletrônica é que ela permite equipamentos, máquinas, dispositivos que respondam mais rápido e com maior eficiência energética. 
+* eletrônica [[Circuito analógico|analógica]].
+* eletrônica [[digital]].
+* eletrônica de potência (também conhecida como electrônica industrial).
+* Máquinas e equipamentos eletrônicos.
+* Sistemas de medição e controle eletrônico.
+
+==Engenharia de computação==
+O ensino da engenharia elétrica passou por drásticas mudanças nas últimas décadas. Muitos departamentos são conhecidos, agora, como departamento de Engenharia Elétrica e Computação, enfatizando a rápida mudança promovida pelos computadores, que ocupam uma posição de destaque na sociedade e educação modernas. Eles se tornaram equipamentos comuns e estão ajudando a alterar os caminhos da pesquisa, desenvolvimento, da produção, de negócios e de entretenimento. O cientista, engenheiro, médico, professor - quase todos se beneficiam da capacidade dos computadores de armazenar grandes quantidades de informação e de processá-las em um curto espaço de tempo. A internet, rede de comunicação mundial por computador, é essencial aos negócios, educação e ciências.
+
+Três ciências estudam sistemas computacionais: [[ciências da computação]], [[sistemas de informação]] e [[engenharia de computação]]. A engenharia de computação cresceu tão vastamente que acabou se separando da engenharia elétrica, embora em algumas escolas de engenharia, ela ainda a integre.
+
+A engenharia de computação tem como objetivo o estudo e projeto de sistemas de computação, tanto nos aspectos de [[hardware]] como de [[software]]. Um sistema de computação é todo e qualquer dispositivo e eletrônico que responde a ação de um software, bem como suas interligações.
+
+O estudo da engenharia de computação tem, portanto, grande ênfase em [[microeletrônica]] e [[eletrônica digital]], [[microprocessadores]], [[arquitetura de computadores]], [[sistemas operacionais]], [[redes de computadores]], [[sistemas embarcados]], [[engenharia de software]] e [[processamento digital de sinais]].
+Embora sistemas de computação possam ser utilizados para controlar sistemas de potência ou máquinas elétricas, em geral, na engenharia de computação essas disciplinas não são estudadas.
+
+O [[computador]] é o sistema de computação mais conhecido. Mas o curso de engenharia de computação não tem como foco o desenvolvimento de computadores de uso pessoal e sim de sistemas de computação em geral. Embora seja o mais conhecido, o computador representa apenas 20% de todos os sistemas de computação do mundo, sendo os outros 80% conhecidos como "Sistemas Embarcados" por serem sistemas de computação que fazem parte de um sistema maior, como: computador de bordo de aeronaves e navios e sistemas de monitoramento e controle de usinas e plantas industriais. Grande parte dos eletro-eletrônicos de hoje são sistemas de computação, pois possuem microprocessadores, firmware e software avançados: TVs, celulares, microondas, geladeiras, etc.
+
+Em Portugal, o curso é conhecido como engenharia eletrotécnica e de computadores. No Brasil o curso é conhecido como engenharia de computação. Não deve-se confundir com engenharia informática, que é o nome normalmente dado em Portugal e países de língua espanhola para os cursos de ciência da computação.
+
+Áreas de atuação:
+* Industria de manufatura de eletrônicos
+* Empresas de software
+* Empresas de telecomunicações
+
+Especialidades:
+* [[VLSI]] e manufatura de circuitos integrados.
+* [[Sistemas embarcados]]
+* [[FPGA]]
+* [[Redes de computadores]]
+* [[Arquitetura de computadores]]
+
+Engenharia de computação vs engenharia eletrônica:
+São duas especialidades da engenharia elétrica. A grande diferença é que a engenharia de computação não estuda eletrônica de potência (industrial) e nem máquinas elétricas, tendo um aprofundamento maior em arquitetura de computadores, microprocessadores, redes de computadores e desenvolvimento de software.
+
+Engenharia de computação vs ciência da computação
+A engenharia de computação é um curso mais longo e com carga horária em matérias básicas maior, principalmente em física e eletromagnetismo. Na ciência da computação não é comum o estudo de circuitos elétricos, eletrônica ou sistemas de controle, por exemplo. Por outro lado a ciência da computação estuda mais profundamente o ciclo de desenvolvimento de softwares, algoritmos, teoria da computação e banco de dados.
+
+==Controle e automação==
+A [[engenharia de controle e automação]] tem como objetivo desenvolver controladores que melhorem o desempenho de sistemas dinâmicos, tais como máquinas, processos, produtos, serviços para trabalharem de maneira auto-regulada e ou auto-gerenciada. 
+
+Para alcançar este objetivo é necessário realizar o projeto de automação. Primeiro identificando o sistema que se deseja automatizar ou controlar, modelar matematicamente este sistema. Segundo lugar construir o controlador deste sistema, definindo as ações de controle, os sensores, os atuadores. Este controlador poderá ser mecânico, [[eletro-eletrônico]], [[software]] ou [[electro-pneumático]]. Neste passo além de construir o controlador é necessário definir os sensores e os atuadores do sistema. Por fim ajustar e calibrar o sistema, definir os parâmetros de operação e  manutenção.
+
+É dada ênfase a alguns conhecimentos de engenharia elétrica, mecânica e computação para aplicação em controle de processos industriais, manufatura, controle de servomecanismo (robôs e manipuladores), automação de serviços (predial, bancário, hospitalar), controle embarcado (metrô, aviões, foguetes) e outros.
+
+Os tipos de controle são: controle clássico, controle adaptativo, controle robusto, controle ótimo, controle [[Lógica difusa|fuzzy]], rede neural e controle preditivo.
+
+==Telecomunicação==
+Na habilitação em telecomunicação o engenheiro deve projetar sistemas que, interligados, transmitem informação para diversos pontos. As informações podem ser áudio (voz), imagem (vídeo) ou dados. Os meios em que serão transmitidas são os mais variados: pelo ar (por ondas eletromagnéticas via radiofrequência ou micro-ondas), via cabos metálicos, fibra óptica (sinais luminosos) e até através de linhas de energia elétrica.
+
+Telecomunicação é a transmissão, emissão ou recepção, por fio, radioelectricidade, meios ópticos ou qualquer outro processo eletromagnético, de símbolos, caracteres, sinais, escritos, imagens, sons ou informações de qualquer natureza.
+
+Estação de telecomunicações é o conjunto de equipamentos ou aparelhos, dispositivos e demais meios necessários à realização de telecomunicação, seus acessórios e periféricos, e, quando for o caso, as instalações que os abrigam e complementam, inclusive terminais portáteis.
+
+==O profissional==
+O engenheiro eletricista é o profissional dedicado ao desenvolvimento e à aplicação de um conjunto de conhecimentos científicos necessários à pesquisa, ao projeto e à implementação de sistemas diversos utilizados para efetuar o processamento da energia elétrica e da informação na forma de sinais elétricos digitais e analógicos. Nesta prática, são considerados os aspectos de qualidade, confiabilidade, custo e segurança, bem como os de natureza ecológica e ética profissional.
+
+O campo de trabalho é vasto e inclui empresas de energia elétrica e telecomunicações, escritórios de projetos e consultoria, firmas de montagem e manutenção de instalações elétricas e de telecomunicações, indústrias diversas e empresas comerciais de pequeno e grande porte, manutenção de equipamentos e componentes eletro-eletrônicos, hospitais, empresas de [[radiodifusão]], informática etc. 
+
+As perspectivas quanto ao progresso do curso são boas e tendem a uma melhoria das oportunidades de trabalho, dada a grande demanda por serviços nessas áreas e aos grandes investimentos, públicos e privados, que serão feitos nos próximos anos, no campo da Engenharia Elétrica.
+
+===Regulamentação da profissão no Brasil===
+No [[Brasil]] é considerado engenheiro eletricista quem for formado em engenharia elétrica, porém para poder exercer a profissão é necessário registro no sistema do [[Conselho regional de Engenharia, Arquitetura e Agronomia|CREA]] (Conselho Regional de Engenharia, Arquitetura e Agronomia) do estado onde atua.&lt;ref name="CreaMG"&gt;{{citar web|url=http://www.crea-mg.org.br/Paginas/Dicas/Exercicio-Ilegal.aspx|titulo=Exercício ilegal |publicado=CREA-MG|acessodata=18/11/2011}}&lt;/ref&gt;
+
+No artigo 55 da lei nº 5.194 de 1966, é definido como infração o engenheiro que exerça atividade profissional sem registro no [[Conselho regional de Engenharia, Arquitetura e Agronomia|CREA]] do estado em que atua, com penalidade prevista na alínea “b” do artigo 73 da mesma lei.&lt;ref name="Lei5194"&gt;{{citar web|url=http://www.planalto.gov.br/CCIVIL/Leis/L5194.htm|titulo=Lei 5.194 de 1966 |publicado=Presidência da República - Casa Civil - Subchefia para Assuntos Jurídicos |acessodata=07/08/2009}}&lt;/ref&gt;
+
+;Dia do Engenheiro Eletricista no Brasil
+Comemora-se no [[Brasil]] em 23 de novembro o [[Dia do Engenheiro Eletricista]], data em que, no ano de 1913, foi fundado o [[Universidade Federal de Itajubá|Instituto Eletrotécnico de Itajubá]]. Várias outras boas escolas de engenharia elétrica foram criadas posteriormente, a maioria das vezes utilizando-se do conhecimento, do exemplo e até dos recursos humanos formados na Escola de Itajubá. Decretado pela Lei Nº 12.074, de 29 de Outubro de 2009. &lt;ref name="Lei12074"&gt;{{citar web|url=http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12074.htm|titulo=Lei 12.074 de 29 de Outubro de 2009 |publicado=Presidência da República - Casa Civil - Subchefia para Assuntos Jurídicos |acessodata=27/08/2010}}&lt;/ref&gt;
+
+;Piso Salarial
+A lei n.º 4950-A/66 fixa o piso salarial do profissional de engenharia, estabelecendo valor do menor salário devido ao profissional. &lt;ref name="Lei4950"&gt;{{citar web|url=http://www.planalto.gov.br/ccivil_03/Leis/L4950a.htm|titulo=Lei 4.950 de 1966 |publicado=Presidência da República - Casa Civil - Subchefia para Assuntos Jurídicos |acessodata=04/07/2010}}&lt;/ref&gt;
+
+Ao longo dos anos muito se discutiu se a legislação foi criada para estabelecer piso salarial ou jornada de trabalho. No entanto, a polêmica foi pacificada com a publicação da Súmula 370 do Colendo Superior do Trabalho, cujo entendimento é que a lei nº 4.950-A/66 foi criada para fixar o piso salarial e não jornada de trabalho.
+
+Logo, o salário mínimo profissional equivale a 8,5 [[Salário mínimo | salários mínimos]] para uma [[jornada de trabalho]] de 8 horas.
+
+Ainda hoje, muitos engenheiros sujeitam-se ou são coagidos a aceitar salários menores que o piso mínimo. Esta situação é totalmente ilegal e pode ser alvo de uma denúncia anônima ao [[Conselho Federal de Engenharia, Arquitetura e Agronomia | CREA]], ou mesmo uma ação judicial para que o piso salarial seja atendido. Existem também muitas empresas que não contratam os engenheiros, mas sim os obrigam a abrir empresas de prestação de serviços de engenharia, terceirizando a atividade e os encargos sociais. Isso retira do engenheiro muitos direitos, os quais teria garantido se fosse contratado pela [[Consolidação das Leis do Trabalho | CLT]]. {{carece de fontes}}
+
+É um dever de todo engenheiro valorizar o trabalho da categoria e buscar os direitos garantidos por lei.{{carece de fontes}}
+
+===Regulamentação da profissão em Portugal===
+Em Portugal, pode exercer a profissão de engenheiro eletrotécnico, um diplomado num curso de [[licenciatura|licenciatura pré-Bolonha]] ou de [[mestrado]] em engenharia eletrotécnica, eletrónica, de telecomunicações, de computadores ou similar, acreditado pela [[Ordem dos Engenheiros]].&lt;ref name="OE"&gt;{{citar web|url=http://www.ordemengenheiros.pt/Default.aspx?tabid=2843|titulo=Admissão à Ordem|publicado=Ordem dos Engenheiros}}&lt;/ref&gt;
+ 
+Os diplomados em cursos de [[bacharelato]] ou de [[licenciatura|licenciatura pós-Bolonha]] em ciências de engenharia ou engenharia elétrica, conforme a especialidade do curso, podem ser exercer a profissão de [[engenheiro técnico]] de eletrónica e de telecomunicações ou de engenheiro técnico de energia e sistemas de potência, desde que estejam inscritos na [[Associação Nacional dos Engenheiros Técnicos]]. &lt;ref name="ANET"&gt;{{citar web|url=http://www.anet.pt/site/index.php?option=com_content&amp;task=view&amp;id=45&amp;Itemid=59|titulo=Como ser membro da ANET|publicado=Associação Nacional dos Engenheiros Técnicos}}&lt;/ref&gt;
+
+{{Referências|col=2}}
+
+=={{Veja também}}==
+{{Predefinição:Portal de engenharia}}
+{{Correlatos
+|commons         = 
+|commonscat      = Electrical engineering
+|wikisource      = 
+|wikiquote       = Engenharia elétrica
+|wikiquotecat    = 
+|wikilivros      = 
+|wikinoticias    = 
+|wikinoticiascat = Engenharia elétrica
+|wikcionario     = Engenharia elétrica
+|wikispecies     = 
+|wikiversidade   = Portal:Engenharia
+|meta            = 
+}}
+* [[Engenharia]]
+* [[Engenharia de base]]
+* [[Engenharia de Computação]]
+* [[Engenharia de controle e automação]]
+* [[Engenharia de telecomunicações]]
+* [[Sistemas elétricos de potência]]
+
+== Ligações externas ==
+{{engenharia}}
+
+{{Bom interwiki|bn}}
+
+[[Categoria:Engenharia elétrica| ]]
+
+{{Link FA|en}}
+{{Link FA|sh}}</text>
+      <sha1>toh5xyzw95i88w6ntvay0c5zxbfrlll</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,191 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimedia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussao</namespace>
+      <namespace key="2" case="first-letter">Usuario(a)</namespace>
+      <namespace key="3" case="first-letter">Usuario(a) Discussao</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Discussao</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussao</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussao</namespace>
+      <namespace key="10" case="first-letter">Predefinicao</namespace>
+      <namespace key="11" case="first-letter">Predefinicao Discussao</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussao</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussao</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussao</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussao</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussao</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussao</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo Discussao</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Motor de combustao interna</title>
+    <ns>0</ns>
+    <id>26813</id>
+    <revision>
+      <id>37085846</id>
+      <parentid>36766968</parentid>
+      <timestamp>2013-10-10T17:16:16Z</timestamp>
+      <contributor>
+        <username>Jorgemaks</username>
+        <id>1008360</id>
+      </contributor>
+      <text xml:space="preserve" bytes="12930">{{sem-fontes|data=junho de 2010}}
+[[Ficheiro:Colorized car engine.jpg|thumb|right|300px|Motor de [[automovel]], de oito [[pistao|pistoes]]]]
+
+'''Motor de combustao interna''' e uma [[maquina termica]], que transforma a [[energia]] proveniente de uma reacao [[quimica]] em [[energia mecanica]]. O processo de conversao se da atraves de [[ciclo termosexanicos|ciclos termosexanicos]] que envolvem [[expansao]], [[compressao]] e mudanca de [[temperatura]] de [[Gas|gases]].
+
+Sao considerados '''motores de combustao interna''' aqueles que utilizam os proprios gases de combustao como [[fluido]] de [[trabalho]]. Ou seja, sao estes gases que realizam os processos de [[compressao]], aumento de temperatura (queima), [[expansao]] e finalmente [[Gas de exaustao|exaustao]].
+
+Assim, este tipo de motor distingui-se dos ciclos de combustao externa, nos quais os processos de [[combustao]] ocorrem externamente ao motor. Neste caso, os gases de combustao transferem calor a um segundo [[fluido]] que opera como fluido de trabalho, como ocorre nos [[ciclo Rankine|ciclos Rankine]]. 
+
+Motores de combustao interna tambem sao [[popular]]mente chamados de motores a explosao. Esta denominacao, apesar de frequente, nao e tecnicamente correta. De fato, o que ocorre no interior das [[camara de combustao|camaras de combustao]] nao e uma [[explosao]] de gases. O que impulsiona os pistoes e o aumento da pressao interna da camara, decorrente da [[combustao]] (queima controlada com frente de chama). O que pode-se chamar de [[explosao]] (queima descontrolada sem frente de chama definida) e uma [[detonacao]] dos gases, que deve ser evitada nos motores de combustao interna, a fim de proporcionar maior durabilidade dos mesmos e menores taxas de emissoes de [[poluicao atmosferica|poluentes atmosfericos]] provenientes da [[dissociacao]] de [[pinogenio nitrogenio]]. 
+
+== Ciclos termosexanicos ==
+
+=== Ciclo motor de Otto ===
+
+{{AP|[[Ciclo Otto]]}}
+O motor baseado no ciclo ideal Otto caracteriza-se por ter sua [[ignicao]] por [[faisca]].
+Este tipo e o mais comumente utilizados em [[automoveis]] de passeio e [[motocicleta]]s. Existem processos alternativos em motores experimentais para iniciar a queima como [[microonda]]s ou uma injecao piloto.
+
+=== Ciclo motor de Diesel ===
+
+{{AP|[[Ciclo Diesel]]}}
+[[Ficheiro:Diesel Engine (4 cycle running).gif|thumb|100px|right|'''[[Motor diesel]]''']]
+Os motores Diesel caracterizam-se pela [[ignicao]] por [[Compressao fisica|compressao]]. O fluido de trabalho (normalmente ar) e comprimido sem ser misturado ao combustivel e quando o combustivel e injetado no fluido comprimido e quente esse se inflama.
+As maquinas que impulsionam veiculos pesados como [[caminhao|caminhoes]], [[trem|trens]] e [[navio]]s, usualmente sao baseadas no [[ciclo diesel|ciclo ideal de Diesel]], o que nao se refere ao [[combustivel]] utilizado e sim ao [[ciclo termodinamico]] em que operam.
+
+=== Ciclo Brayton ===
+
+{{AP|[[Ciclo Brayton]]}}
+O ciclo Brayton e utilizado como modelo ideal para [[turbina a gas|turbinas a gas]]. Este caso se diferencia dos anteriores pelo fato de operar em [[regime permanente]]. Isto e conseqüencia do fato de os processos de [[Compressao fisica|compressao]], [[transferencia de calor]], [[expansao]] e exaustao ocorrem ao mesmo [[tempo]], mas, em locais diferentes. Assim, este tipo de motor distingue-se dos motores alternativos, onde os processos ocorrem em uma unica camara, mas, em [[tempo]]s diferentes.
+
+== Construcao ==
+
+Os mecanismos dos motores ditam os processos pelos quais passam os fluidos, determinando as caracteristicas dos ciclos. Mas, mesmo operando em ciclos temodinamicos semelhantes, motores de combustao interna podem ter mecanismos e formas construtivas extremamente diversas.
+
+=== Motor alternativo ===
+  
+Maquinas alternativas possuem elementos que realizam movimentos repetitivos de [[translacao]]. Nestes motores, o principais destes elementos sao os [[Pistao do motor|pistoes]], cujo movimento altera o [[volume]] das camaras de combustao, ora comprimindo os gases, ora sendo movimentado pelos gases.
+
+Motores alternativos dividem-se pelo numero de tempos em que completa uma sequencia de processos. Neste caso, '''tempo''' e o percurso de um pistao, do [[ponto morto inferior]] ao [[ponto morto superior]], o que equivale a meia volta da [[cambota|arvore de manivelas]].
+
+==== Motor dois tempos ====
+
+{{AP|[[Motor a dois tempos]]}}
+[[Ficheiro:Arbeitsweise Zweitakt.gif|thumb|450px|right|&lt;center&gt;'''Motor a dois tempos'''&lt;center&gt;]]
+Num motor a dois tempos, um ciclo termodinamico se completa a cada volta do [[cambota|eixo]], compreendendo as etapas de admissao, [[compressao]], [[transferencia de calor]] e exaustao. Esta caracteristica permite que o proprio pistao atue tambem como valvula, abrindo e fechando as janelas (aberturas) na parede da [[camara de combustao]]. Esta opcao simplifica a maquina, tambem dispensando [[arvore de cames|comando de valvula]] e e muito utilizada em motores de pequeno porte. 
+
+Mas, para motores de grande porte, isto nao e uma alternativa adequada por reduzir o curso para compressao e permitir a comunicacao direta entre a admissao de combustivel e os dutos de exaustao. Os maiores motores de [[propulsao naval]], a [[motor diesel|Diesel]], operam em [[motor a dois tempos|dois tempos]], mas, com o emprego de apenas uma janela e uma valvula no [[cabecote]].
+
+==== Motor quatro tempos ====
+{{AP|[[motor quatro tempos]]}}
+[[Ficheiro:4-Stroke-Engine.gif|thumb|right|Motor de ignicao por faisca de '''quatro tempos'''.]]
+Ja nos motores de quatro tempos, os gases completam um ciclo termodinamico a cada duas voltas do eixo. Neste caso, para um pistao, ocorre admissao e compressao numa volta e [[transferencia de calor]] na consecutiva.
+
+Esta alternancia requer necessariamente o emprego de um (ou mais) [[arvore de cames|comando de valvulas]], engrenado a [[cambota|arvore de manivelas]] de tal forma que tenha metade da velocidade de rotacao da mesma, permitindo que o ciclo de abertura de valvulas dure os '''quatro tempos'''.
+
+==== Elementos ====
+
+O motor pode ser dividido em partes fixas e moveis. Partes fixas sao as partes que nao entram em movimento, quando o motor entra em funcionamento, em relacao aos outros componetes do motor, por exemplo: bloco, carter e cabecote. Partes moveis sao caracterizadas pelas partes que se movimentam quando o motor entra em funcionamento, tais como, [[cambota|arvore de manivelas]], [[Pistao do motor|pistao]], [[biela]] e [[arvore de cames|comando de valvulas]].
+
+=== Motor rotativo ===
+
+Um motor rotativo e um motor de combustao interna que nao utiliza pistoes como um motor convencional, mas pode fazer uso de [[rotor]]es, as vezes chamados de ''pistoes rotativos.'' 
+
+==== Turbina a gas ====
+
+{{AP|[[Turbina a gas]]}}
+[[Ficheiro:Turbine gaz animee.gif|thumb|200px|right|&lt;center&gt;'''Turbina a gas'''&lt;center&gt;]]
+As turbinas a gas sao maquinas puramente rotativas, existem em diversas formas construtivas, sempre contendo tres sistemas basicos: [[compressor]], [[camara de combustao]] e [[turbina]] propriamente dita. As caracteristicas  de cada projeto sao funcoes do meio de transmissao de potencia (por eixo ou jato de gases), dos [[Combustivel|combustiveis]] utilizados, do porte, das temperaturas de trabalho entre outras variaveis.
+
+Em relacao as demais maquinas as turbinas tem caracteristica de ter a maior densidade de potencia, ou seja capacidade por peso. Devido a isso, sao frequentemente empregadas em [[aeronave]]s. 
+
+==== Motor Wankel ====
+
+{{AP|[[Motor Wankel]]}}
+
+O motor Wankel e uma variacao de motor de combustao interna que combina caracteristicas de turbinas a gas as de motores a pistao. Apesar de operar com velas de ignicao ao inves de combustao continua como uma turbina, nao ha pecas alternativas. O ciclo termodinamico neste caso. 
+
+Motores do tipo Wankel oferecem, em relacao aos motores a pistao, as vantagens de produzir menos vibracoes, ja que sao puramente rotativos. Possuem maior densidade de potencia, ou seja,  mais potencia do que um motor a pistao de mesma [[cilindrada]] e demandam menos pecas em sua construcao. Como desvantagem, eles aquecem mais, geram mais gases poluentes, tem manutencao dos elementos de vedacao e sao de [[manufatura]] mais complexa do que um motor a pistao.
+
+==== Quasiturbine ====
+
+{{AP|[[Quasiturbine]]}}
+
+Em [[1996]], foi [[patente]]ado o motor Quasiturbine, uma variacao do motor Wankel. Recebeu este nome pelo fato de seu funcionamento continuo ser ''quase'' igual ao de uma turbina.
+
+{|align="center"
+|[[Ficheiro:Wankel Cycle anim.gif|thumb|154px|&lt;center&gt;'''Motor Wankel'''&lt;center&gt;]]
+|[[Ficheiro:Qt-Flash-Final.gif|thumb|200px|&lt;center&gt;'''Quasiturbine'''&lt;center&gt;]]
+|}
+
+== Combustiveis ==
+
+{{revisao}}
+Principais caracteristicas:&lt;br /&gt;
+*Indice de cetano ou Numero de Cetano (N.C.) (erradamente referido como Numero de Cetanas - o combustivel nao tem "cetanas") - para ciclo diesel
+Este numero revela a facilidade de auto-ignicao de um combustivel. Quanto maior e o Numero de Cetano, mais facil sua ignicao. &lt;br /&gt;&lt;br /&gt;
+* Indice de octano ou Numero de Octano (N.O.) ou [[Octanagem]] (erradamente referido como Numero de Octanas - o combustivel nao tem "octanas") - para ciclo otto
+Varia inversamente ao indice de cetano. Quanto  maior o N.C., menor sera o N.O. . Este numero diz a respeito a qualidade do combustivel em relacao a sua resistencia sobre a auto-ignicao. Os motores do ciclo Otto, por exemplo, necessitam ter uma elevada temperatura de auto-ignicao para nao haver um aumento muito brusco de pressao, ocorrendo as famosas "batidas de pino" (detonacao explicada anteriormente). O N.O. pode ser aumentado pela adicao de aditivos antidetonantes ou pela mistura de combustiveis com N.O. maiores.&lt;br /&gt;&lt;br /&gt;
+* [[Poder Calorifico]]
+Este numero fornece a quantidade de energia que uma certa quantidade de combustivel pode produzir. Quanto maior este numero, melhor o combustivel (juntamente com relacao ar-combustivel).&lt;br /&gt;&lt;br /&gt;
+* Facilidadade de Auto-Ignicao (veja Cetanas)
+Quanto maior a cadeia carbonica, menor e a temperatura de auto-ignicao.&lt;br /&gt;&lt;br /&gt;
+* [[Viscosidade]]
+Tem grande importancia no jato de combustivel injetado na camara. Caso o combustivel seja muito viscoso, a atomizacao do combustivel sera prejudicada, assim, num motor frio a partida sera afetada. Caso contrario, uma baixa viscosidade dificulta a lubrificacao do sistema injetor, aumentando o desgaste do mesmo.&lt;br /&gt;
+* Relacao ar-combustivel ou combustivel-ar estequiometrica
+Mede a proporcao de ar que deve ser utilizada para queimar (teoricamente) todo o combustivel (em massa). Juntamente com o (i.e. multiplicado pelo) poder calorifico e uma medida de quanta energia pode ser colocada no cilindro a cada ciclo.&lt;br /&gt;&lt;br /&gt;
+* Residuo de Carbono
+* Teor de Cinzas
+* Agua e Sedimentos
+
+Devido a constante evolucao dos [[motor]]es e da [[eletronica embarcada]] no automovel os [[engenheiro]]s estao conseguindo criar motores muito mais potentes e economicos com mesma cilindrada. Um meio de conseguir esta melhora e aumentar a [[taxa de compressao]] do motor, mas com isso surge um inconveniente em ciclo otto, a detonacao. Ela ocorre quando um resto de combustivel no final da combustao tem sua temperatura e pressao elevados a ponto de se auto-ignitar. Essa queima nao controlada do combustivel gera um ruido caracteristico (conhecido como batida de pino apesar de nenhum pino bater, o ruido e proveniente da ressonancia da camara de combustao transmitida ao bloco) e eventualmente dano mecanico, principalmente em pistao, aneis, vela e valvulas. Para melhorar o rendimento do veiculo pode-se utilizar [[gasolina]] de alta [[octanagem]], que ajuda a evitar esse fenomeno. Ja a pre-ignicao ocorre quando o combustivel comeca a queima antes da faisca da [[vela de ignicao]], devido a algum ponto com alta temperatura na camara de combustao e tambem e influenciado (um pouco) pela taxa de compressao.
+
+== {{Ver tambem}} ==
+
+* [[Bicombustivel]]
+* [[Motor a alcool pre vaporizado]]
+* [[Motor Stirling]] (motor de combustao externa)
+* [[Veiculo flex]]
+* [[Wärstsilä-Sulzer RT-flex96C]], o maior motor de combustao interna do mundo.
+* [[ Equilibrio de motores de combustao interna]]
+
+== {{Ligacoes externas}} ==
+* [http://carros.hsw.uol.com.br/motores-de-carros.htm Como tudo funciona - Como funcionam os motores de carros]
+
+{{Commonscat|Internal combustion engine}}
+{{commons|Engine}}
+
+{{Predefinicao:Partes do motor}}&lt;br /&gt;
+{{ciclo termodinamico}}
+
+[[Categoria:Mecanica]]
+[[Categoria:Engenharia mecanica]]
+
+{{Link FA|mk}}
+{{Link FA|af}}</text>
+      <sha1>pxkefhucly8rjg953op4tzhbpyefjgt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

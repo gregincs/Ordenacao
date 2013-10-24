@@ -1,0 +1,352 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Matemática</title>
+    <ns>0</ns>
+    <id>1210</id>
+    <revision>
+      <id>37168590</id>
+      <parentid>37168409</parentid>
+      <timestamp>2013-10-22T20:38:31Z</timestamp>
+      <contributor>
+        <username>Antero de Quintal</username>
+        <id>857375</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:REV|Revertidas]] edições por [[Especial:Contribuições/93.102.52.120|93.102.52.120]] para a última versão por [[Especial:Contribuições/Salebot|Salebot]], de 20h12min de 21 de outubro de 2013 (UTC)</comment>
+      <text xml:space="preserve" bytes="35829">{{mais notas|ciência=sim|data=fevereiro de 2012}}
+{{Matemática}}
+A '''matemática''' (do [[Língua grega|grego]] ''[[wikt:μάθημα|μάθημα]]'', [[Transliteração|transl.]] ''máthēma'', "[[ciência]]"/"[[conhecimento]]"/"[[aprendizagem]]"; e ''[[wikt:μαθηματικός|μαθηματικός]]'', transl. ''mathēmatikós'', "apreciador do conhecimento") é a ciência do [[raciocínio lógico]] e [[Abstração|abstrato]]. A matemática estuda quantidades, medidas, espaços, estruturas e variações. Um trabalho matemático consiste em procurar por padrões, formular conjecturas e, por meio de deduções rigorosas a partir de axiomas e definições, estabelecer novos resultados.
+
+A matemática vem sendo construída ao longo de muitos anos. Resultados e teorias milenares se mantêm válidos e úteis e ainda assim a matemática continua a desenvolver-se permanentemente.
+
+Registros arqueológicos mostram que a matemática sempre foi parte da atividade humana. Ela evoluiu a partir de contagens, medições, cálculos e do estudo sistemático de formas geométricas e movimentos de objetos físicos. Raciocínios mais abstratos que envolvem argumentação lógica surgiram com os matemáticos gregos aproximadamente em 300 a.C., notadamente com a obra ''[[Os Elementos]]'' de [[Euclides]]. A necessidade de maior rigor foi percebida e estabelecida por volta do século XIX.
+
+A matemática se desenvolveu principalmente na [[Mesopotâmia]], no [[Egito]], na [[Grécia]], na [[Índia]], no [[Oriente Médio]]. A partir da [[Renascença]] o desenvolvimento da matemática intensificou-se na [[Europa]], quando novas descobertas científicas levaram a um crescimento acelerado que dura até os dias de hoje.
+
+Há muito tempo busca-se um consenso quanto à [[definição]] do que é a matemática. No entanto, nas últimas décadas do [[século XX]] tomou forma uma definição que tem ampla aceitação entre os [[matemáticos]]: ''matemática é a ciência das regularidades'' ([[padrões]]). Segundo esta definição, o trabalho do matemático consiste em examinar padrões abstratos, tanto reais como imaginários, visuais ou mentais. Ou seja, os matemáticos procuram regularidades nos [[número]]s, no espaço, na ciência e na imaginação e formulam teorias com as quais tentam explicar as relações observadas. Uma outra ''definição'' seria que matemática é a investigação de estruturas abstratas definidas [[axioma]]ticamente, usando a [[lógica formal]] como [[estrutura]] comum. As estruturas específicas geralmente têm sua origem nas [[Ciência natural|ciências naturais]], mais comumente na [[física]], mas os matemáticos também definem e investigam estruturas por razões puramente internas à matemática ([[matemática pura]]), por exemplo, ao perceberem que as estruturas fornecem uma generalização unificante de vários subcampos ou uma ferramenta útil em cálculos comuns.
+
+A matemática é usada como uma ferramenta essencial em muitas áreas do conhecimento, tais como engenharia, medicina, física, química, biologia, e ciências sociais. [[Matemática aplicada]], ramo da matemática que se ocupa de aplicações do conhecimento matemático em outras áreas do conhecimento, às vezes leva ao desenvolvimento de um novo ramo, como aconteceu com [[Estatística]] ou [[teoria dos jogos]]. O estudo de matemática pura, ou seja, da matemática pela matemática, sem a preocupação com sua aplicabilidade, muitas vezes mostrou-se útil anos ou séculos adiante, como aconteceu com os estudos das [[cônica]]s ou de [[teoria dos números]] feitos pelos gregos, úteis, respectivamente, em descobertas sobre astronomia feitas por [[Kepler]] no século XVII, ou para o desenvolvimento de segurança em computadores nos dias de hoje.
+
+== História ==
+{{Artigo principal|[[História da matemática]]}}
+[[Imagem:Egyptian A'h-mosè or Rhind Papyrus (1065x1330).png|thumb|esquerda|150px|[[Papiro de Rhind]] do [[Antigo Egipto]], cerca de 1.650 a.C.]]
+Além de reconhecer quantidades de objetos, o homem pré-histórico aprendeu a contar quantidades abstratas como o tempo: dias, estações, anos. &lt;!-- colocar referência em português --&gt; A aritmética elementar (adição, subtração, multiplicação e divisão) também foi conquistada naturalmente. Acredita-se que esse conhecimento é anterior à [[escrita]] e, por isso, não há registros históricos.
+
+O primeiro objeto conhecido que atesta a habilidade de cálculo é o [[osso de Ishango]], uma [[fíbula]] de [[babuíno]] com riscos que indicam uma [[contagem]], que data de 20 000 anos atrás.&lt;ref&gt;{{citar web|url=http://www.math.buffalo.edu/mad/Ancient-Africa/ishango.html|título=An Old Mathematical Object|publicado=The Mathematics Department of The State University of New York at Buffalo|lingua=inglês|acessodata=21 de dezembro de 2008}}&lt;/ref&gt;
+
+Muitos sistemas de numeração existiram. O [[Papiro de Rhind]] é um documento que resistiu ao tempo e mostra os numerais ''escritos'' no [[Antigo Egito]].
+
+O [[Cronologia da história da matemática|desenvolvimento da matemática]] permeou as primeiras civilizações, e tornou possível o desenvolvimento de aplicações concretas: o [[comércio]], o manejo de plantações, a [[medição]] de terra, a previsão de eventos astronômicos, e por vezes, a realização de rituais religiosos.
+
+A matemática começou a ser desenvolvida motivada pelo comércio, medições de terras para a agricultura, registro do tempo, astronomia. A partir de 3000 a.C., quando Babilônios e Egípcios começaram a usar aritmética e geometria em construções, astronomia e alguns cálculos financeiros, a matemática começou a se tornar um pouco mais sofisticada. &lt;!-- acrescentar referência --&gt;
+O estudo de estruturas matemáticas começou com a aritmética dos [[números naturais]], seguiu com a extração de raízes quadradas e cúbicas, resolução de algumas [[equação polinomial|equações polinomiais]] de grau 2, [[trigonometria]], [[frações]], entre outros tópicos.
+[[Imagem:Euclid Pisano OPA Florence.jpg|thumb|150px|Euclides: painel em mármore, ''Museu dell'Opera del Duomo''.]]
+
+Tais desenvolvimentos são creditados às civilizações acadiana, babilônica, egípcia, chinesa, ou ainda, àquelas do vale dos hindus. Por volta de 600 a.C., na [[civilização]] grega, a matemática, influenciada por trabalhos anteriores e pela [[filosofia]], tornou-se mais abstrata. Dois ramos se distinguiram: a [[aritmética]] e a [[geometria]]. Formalizaram-se as generalizações, por meio de definições axiomáticas dos objetos de estudo, e as demonstrações. A obra ''[[Os Elementos]] de Euclides'' é um registro importante do conhecimento matemático na Grécia do século III a.C.
+
+A civilização muçulmana permitiu que a herança grega fosse conservada, e propiciou seu confronto com as descobertas chinesas e hindus, notadamente na questão da representação numérica {{Carece de fontes|ciência=sim|data=Dezembro de 2008}}. Os trabalhos matemáticos desenvolveram-se consideravelmente tanto na trigonometria, com a introdução das funções trigonométricas, quanto na aritmética. Desenvolveu-se ainda a [[combinatória|análise combinatória]], a [[análise numérica]] e a [[polinômio|álgebra de polinômios]].
+
+Na época do Renascentismo, uma parte dos textos árabes foi estudada e traduzida para o [[latim]]. A pesquisa matemática se concentrou então na [[Europa]]. O cálculo algébrico desenvolveu-se rapidamente com os trabalhos dos franceses [[François Viète]] e [[René Descartes]]. Nessa época também foram criadas as tabelas de [[logaritmos]], que foram extremamente importantes para o avanço científico dos séculos XVI a XX, sendo substituídas apenas após a criação de computadores. A percepção de que os números reais não são suficientes para resolução de certas equações também data do século XVI. Já nessa época começou o desenvolvimento dos chamados [[números complexos]], apenas com uma definição e quatro operações. Uma compreensão mais profunda dos números complexos só foi conquistada no século XVIII com [[Euler]].
+
+No início do século XVII, [[Isaac Newton]] e [[Gottfried Wilhelm Leibniz]] descobriram a noção de [[cálculo infinitesimal]] e introduziram a noção de ''fluxor'' (vocábulo abandonado posteriormente). Ao longo dos séculos XVIII e XIX, a matemática se desenvolveu fortemente com a introdução de novas estruturas abstratas, notadamente os [[Grupo (matemática)|grupos]] (graças aos trabalhos de [[Évariste Galois]]) sobre a resolubilidade de equações polinomiais, e os [[Anel (matemática)|anéis]] definidos nos trabalhos de [[Richard Dedekind]].
+
+O rigor em matemática variou ao longo do tempo: os gregos antigos foram bastante rigorosos em suas argumentações; já no tempo da criação do Cálculo Diferencial e Integral, como as definições envolviam a noção de [[limite]] que, pelo conhecimento da época, só poderia ser tratada intuitivamente, o rigor foi menos intenso e muitos resultados eram estabelecidos com base na intuição. Isso levou a contradições e "falsos [[teoremas]]". Com isso, por volta do século XIX, alguns matemáticos, tais como [[Bolzano]], [[Karl Weierstrass]] e [[Cauchy]] dedicaram-se a criar definições e demonstrações mais rigorosas.
+
+A matemática ainda continua a se desenvolver intensamente por todo o mundo nos dias de hoje.
+
+O ensino da matemática e, na verdade, de outras matérias, desde o [[descobrimento do Brasil]], era ministrado pelos jesuítas até a expulsão deles em 1759. Desta data até 1808 os ex-alunos dos jesuítas ficaram encarregados pelo ensino. De 1808 a 1834 a matéria era ministrada nas escolas do Exército e da Marinha e a partir de 1873 também nas escolas de Engenharia. Em 1874 é criada a Escola Politécnica a partir da Escola Central, ex-Escola Militar. A Escola de Minas de Ouro Preto é criada em 1875 e a [[Escola Politécnica de São Paulo]] em 1893. Assim, o ensino de matemática passa também a ser oferecido em escolas não militares.&lt;ref name="múltipla"&gt;Honig, Chain S. e Gomide, Elza F. Capítulo 2: Ciências matemáticas. Pp. 35-60. In: História das ciências no Brasil. Coordenação: Ferri, Mário Guimarães e Motoyama, Shozo. São Paulo: EPU: Ed. da [[Universidade de São Paulo]], 1979. 390p.&lt;/ref&gt;
+
+== Áreas e metodologia ==
+As regras que governam as operações [[aritmética]]s são as da [[álgebra elementar]] e as propriedades mais profundas dos números inteiros são estudadas na [[teoria dos números]]. A investigação de métodos para resolver equações leva ao campo da [[álgebra abstrata]], que, entre outras coisas, estuda [[Teoria dos anéis|anéis]] e [[Corpo (matemática)|corpos]] — estruturas que generalizam as propriedades possuídas pelos [[número]]s. O conceito de [[vetor]], importante para a física, é generalizado no [[espaço vetorial]] e estudado na [[álgebra linear]], pertencendo aos dois ramos da estrutura e do espaço.
+
+[[Imagem:Woman teaching geometry.jpg|thumb|esquerda|O ensino da [[geometria]].]]
+
+O estudo do espaço se originou com a [[geometria]], primeiro com a [[geometria euclidiana]] e a [[trigonometria]]; mais tarde foram generalizadas nas geometrias não-euclidianas, as quais cumprem um papel central na formulação da [[teoria da relatividade]]. A [[teoria de Galois]] permitiu resolverem-se várias questões sobre construções geométricas com régua e compasso. A [[geometria diferencial]] e a [[geometria algébrica]] generalizam a geometria em diferentes direções: a geometria diferencial enfatiza o conceito de [[sistemas de coordenadas]], equilíbrio e direção, enquanto na geometria algébrica os objetos geométricos são descritos como conjuntos de solução de [[equação polinomial|equações polinomiais]]. A [[teoria dos grupos]] investiga o conceito de [[simetria]] de forma abstrata e fornece uma ligação entre os estudos do espaço e da estrutura. A [[Topologia (matemática)|topologia]] conecta o estudo do espaço e o estudo das transformações, focando-se no conceito de continuidade.
+
+Entender e descrever as alterações em quantidades mensuráveis é o tema comum das ciências naturais e o [[cálculo]] foi desenvolvido como a ferramenta mais útil para fazer isto. A descrição da variação de valor de uma grandeza é obtida por meio do conceito de [[função (matemática)|função]]. O campo das [[equação diferencial|equações diferenciais]] fornece métodos para resolver problemas que envolvem relações entre uma grandeza e suas variações. Os [[número real|números reais]] são usados para representar as quantidades contínuas e o estudo detalhado das suas propriedades e das propriedades de suas funções consiste na [[análise real]], a qual foi generalizada para [[análise complexa]], abrangendo os [[número complexo|números complexos]]. A [[análise funcional]] trata de funções definidas em espaços de dimensões tipicamente infinitas, constituindo a base para a formulação da [[mecânica quântica]], entre muitas outras coisas.
+
+Para esclarecer e investigar os [[fundamentos da matemática]], foram desenvolvidos os campos da [[teoria dos conjuntos]], [[lógica matemática]] e [[teoria dos modelos]].
+
+Quando os [[computador]]es foram concebidos, várias questões teóricas levaram à elaboração das teorias da [[teoria da computabilidade|computabilidade]], [[teoria da complexidade computacional|complexidade computacional]], [[teoria da informação|informação]] e [[teoria da informação algorítmica|informação algorítmica]], as quais são investigadas na [[ciência da computação]]
+
+[[Imagem:Mandelbrot Set in Complex Plane.png|thumb|O [[conjunto de Mandelbrot]].]]
+Uma [[teoria]] importante desenvolvida pelo ganhador do [[Prémio Nobel]], [[John Forbes Nash|John Nash]], é a [[teoria dos jogos]], que possui atualmente aplicações nos mais diversos campos, como no estudo de disputas comerciais.
+
+Os computadores também contribuíram para o desenvolvimento da [[teoria do caos]], que trata do fato de que muitos sistemas dinâmicos não-lineares possuem um comportamento que, na prática, é imprevisível. A teoria do caos tem relações estreitas com a [[geometria dos fractais]], como o conjunto de [[Mandelbrot]] e de Mary, descoberto por Lorenz, conhecido pelo atrator que leva seu nome.
+
+Um importante campo na [[matemática aplicada]] é a [[estatística]], que permite a descrição, análise e previsão de fenômenos aleatórios e é usada em todas as ciências. A [[análise numérica]] investiga os métodos para resolver numericamente e de forma eficiente vários problemas usando computadores e levando em conta os erros de arredondamento. A matemática discreta é o nome comum para estes campos da matemática úteis na ciência computacional.
+
+== Notação, linguagem e rigor ==
+[[Imagem:Infinity symbol.svg|thumb|esquerda|O símbolo do [[infinito]] '''∞''' em várias formas.]]
+
+{{Artigo principal|[[Notação matemática]]}}
+
+A maior parte da notação matemática em uso atualmente não havia sido inventada até o século XVI.&lt;ref&gt;[http://jeff560.tripod.com/mathsym.html Earliest Uses of Various Mathematical Symbols] (Contains many further references)&lt;/ref&gt; Antes disso, os matemáticos escreviam tudo em palavras, um processo trabalhoso que limitava as descobertas matemáticas. No século XVIII, [[Leonhard Euler|Euler]] foi responsável por muitas das notações em uso atualmente. A notação moderna deixou a matemática muito mais fácil para os profissionais, mas os iniciantes normalmente acham isso desencorajador. Isso é extremamente compreensivo: alguns poucos símbolos contém uma grande quantidade de [[informação]]. Assim como a [[notação musical]], a notação matemática moderna tem uma sintaxe restrita e informações que seriam difíceis de escrever de outro modo.
+
+A língua matemática pode também ser difícil para os iniciantes. Palavras como ''ou'' e ''apenas'' têm significados muito mais precisos do que a fala do dia-a-dia. Além disso, palavras como ''[[conjunto aberto|aberto]]'' e ''[[Campo (matemática)|campo]]'' têm recebido um significado matemático específico. O jargão matemático inclui termos técnicos como ''[[homeomorfismo]]'' e ''[[integral]]''. Mas há uma razão para a notação especial e o jargão técnico : matemática requer mais precisão do que a fala do dia-a-dia. Matemáticos se referem a essa precisão da [[linguagem]] e lógica como ''"rigor"''. &lt;!--
+
+[[Rigor]] is fundamentally a matter of [[mathematical proof]]. Mathematicians want their theorems to follow from axioms by means of systematic reasoning. This is to avoid mistaken "[[theorem]]s", based on fallible intuitions, of which many instances have occurred in the history of the subject.&lt;ref&gt;See [[false proof]] for simple examples of what can go wrong in a formal proof. The [[Four color theorem#History|history of the Four Color Theorem]] contains examples of false proofs accepted by other mathematicians.&lt;/ref&gt; The level of rigor expected in mathematics has varied over time: the Greeks expected detailed arguments, but at the time of [[Isaac Newton]] the methods employed were less rigorous. Problems inherent in the definitions used by Newton would lead to a resurgence of careful analysis and formal proof in the 19th century. Today, mathematicians continue to argue among themselves about [[computer-assisted proof]]s. Since large computations are hard to verify, such proofs may not be sufficiently rigorous.&lt;ref&gt;Ivars Peterson, ''The Mathematical Tourist'', Freeman, 1988, ISBN 0-7167-1953-3. p. 4 "A few complain that the computer program can't be verified properly," (in reference to the Haken-Apple proof of the Four Color Theorem). &lt;/ref&gt;
+
+[[Axiom]]s in traditional thought were "self-evident truths", but that conception is problematic. At a formal level, an axiom is just a string of [[symbolic logic|symbols]], which has an intrinsic meaning only in the context of all derivable formulas of an [[axiomatic system]]. It was the goal of [[Hilbert's program]] to put all of mathematics on a firm axiomatic basis, but according to [[Gödel's incompleteness theorem]] every (sufficiently powerful) axiomatic system has [[independence (mathematical logic)|undecidable]] formulas; and so a final [[axiomatization]] of mathematics is impossible. Nonetheless mathematics is often imagined to be (as far as its formal content) nothing but [[set theory]] in some axiomatization, in the sense that every mathematical statement or proof could be cast into formulas within set theory.&lt;ref&gt;Patrick Suppes, ''Axiomatic Set Theory'', Dover, 1972, ISBN 0-486-61630-4. p. 1, "Among the many branches of modern mathematics set theory occupies a unique place: with a few rare exceptions the entities which are studied and analyzed in mathematics may be regarded as certain particular sets or classes of objects." &lt;/ref&gt;--&gt;
+
+== Matemática como ciência ==
+=== Conceitos e tópicos ===
+{{Anexo|[[Anexo:Lista de tópicos em matemática|Lista de tópicos em matemática]]}}
+
+==== Quantidades ====
+{{Artigo principal|[[Número]]s}}
+
+O estudo de quantidades começa com os [[número]]s, primeiro os familiares [[número natural|números naturais]], depois os [[número inteiro|inteiros]], e as operações aritmética com eles, que é chamada de [[aritmética]]. As propriedades dos números inteiros são estudadas na [[teoria dos números]], dentre eles o popular [[Último Teorema de Fermat]]. A teoria dos números também inclui dois grandes problemas que ainda não foram resolvidos: [[conjectura dos primos gêmeos]] e [[conjectura de Goldbach]].
+
+Conforme o sistema de números foi sendo desenvolvido, os números inteiros foram considerados como um [[subconjunto]] dos [[número racional|números racionais]] ([[Fração|frações]]). Esses, por sua vez, estão contidos dentro dos [[número real|números reais]], que são usados para representar [[função contínua|quantidades contínuas]]. Números reais são parte dos [[número complexo|números complexos]]. Esses são os primeiros passos da hierarquia dos números que segue incluindo [[quaterniões]] e [[octoniões]].
+
+Considerações sobre os números naturais levaram aos [[Número transfinito|números transfinitos]], que formalizam o conceito de contar até o [[infinito]]. Outra área de estudo é o tamanho, que levou aos [[número cardinal|números cardinais]] e então a outro conceito de infinito : os [[Aleph (matemática)|números Aleph]], que permitem uma comparação entre o tamanho de conjuntos infinitamente largos.
+
+{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="20"
+| &lt;math&gt;1, 2, \ldots&lt;/math&gt; || &lt;math&gt;0, 1, -1, \ldots&lt;/math&gt; || &lt;math&gt;\frac{1}{2}, \frac{2}{3}, 0.125,\ldots&lt;/math&gt; || &lt;math&gt;\pi, e, \sqrt{2},\ldots&lt;/math&gt; || &lt;math&gt; i, 1+i, 2e^{i\pi/3},\ldots &lt;/math&gt;
+|-
+| [[número natural|Números naturais]] || [[número integral|Números inteiros]] || [[número racional|Números racionais]] || [[número real|Números reais]] || [[número complexo|Números complexos]]
+|-
+||&lt;math&gt;+,-,\times,\div&lt;/math&gt;||&lt;math&gt;\pi&lt;/math&gt;||&lt;math&gt;\omega, \omega + 1, \ldots, 2\omega, \ldots&lt;/math&gt; || &lt;math&gt;\aleph_0&lt;/math&gt;
+|-
+||[[Aritmética]] || [[Constante matemática]] || [[Número ordinal]] || [[Número cardinal]]
+|}
+
+==== Estrutura ====
+Muitos objetos matemáticos, tais como [[conjunto]]s de números e [[Função (matemática)|funções matemáticas]], exibem uma estrutura interna. As propriedades estruturais desses objetos são investigadas através do estudo de [[grupo]]s, [[anel (matemática)|anéis]], [[corpo]]s e outros sistemas abstratos, que são eles mesmos tais objetos. Este é o campo da [[álgebra abstrata]]. Um conceito importante é a noção de [[vetor]], que se generaliza quando são estudados os [[espaço vetorial]] em [[álgebra linear]]. O estudo de vetores combina três das áreas fundamentais da matemática: quantidade, estrutura e espaço.
+
+{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="20"
+| [[Imagem:Rubik's cube.svg|96px]] || [[Imagem:Matrix multiplication diagram.PNG|96px]] ||[[Imagem:Lattice of the divisibility of 60.svg|96px]] || [[Imagem:6n-graf.svg|128px]] || &lt;math&gt;(()(()()))&lt;/math&gt;
+|-
+| [[Álgebra abstrata]] || [[Álgebra linear]] || [[Teoria da ordem]] || [[Teoria dos grafos]] || [[Teoria dos operadores]]
+|}
+
+==== Espaço ====
+{{Artigo principal|[[Espaço#Espaço matemático|Espaço matemático]]}}
+
+O estudo do espaço se originou com a [[geometria]]&lt;ref&gt;[http://revistaescola.abril.com.br/matematica/pratica-pedagogica/direcao-dimensao-428166.shtml NOVA ESCOLA. Direção e dimensão]&lt;/ref&gt; - em particular, com a [[geometria euclidiana]]. [[Trigonometria]] combina o [[Espaço matemático|espaço]] e os [[número]]s, e contém o famoso [[teorema de Pitágoras]]. O estudo moderno do espaço generaliza essas ideias para incluir geometria de dimensões maiores, geometria não-euclidiana (que tem papel central na [[relatividade geral]]) e [[topologia]]. Quantidade e espaço juntos fazem a [[geometria analítica]], [[geometria diferencial]], e [[geometria algébrica]]. &lt;!--
+
+Within differential geometry are the concepts of [[fiber bundles]] and calculus on [[manifold]]s. Within algebraic geometry is the description of geometric objects as solution sets of [[polynomial]] equations, combining the concepts of quantity and space, and also the study of [[topological groups]], which combine structure and space. [[Lie group]]s are used to study space, structure, and change. [[Topology]] in all its many ramifications may have been the greatest growth area in 20th century mathematics, and includes the long-standing [[Poincaré conjecture]] and the controversial [[four color theorem]], whose only proof, by computer, has never been verified by a human.--&gt;
+
+{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="20"
+| [[Imagem:Torus.jpg|128px]] || [[Imagem:Pythagorean.svg|128px]] || [[Imagem:Sin.svg|160px]] || [[Imagem:Osculating circle.svg|128px]] || [[Imagem:Koch curve.png|128px]]
+|-
+| [[Topologia (matemática)|Topologia]] || [[Geometria]] || [[Trigonometria]] || [[Geometria diferencial]] || [[Geometria fractal]]
+|}
+
+==== Transformações ====
+Entender e descrever uma transformação é um tema comum na [[ciência natural]] e [[cálculo]] foi desenvolvido como uma poderosa ferramenta para investigar isso. Então as [[Função (matemática)|funções]] foram criadas, como um conceito central para descrever uma quantidade que muda com o passar do tempo. O rigoroso estudo dos [[número real|números reais]] e funções reais são conhecidos como [[análise real]], e a [[análise complexa]] a equivalente para os [[número complexo|números complexos]].
+
+A [[hipótese de Riemann]], uma das mais fundamentais perguntas não respondidas da matemática, é baseada na análise complexa. [[Análise funcional]] se foca no [[Espaço#Espaço matemático|espaço]] das funções. Uma das muitas aplicações da análise funcional é a [[Mecânica quântica]]. Muitos problemas levaram naturalmente a relações entre a quantidade e sua taxa de mudança, e esses problemas são estudados nas [[equação diferencial|equações diferenciais]]. Muitos fenômenos da natureza podem ser descritos pelos [[sistema dinâmico|sistemas dinâmicos]]; a [[teoria do caos]] descreve com precisão os modos com que muitos sistemas exibem um padrão imprevisível, porém ainda assim determinístico.
+
+{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="20"
+| [[Imagem:Integral as region under curve.svg|96px]] || [[Imagem:Vector field.svg|96px]] || [[Imagem:Airflow-Obstructed-Duct.png|96px]] || [[Imagem:Limitcycle.jpg|96px]] || [[Imagem:Lorenz attractor.svg|96px]]
+|-
+| [[Cálculo]] || [[Cálculo vetorial]]|| [[Equação diferencial|Equações diferenciais]] || [[Sistema dinâmico]] || [[Teoria do caos]]
+|}
+
+==== Fundações e métodos ====
+{{em tradução|:en:Mathematics|data=agosto de 2013|língua=inglesa|tipo=seção}}
+Para clarificar as [[fundações da matemática]], campos como a [[matemática lógica]] e a [[teoria dos conjuntos]] foram desenvolvidos, assim como a [[teoria das categorias]] que ainda está em desenvolvimento.
+
+&lt;!-- Necessita de tradução ---------------------------------------------
+The crisis of foundations, which is the early 20th century's term for the search for proper foundations of mathematics, is a persistent phenomenon; it is illustrated by a number of controversies, including the [[controversy over Cantor's theory]], the [[Brouwer-Hilbert controversy]] and the [[Bishop–Keisler controversy]].
+
+Mathematical logic is concerned with setting mathematics on a rigid [[axiom]]atic framework, and studying the results of such a framework. As such, it is home to [[Gödel's incompleteness theorems#Second incompleteness theorem|Gödel's second incompleteness theorem]], perhaps the most widely celebrated result in logic, which (informally) implies that any [[formal system]] that contains basic arithmetic, if ''sound'' (meaning that all theorems that can be proven are true), is necessarily ''incomplete'' (meaning that there are true theorems which cannot be proved ''in that system''). Gödel showed how to construct, whatever the given collection of number-theoretical axioms, a formal statement in the logic that is a true number-theoretical fact, but which does not follow from those axioms. Therefore no formal system is a true axiomatization of full number theory. Modern logic is divided into [[recursion theory]], [[model theory]], and [[proof theory]], and is closely linked to [[theoretical computer science|theoretical]] [[computer science]].
+-----------------------------------------------------------------------------------------------&gt;
+
+{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="20"
+| &lt;math&gt; p \Rightarrow q&lt;/math&gt;|| [[Imagem:Venn A intersect B.svg|128px]] || [[Imagem:Commutative diagram for morphism.svg|96px]]
+|-
+| [[Matemática lógica]] || [[Teoria dos conjuntos]] || [[Teoria das categorias]] ||
+|}
+
+=== Matemática discreta ===
+{{em tradução|:en:Mathematics|data=agosto de 2013|língua=inglesa|tipo=seção}}
+[[Matemática discreta]] é o nome comum para o campo da matemática mais geralmente usado na [[teoria da computação]]. Isso inclui a [[computabilidade]], [[complexidade computacional]] e [[teoria da informação]]. Computabilidade examina as limitações dos vários modelos teóricos do computador, incluindo o mais poderoso modelo conhecido - a [[máquina de Turing]].
+
+&lt;!-- Necessita de tradução -----------------------------------------------
+Complexity theory is the study of tractability by computer; some problems, although theoretically solvable by computer, are so expensive in terms of time or space that solving them is likely to remain practically unfeasible, even with rapid advance of computer hardware. Finally, information theory is concerned with the amount of data that can be stored on a given medium, and hence deals with concepts such as [[data compression|compression]] and [[Entropy (information theory)|entropy]].
+
+As a relatively new field, discrete mathematics has a number of fundamental open problems. The most famous of these is the "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Problems]].&lt;ref&gt;[http://www.claymath.org/millennium/P_vs_NP/ Clay Mathematics Institute] P=NP&lt;/ref&gt;
+-----------------------------------------------------------------------------------------------&gt;
+
+{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="20"
+| [[Imagem:Elliptic curve simple.png|96px]] || &lt;math&gt;\begin{matrix} (1,2,3) &amp; (1,3,2) \\ (2,1,3) &amp; (2,3,1) \\ (3,1,2) &amp; (3,2,1) \end{matrix}&lt;/math&gt;   || [[Imagem:DFAexample.svg|128px]] || [[Imagem:Caesar3.svg|128px]] || [[Imagem:6n-graf.svg|128px]]
+|-
+| [[Teoria de números]] ||[[Combinatória]] || [[Teoria da computação]] || [[Criptografia]] || [[Teoria de grafos]]
+|}
+
+=== Matemática aplicada ===
+[[Matemática aplicada]] considera o uso de ferramentas abstratas de matemática para resolver problemas concretos na [[ciência]], [[negócio]]s e outras áreas. Um importante campo na matemática aplicada é a [[estatística]], que usa a [[teoria das probabilidades]] como uma ferramenta e permite a descrição, análise e predição de fenômenos onde as chances tem um papel fundamental. Muitos estudos de experimentação, acompanhamento e observação requerem um uso de estatísticas.
+
+[[Análise numérica]] investiga métodos computacionais para resolver eficientemente uma grande variedade de problemas matemáticos que são tipicamente muito grandes para a capacidade numérica humana; isso inclui estudos de [[erro de arredondamento]] ou outras fontes de erros na computação.
+
+&lt;gallery&gt;
+Imagem:Gravitation space source.png|[[Física matemática]]
+Imagem:BernoullisLawDerivationDiagram.svg|[[Mecânica dos fluidos]]
+Imagem:Composite trapezoidal rule illustration small.svg|[[Análise numérica]]
+Imagem:Maximum boxed.png|[[Otimização]]
+Imagem:Two red dice 01.svg|[[Teoria das probabilidades]]
+Imagem:Oldfaithful3.png|[[Estatística]]
+Imagem:Market Data Index NYA on 20050726 202628 UTC.png|[[Matemática financeira]]
+Imagem:Arbitrary-gametree-solved.svg|[[Teoria dos jogos]]
+&lt;/gallery&gt;
+
+== Matemáticos notáveis ==
+{{Anexo|[[Anexo:Lista de matemáticos|Lista de matemáticos]]}}
+
+&lt;gallery&gt;
+Imagem:Persian Khwarazmi ir.jpg|[[al-Khwarizmi]]
+Imagem:Jean d'Alembert.jpeg|[[Jean le Rond d’Alembert|d’Alembert]]
+Imagem:Domenico-Fetti Archimedes 1620.jpg|[[Arquimedes]]
+Imagem:George Boole.jpg|[[George Boole|Boole]]
+Imagem:Brahmagupta.jpg|[[Brahmagupta]]
+Imagem:Matematiker georg cantor.jpg|[[Georg Cantor|Cantor]]
+Imagem:Augustin-Louis Cauchy 1901.jpg|[[Augustin Louis Cauchy|Cauchy]]
+Imagem:Dedekind.jpeg|[[Richard Dedekind|Dedekind]]
+Imagem:Frans Hals - Portret van René Descartes.jpg|[[René Descartes|Descartes]]
+Imagem:Euklid-von-Alexandria 1.jpg|[[Euclides]]
+Imagem:Leonhard Euler by Handmann .png|[[Leonhard Euler|Euler]]
+Imagem:Pierre de Fermat.jpg|[[Pierre de Fermat|Fermat]]
+Imagem:Galois.jpg|[[Évariste Galois|Galois]]
+Imagem:Carl Friedrich Gauss.jpg|[[Carl Friedrich Gauss|Gauss]]
+Imagem:1925 kurt gödel.png|[[Kurt Gödel|Gödel]]
+Imagem:WilliamRowanHamilton.jpeg|[[William Rowan Hamilton|Hamilton]] 
+Imagem:Hilbert.jpg|[[David Hilbert|Hilbert]]
+Imagem:Hypatia portrait.png|[[Hipátia]]
+Imagem:Carl Jacobi2.jpg|[[Carl Gustav Jakob Jacobi|Jacobi]]
+Imagem:033-Earth-could-not-answer-nor-the-Seas-that-mourn-q75-829x1159.jpg|[[Omar Khayyām|Khayyām]]
+Imagem:Felix Christian Klein.jpg|[[Felix Klein|Klein]]
+Imagem:Andrej Nikolajewitsch Kolmogorov.jpg|[[Andrei Kolmogorov|Kolmogorov]]
+Imagem:Лагранж.jpg|[[Joseph-Louis de Lagrange|Lagrange]]
+Imagem:Pierre-Simon Laplace.jpg|[[Pierre Simon Laplace|Laplace]]
+Imagem:Gottfried Wilhelm von Leibniz.jpg|[[Gottfried Wilhelm Leibniz|Leibniz]]
+Imagem:Lebesgue 2.jpeg|[[Henri Lebesgue|Lebesgue]]
+Imagem:John Forbes Nash, Jr. by Peter Badge.jpg|[[John Forbes Nash|Nash]]
+Imagem:JohnvonNeumann-LosAlamos.jpg|[[John von Neumann|Neumann]]
+Imagem:Sir Isaac Newton by Sir Godfrey Kneller, Bt.jpg|[[Sir Isaac Newton|Newton]]
+Imagem:Noether.jpg|[[Emmy Noether|Noether]]
+Imagem:Blaise Pascal 2.jpg|[[Blaise Pascal|Pascal]]
+Imagem:Giuseppe Peano.jpg|[[Giuseppe Peano|Peano]]
+Imagem:Kapitolinischer Pythagoras.jpg|[[Pitágoras]]
+Imagem:JH Poincare.jpg|[[Henri Poincaré|Poincaré]]
+Imagem:Lev Pontrjagin.jpg|[[Lev Pontryagin|Pontryagin]]
+Imagem:Srinivasa Ramanujan - OPC - 1.jpg|[[Srinivasa Ramanujan|Ramanujan]]
+Imagem:Riemann.jpg|[[Bernhard Riemann|Riemann]]
+Imagem:Russell1907-2.jpg|[[Bertrand Russell|Russell]]
+Imagem:JakobSteiner.jpg|[[Jakob Steiner|Steiner]]
+Imagem:Hermann Weyl ETH-Bib Portr 00890.jpg|[[Hermann Weyl|Weyl]]
+Imagem:Ernst Zermelo.jpeg|[[Ernst Zermelo|Zermelo]]
+&lt;/gallery&gt;
+{{referências}}
+
+== Bibliografia ==
+* BOYER, Carl B. ''História da matemática''. 2ª Edição. São Paulo: Edgard Blücher Ltda, 1996. ISBN 8521200234.
+* COURANT, Richard; ROBBINS, Herbert.  ''O que é Matemática?''. Ciência Moderna, 2000. ISBN 8573930217.
+* DEVLIN, Keith. ''Matemática: a Ciência dos Padrões''. Editora Porto, 2003. ISBN 9720451335.
+
+== Ver também ==
+{{correlatos
+|commons=Mathematics
+|wikiquote=Matemática
+|wikilivros=Matemática
+|wikcionario=Matemática
+|wikiversidade=Portal:Matemática e Estatística
+}}
+{{Portal-Matemática}}
+* '''Áreas da matemática'''
+** [[Aritmética]]
+** [[Álgebra]]
+*** [[Álgebra booleana]]
+** [[Geometria]]
+** [[Geometria analítica]]
+** [[Trigonometria]]
+** [[Porcentagem]]
+** [[Estatística]]
+** [[História da matemática]]
+* Disciplinas que evoluíram a partir da matemática:
+** [[Informática]]
+* [[Educação matemática]]
+* [[Problemas em aberto da Matemática]]
+* Olimpíadas
+** [[Olimpíada Internacional de Matemática]]
+** [[Olimpíada Brasileira de Matemática]]
+** [[Olimpíadas Portuguesas de Matemática]]
+** [[Olimpíada Paulista de Matemática]]
+** [[Olimpíada Brasileira de Matemática das Escolas Públicas]]
+* Prémios
+** [[Prémio Abel]]
+** [[Prémios Clay|Prémio Problemas do Milênio]] (Clay Math Prize)
+** [[Medalha Fields]]
+** [[Competições matemáticas]]
+* Softwares
+** Proprietários:
+*** [[Derive]]
+*** [[Maple]]
+*** [[Mathematica]]
+*** [[Matlab]]
+** Livres:
+*** [[Maxima]]
+*** [[Octave]]
+*** [[Scilab]]
+*** [[Geogebra]]
+
+== Ligações externas ==
+* [http://www.impa.br/ Instituto Nacional de Matemática Pura e Aplicada (IMPA), Brasil]
+
+{{Ciências}}
+
+{{Portal3|Matemática}}
+
+[[Categoria:Matemática| ]]
+
+{{Bom interwiki|de}}
+{{Bom interwiki|zh}}
+{{Link FA|ia}}
+{{Link FA|ka}}
+{{Link FA|la}}
+{{Link FA|mk}}
+{{Link FA|vo}}</text>
+      <sha1>800ca3n1bvq2h4un81hdphh2o1qa7mk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

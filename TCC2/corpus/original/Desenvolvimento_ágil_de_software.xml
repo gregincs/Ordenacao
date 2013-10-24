@@ -1,0 +1,234 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.22wmf21</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="446" case="first-letter">Ensino</namespace>
+      <namespace key="447" case="first-letter">Ensino Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Desenvolvimento ágil de software</title>
+    <ns>0</ns>
+    <id>74786</id>
+    <revision>
+      <id>37035062</id>
+      <parentid>37035060</parentid>
+      <timestamp>2013-10-03T01:03:03Z</timestamp>
+      <contributor>
+        <username>Zoldyick</username>
+        <id>930575</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:REV|Revertidas]] edições por [[Special:Contribs/177.170.67.124|177.170.67.124]] por [[WP:VLP|mudar a grafia]] (usando [[WP:H|Huggle]])</comment>
+      <text xml:space="preserve" bytes="22763">
+
+'''Desenvolvimento ágil de software''' (do inglês ''Agile software development'') ou '''Método ágil''' é um conjunto de [[Metodologia (engenharia de software)|metodologias]] de desenvolvimento de ''[[software]]''. O [[desenvolvimento]] ágil, tal como qualquer [[Metodologia (engenharia de software)|metodologia]] de ''software'', providencia uma estrutura conceitual para reger projetos de [[engenharia de software]].
+
+== Introdução ==
+Existem inúmeros frameworks de processos para desenvolvimento de [[software]]. A maioria dos métodos ágeis tenta minimizar o risco pelo desenvolvimento do software em curtos períodos, chamados de iteração, os quais gastam tipicamente menos de uma semana a até quatro. Cada iteração é como um projeto de software em miniatura de seu próprio, e inclui todas as tarefas necessárias para implantar o mini-incremento da nova funcionalidade: planejamento, [[análise de requisitos]], projeto, codificação, [[teste de software|teste]] e documentação. Enquanto em um processo convencional, cada iteração não está necessariamente focada em adicionar um novo conjunto significativo de funcionalidades, um projecto de software ágil busca a capacidade de implantar uma nova versão do software ao fim de cada iteração, etapa a qual a equipe responsável reavalia as prioridades do projecto.
+
+Métodos ágeis enfatizam comunicações em tempo real, preferencialmente face a face, a documentos escritos. A maioria dos componentes de um grupo ágil deve estar agrupada em uma [[sala]]. Isso inclui todas as pessoas necessárias para terminar o software: no mínimo, os programadores e seus ''clientes'' (clientes são as pessoas que definem o produto, eles podem ser os [[gerente]]s, [[analista de negócio|analistas de negócio]], ou realmente os [[cliente (comércio)|cliente]]s). Nesta sala devem também se encontrar os testadores, projectistas de iteração, [[redactores técnicos]] e gerentes.
+
+Métodos ágeis também enfatizam trabalho no software como uma medida primária de progresso. Combinado com a comunicação face-a-face, métodos ágeis produzem pouca documentação em relação a outros métodos, sendo este um dos pontos que podem ser considerados negativos. É recomendada a produção de documentação que realmente será útil.
+
+== Princípios ==
+Os princípios do desenvolvimento ágil valorizam
+
+* Garantir a satisfação do consumidor entregando rapidamente e continuamente softwares funcionais;
+* Softwares funcionais são entregues frequentemente (semanas, ao invés de meses);
+* Softwares funcionais são a principal medida de progresso do projecto;
+* Até mesmo mudanças tardias de escopo no projecto são bem-vindas.
+* Cooperação constante entre pessoas que entendem do 'negócio' e desenvolvedores;
+* Projetos surgem através de indivíduos motivados, entre os quais existe relação de confiança.
+* Design do software deve prezar pela excelência técnica;
+* Simplicidade;
+* Rápida adaptação às mudanças;
+* Indivíduos e interações mais do que processos e ferramentas;
+* ''Software'' funcional mais do que documentação extensa;
+* Colaboração com clientes mais do que negociação de contratos;
+* Responder a mudanças mais do que seguir um plano.
+
+== História ==
+As definições modernas de desenvolvimento de software ágil evoluíram a partir da metade de 1990 como parte de uma reação contra métodos "pesados", caracterizados por uma pesada regulamentação, regimentação e micro gerenciamento usado o [[modelo em cascata]] para desenvolvimento. O processo originou-se da visão de que o modelo em cascata era [[burocracia|burocrático]], lento e contraditório a forma usual com que os engenheiros de software sempre realizaram trabalho com eficiência.
+
+Uma visão que levou ao desenvolvimento de métodos ágeis e iterativos era retorno a prática de desenvolvimento vistas nos primórdios da história do desenvolvimento de software [http://www2.umassd.edu/SWPI/xp/articles/r6047.pdf].
+
+Inicialmente, métodos ágeis eram conhecidos como ''métodos leves''. Em [[2001]], membros proeminentes da comunidade se reuniram em Snowbird e adotaram o nome ''métodos ágeis'', tendo publicado o [[Manifesto ágil]], documento que reúne os princípios e práticas desta metodologia de desenvolvimento. Mais tarde, algumas pessoas formaram a ''Agile Alliance'', uma organização não lucrativa que promove o desenvolvimento ágil.
+
+Os métodos ágeis iniciais—criado a priore em 2000— incluíam [[Scrum]] (1986), [[Crystal Clear]], [[Programação extrema]] (1996), [[Adaptive Software Development]], [[Feature Driven Development]], and [[Dynamic Systems Development Method]] (1995).
+
+== Comparações com outros métodos ==
+Métodos Ágeis são algumas vezes caracterizados como o oposto de metodologias ''guiadas pelo planejamento'' ou ''disciplinadas''. Uma distinção mais acurada é dizer que os métodos existem em um contínuo do ''adaptativo'' até o ''preditivo''.&lt;ref&gt;{{Referência a livro
+ | Autor = B. Boehm
+ | Título = Balancing Agility and Discipline: A Guide for the Perplexed
+ | Edição = 2
+ | Local de publicação = Boston,MA
+ | Editora = Addison-Wesley
+ | Ano = 2004
+ | Páginas = 165-194
+ | ID = ISBN 0-321-18612-5}}&lt;/ref&gt; Métodos ágeis existem do lado adaptativo deste contínuo.
+Métodos adaptativos buscam a adaptação rápida a mudanças da realidade. Quando uma necessidade de um projeto muda, uma equipe adaptativa mudará também. Um time adaptativo terá dificuldade em descrever o que irá acontecer no futuro. O que acontecerá em uma data futura é um item de difícil predição para um método adaptativo. Uma equipe adaptativa pode relatar quais tarefas se iniciarão na próxima semana. Quando perguntado acerca de uma implantação que ocorrerá daqui a seis meses, uma equipe adaptativa deve ser capaz somente de relatar a instrução de missão para a implantação, ou uma expectativa de valor versus custo.
+
+Métodos preditivos, em contraste, colocam o planejamento do futuro em detalhe. Uma equipe preditiva pode reportar exatamente quais aspectos e tarefas estão planejados para toda a linha do processo de desenvolvimento. Elas porém tem dificuldades de mudar de direção. O plano é tipicamente otimizado para o objetivo original e mudanças de direção podem causar a perda de todo o trabalho e determinar que seja feito tudo novamente. Equipes preditivas freqüentemente instituem um [[comitê de controle de mudança]] para assegurar que somente as mudanças mais importantes sejam consideradas.
+
+Métodos ágeis têm muito em comum com técnicas de ''[[Rapid Application Development|Desenvolvimento rápido de aplicação]]'' de 1980 como exposto por James Martin e outros.
+
+=== Comparação com o desenvolvimento iterativo ===
+A maioria dos métodos ágeis compartilha a ênfase no [[Desenvolvimento iterativo e incremental]] para a construção de versões implantadas do software em curtos períodos de tempo. Métodos ágeis diferem dos métodos iterativos porque seus períodos de tempo são medidos em semanas, ao invés de meses, e a realização é efetuada de uma maneira altamente colaborativa. estendendo-se a tudo.
+
+=== Comparação com o modelo em cascata ===
+O desenvolvimento ágil tem pouco em comum com o [[modelo em cascata]]. Na visão de alguns este modelo é desacreditado, apesar de ser um modelo de uso comum. O modelo em cascata é uma das metodologias com maior ênfase no [[planejamento]], seguindo seus passos através da captura dos requisitos, análise, projeto, codificação e testes em uma seqüência pré-planejada e restrita. O progresso é geralmente medido em termos de entrega de artefatos—especificação de requisitos, documentos de projeto, [[plano de teste|planos de teste]], revisão do código, e outros. O modelo em cascata resulta em uma substancial integração e esforço de teste para alcançar o fim do ciclo de vida, um período que tipicamente se estende por vários meses ou anos. O tamanho e dificuldade deste esforço de integração e teste é uma das causas das falhas do projeto em cascata. Métodos ágeis, pelo contrário, produzem um desenvolvimento completo e teste de aspectos (mas um pequeno subconjunto do todo) num período de poucas semanas ou meses. Enfatiza a obtenção de pequenos pedaços de funcionalidades executáveis para agregar valor ao negócio cedo, e continuamente agregar novas funcionalidades através do [[ciclo de vida]] do projeto.
+
+Algumas equipes ágeis usam o modelo em cascata em pequena escala, repetindo o ciclo de cascata inteiro em cada iteração. Outras equipes, mais especificamente as equipes de [[Programação extrema]], trabalham com atividades simultaneamente.
+
+=== Comparação com a "codificação cowboy" ===
+A [[codificação cowboy]], também chamada de [[Modelo Balbúrdia]], é a ausência de metodologias de desenvolvimento de Software: os membros da equipe fazem o que eles sentem que é correto. Como os desenvolvedores que utilizam métodos ágeis freqüentemente reavaliam os planos, enfatizam a comunicação face a face e fazem o uso relativamente esparso de documentos, ocasionalmente levam as pessoas a confundirem isto com codificação ''cowboy''. Equipes ágeis, contudo, seguem o processo definido (e freqüentemente de forma disciplinada e rigorosa).
+
+Como em todas as metodologias, o conhecimento e a experiência dos usuários definem o grau de sucesso e/ou fracasso de cada atividade. Os controles mais rígidos e sistematizados aplicados em um processo implicam altos níveis de responsabilidade para os usuários. A degradação de procedimentos bem-intencionados e organizados pode levar as atividades a serem caracterizadas como codificação ''cowboy''.
+
+== Aplicabilidade dos métodos ágeis ==
+Embora os métodos ágeis apresentem diferenças entre suas práticas, eles compartilham inúmeras características em comum, incluindo o desenvolvimento iterativo, e um foco na comunicação interativa e na redução do esforço empregado em artefatos intermediários. (Cohen et al., 2004)&lt;ref name="cohen2004"&gt;Cohen, D., Lindvall, M., &amp; Costa, P. (2004). An introduction to agile methods. In ''Advances in Computers'' (pp. 1-66). New York: Elsevier Science.&lt;/ref&gt; A aplicabilidade dos métodos ágeis em geral pode ser examinada de múltiplas perspectivas. Da perspectiva do produto, métodos ágeis são mais adequados quando os requisitos estão emergindo e mudando rapidamente, embora não exista um consenso completo neste ponto (Cohen et al., 2004).&lt;ref name="cohen2004"/&gt; De uma perspectiva organizacional,  a aplicabilidade pode ser expressa examinando três dimensões chaves da organização: cultura, pessoal e comunicação. Em relação a estas áreas inúmeros fatores chave do sucesso podem ser identificados (Cohen et al., 2004):&lt;ref name="cohen2004"/&gt;
+
+* A cultura da organização deve apoiar a negociação.
+* As pessoas devem ser confiantes.
+* Poucas pessoas, mas competentes.
+* A organização deve promover as decisões que os desenvolvedores tomam.
+* A Organização necessita ter um ambiente que facilite a rápida comunicação entre os membros.
+
+O fator mais importante é provavelmente o tamanho do projeto (Cohen et al., 2004)..&lt;ref name="cohen2004"/&gt; Com o aumento do tamanho, a comunicação face a face se torna mais difícil. Portanto, métodos ágeis são mais adequados para projetos com pequenos times, com no máximo de 20 a 40 pessoas.
+
+De forma a determinar a aplicabilidade de métodos ágeis específicos, uma análise mais sofisticada é necessária. O [[método dinâmico para o desenvolvimento de sistemas]], por exemplo, provê o denominado 'filtro de aplicabilidade' para este propósito. Também, a família de métodos Crystal provê uma caracterização de quando selecionar o método para um projeto. A seleção é baseada no tamanho do projeto, criticidade e prioridade. Contudo, outros métodos ágeis não fornecem um instrumento explícito para definir sua aplicabilidade a um projeto.
+
+Alguns métodos ágeis, como DSDM e [[Feature Driven Development]], afirmam se aplicar a qualquer projeto de desenvolvimento ágil, sem importar suas características (Abrahamsonn et al., 2003).&lt;ref name= Abrahamsson2003&gt;Abrahamsson, P., Warsta, J., Siponen, M.T., &amp; Ronkainen, J. (2003). New Directions on Agile Methods: A Comparative Analysis. ''Proceedings of ICSE'03'', 244-254&lt;/ref&gt;
+
+A comparação dos métodos ágeis irá revelar que eles suportam diferentes fases de um ciclo de vida do software em diferentes níveis. Estas características individuais dos métodos ágeis podem ser usadas como um critério de seleção de sua aplicabilidade.
+
+Desenvolvimentos ágeis vêm sendo amplamente documentados (ver [[#Experiências relatadas|Experiências relatadas]], abaixo, como também em Beck,&lt;ref name="beck1999"&gt;{{Referência a livro|Autor=K. Beck|Título=Extreme Programming Explained: Embrace Change|publisher=Addison-Wesley|Local de publicação=Boston, MA|ano=1999|id=ISBN 0-321-27865-8|Páginas=157}}&lt;/ref&gt; e Boehm &amp; Turner&lt;ref name="boehm2004"&gt;{{Referência a livro| Autor=B. Boehm|Título=Balancing Agility and Discipline: A Guide for the Perplexed|Editora=Addison-Wesley|Local de publicação =Boston, MA|ano=2004|id=ISBN 0-321-18612-5|Páginas = 55-57}}&lt;/ref&gt;) como funcionando bem para equipes pequenas (&lt; 10 desenvolvedores). O desenvolvimento ágil é particularmente adequado para equipes que têm que lidar com mudanças rápidas ou imprevisíveis nos requisitos.
+
+A aplicabilidade do desenvolvimento ágil para os seguintes cenários é ainda uma questão aberta:
+
+* esforços de desenvolvimento em larga escala (&gt; 20 desenvolvedores), embora estratégias para maiores escalas tenham sido descritas.&lt;ref name="supersizeme"&gt;{{Citar web |url=http://www.sdmagazine.com/documents/s=10020/sdm0603g/0603g.html |título=Supersize Me |língua=  |autor= |obra= |data= |acessodata=}}&lt;/ref&gt;
+* esforços de desenvolvimento distribuído (equipes não co-alocadas). Estas estratégias tem sido descritas em  ''Bridging the Distance''&lt;ref name="BridgingTheDistance"&gt;{{Citar web |url=http://www.sdmagazine.com/documents/s=7556/sdm0209i/sdm0209i.htm |título=Bridging the Distance |língua=  |autor= |obra= |data= |acessodata=}}&lt;/ref&gt; e ''Using an Agile Software Process with Offshore Development''&lt;ref name="AgileOffshore"&gt;{{Citar web |url=http://www.martinfowler.com/articles/agileOffshore.html |título=Using an Agile Software Process with Offshore Development |língua=  |autor= |obra= |data= |acessodata=}}&lt;/ref&gt;
+* esforços críticos de missão e vida.
+* Companhias com uma cultura de comando e controle.
+
+[[Barry Boehm]] e [[Richard Turner (software)|Richard Turner]] sugeriram que [[análise de risco]] pode ser usada para escolher entre métodos adaptativos ("ágeis") e preditivos ("dirigidos pelo planejamento").&lt;ref name="boehm2004"/&gt; Os autores sugerem que cada lado deste contínuo possui seu ''ambiente ideal"
+
+Ambiente ideal para o desenvolvimento ágil:
+
+* Baixa criticidade
+* Desenvolvedores senior
+* Mudanças freqüente de requisitos
+* Pequeno número de desenvolvedores
+* Cultura que tem sucesso no caos.
+
+Ambiente ideal para o desenvolvimento direcionado ao planejamento:
+
+* Alta criticidade
+* Desenvolvedores Junior
+* Baixa mudança nos requisitos
+* Grande número de desenvolvedores
+* Cultura que procura a ordem.
+
+== Adaptabilidade dos métodos ágeis ==
+Um método deve ser bastante flexível para permitir ajustes durante a execução do projeto. Há três problemas chaves relacionados ao tópico de adaptação dos métodos ágeis: '''a aplicabilidade dos métodos ágeis''' (no geral e no particular), e finalmente, o '''suporte ao [[gerenciamento de projeto]]'''.
+
+== Métodos ágeis e o gerenciamento de projeto ==
+Os métodos ágeis diferem largamente no que diz respeito a forma de serem gerenciados. Alguns métodos são suplementados com guias para direcionar o gerenciamento do projeto, mas nem todos são aplicáveis.&lt;ref name="Abrahamsson2003"&gt;Abrahamsson, P., Warsta, J., Siponen, M.T., &amp; Ronkainen, J. (2003). New Directions on Agile Methods: A Comparative Analysis. ''Proceedings of ICSE'03'', 244-254.&lt;/ref&gt;
+
+[[PRINCE2]]™ tem sido considerado como um sistema de gerenciamento de projeto complementar e adequado.&lt;ref name="Prince2DSDM"&gt;Agile Alliance at [http://agilealliancebeta.org/article/file/904/file.pdf http://agilealliancebeta.org/article/file/904/file.pdf]: ''&lt;/ref&gt;
+
+Uma característica comum dos processos ágeis é a capacidade de funcionar em ambientes muito exigentes que tem um grande número de incertezas e flutuações (mudanças) que podem vir de várias fontes como: equipe em processo de formação que ainda não trabalhou junto em outros projetos, requisitos voláteis, baixo conhecimento do domínio de negócio pela equipe, adoção de novas tecnologias, novas ferramentas, mudanças muito bruscas e rápidas no ambiente de negócios das empresas: novos concorrentes, novos produtos, novos modelos de negócio.
+
+Sistemas de [[gerenciamento de projetos]] lineares e prescritivos, neste tipo de ambiente, falham em oferecer as características necessárias para responder de forma ágil as mudanças requeridas. Sua adoção pode incrementar desnecessariamente os riscos, o custo, o prazo e baixar a qualidade do produto gerado, desgastando a equipe e todos os envolvidos no processo.
+
+A abordagem [[Scrum]], para gestão de projetos ágeis, leva em consideração planejamento não linear, porém de maneira mais exaustiva e está focada em agregar valor para o cliente e em gerenciar os riscos, fornecendo um ambiente seguro. Pode ser utilizada na gestão do projeto aliada a uma metodologia de desenvolvimento como [[Programação Extrema]], [[Feature Driven Development|FDD]], [[OpenUP]], [[DSDM]], [[Crystal Clear|Crystal]] ou outras.
+
+== Metodologias ==
+* [[Programação extrema]]
+* [[Scrum]]
+
+'''Albert Joseph ; Ercilia Chilaule ; Francelino      Itc(I2cv)''' 
+* [[Feature Driven Development]]
+* [[DSDM]]
+* Adaptive Software Development
+* Crystal
+* Pragmatic Programming
+* {{Link|pt|2=http://www.improveit.com.br/xp/praticas/tdd |3='''Test Driven Development'''}}
+
+== Críticas ==
+O método de desenvolvimento ágil é algumas vezes criticado como [[codificação cowboy]]. O início da [[Programação extrema]] soava como controverso e dogmático, tal como a [[programação por pares]] e o [[projeto contínuo]], tem sido alvo particular de críticos, tais como McBreen&lt;ref name="mcbreen"&gt;{{Referência a livro|Autor=P. McBreen|Titulo= Questioning Extreme Programming|Editora= Addison-Wesley| Local de publicação= Boston, MA|Ano=2003| id=ISBN 0-201-84457-5}}&lt;/ref&gt; e Boehm e Turner.&lt;ref name="boehm2004"/&gt; Contudo, muitas destas críticas têm sido vistas pelos defensores dos métodos ágeis como mal entendidos a respeito do desenvolvimento ágil.&lt;ref name="sdmagazine1811"&gt;{{Citar web |url=http://www.sdmagazine.com/documents/s=1811/sdm0112h/0112h.htm |título=sdmagazine |língua=  |autor= |obra= |data= |acessodata=}}&lt;/ref&gt;
+
+Em particular, a [[Programação extrema]] é revista e criticada por Matt Stephens' Extreme Programming Refactored.&lt;ref name= "ExtremeProgrammingRefactored" &gt;{{Citar web |url=http://www.softwarereality.com/ExtremeProgrammingRefactored.jsp |título=Extreme Programming Refactored |língua=  |autor= |obra= |data= |acessodata=}}&lt;/ref&gt;
+
+As críticas incluem
+* falta de estrutura e documentação necessárias
+* somente trabalhar com desenvolvedores de nível sênior
+* incorpora de forma insuficiente o projeto de software
+* requer a adoção de muita mudança cultural
+* poder levar a maiores dificuldades nas negociações contratuais
+
+{{Referências|col=2}}
+
+== Futuras leituras ==
+* Fowler, Martin. [http://www.martinfowler.com/articles/designDead.html ''Is Design Dead?'']. Appeared in ''Extreme Programming Explained'', G. Succi and M. Marchesi, ed.,  Addison-Wesley, Boston.  2001.
+* Riehle, Dirk. [http://www.riehle.org/computer-science/research/2000/xp-2000.html ''A Comparison of the Value Systems of Adaptive Software Development and Extreme Programming: How Methodologies May Learn From Each Other'']. Appeared in ''Extreme Programming Explained'', G. Succi and M. Marchesi, ed.,  Addison-Wesley, Boston.  2001.
+* Tomek, Ivan.  ''What I Learned Teaching XP''. [http://www.whysmalltalk.com/articles/tomek/teachingxp.htm http://www.whysmalltalk.com/articles/tomek/teachingxp.htm]
+* M. Stephens, D. Rosenberg.  ''Extreme Programming Refactored: The Case Against XP''. Apress L.P., Berkeley, California.  2003. (ISBN 1-59059-096-1)
+* D. Rosenberg, M. Stephens.  ''Agile Development with ICONIX Process''. Apress L.P., Berkeley, California.  2005. (ISBN 1-59059-464-9)
+* Beck, et. al.,  ''Manifesto for Agile Software Development''. [http://www.agilemanifesto.org/]
+* Larman, Craig and Basili, Victor R. [http://www2.umassd.edu/SWPI/xp/articles/r6047.pdf ''Iterative and Incremental Development:A Brief History '' IEEE Computer, June 2003]
+* Abrahamsson, P., Warsta, J., Siponen, M.T., &amp; Ronkainen, J. (2003). New Directions on Agile Methods: A Comparative Analysis. ''Proceedings of ICSE'03'', 244-254.
+* Abrahamsson, P., Salo, O., Ronkainen, J., &amp; Warsta, J. (2002). Agile Software Development Methods: Review and Analysis. ''VTT Publications 478''.
+* Aydin, M.N., Harmsen, F., Slooten, K. v., &amp; Stagwee, R. A. (2004). An Agile Information Systems Development Method in use. ''Turk J Elec Engin, 12(2),'' 127-138
+* Aydin, M.N., Harmsen, F., Slooten van K., &amp; Stegwee, R.A. (2005). On the Adaptation of An Agile Information Systems Development Method. ''Journal of Database Management Special issue on Agile Analysis, Design, and Implementation, 16(4),'' 20-24
+* Cohen, D., Lindvall, M., &amp; Costa, P. (2004). An introduction to agile methods. In ''Advances in Computers'' (pp.&amp;nbsp;1–66). New York: Elsevier Science.
+* Karlstrom, D., &amp; Runeson P. (2005). Combining agile methods with stage-gate project management. ''IEEE Software, 22(3),'' 43-49
+
+== {{Ligações externas}} ==
+* {{Link|en|2=http://www.agilemanifesto.org/iso/ptbr/ |3=Manifesto para Desenvolvimento Ágil de Software}}
+* {{Link|en|2=http://www.agilealliance.org |3=The Agile Alliance}}
+* {{Link|pt|2=http://agilcoop.incubadora.fapesp.br/portal/agilcast |3=Agilcast (podcast sobre Desenvolvimento Ágil de Software)}}
+* {{Link|pt|2=http://www.agilealliance.com.br |3=Agile Alliance Brasil}}
+* {{Link|pt|2=http://www.improveit.com.br/xp/dissertacaoXP.pdf |3=Dissertação de Mestrado: Um Estudo de Caso da Adoção das Práticas e Valores do Extreme Programming (PDF)}}
+
+{{Engenharia de software}}
+{{Processo de desenvolvimento de software}}
+
+{{DEFAULTSORT:Desenvolvimento Agil Software}}
+[[Categoria:Desenvolvimento de software]]</text>
+      <sha1>p4pntpnctomcrdf7i76nt0rzm80iq4m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>
